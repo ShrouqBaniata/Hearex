@@ -1,0 +1,24 @@
+[01-Feb-2026 09:36:56 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Mapping\Factory\ClassResolverTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CacheClassMetadataFactory.php on line 22
+[01-Feb-2026 09:47:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\Factory\ClassMetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CompiledClassMetadataFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CompiledClassMetadataFactory.php on line 22
+[01-Feb-2026 09:49:36 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Mapping\Factory\ClassResolverTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/ClassMetadataFactory.php on line 23
+[02-Feb-2026 08:24:43 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Mapping\Factory\ClassResolverTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CacheClassMetadataFactory.php on line 22
+[02-Feb-2026 08:24:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\Factory\ClassMetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CompiledClassMetadataFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CompiledClassMetadataFactory.php on line 22
+[02-Feb-2026 08:25:39 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Mapping\Factory\ClassResolverTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/ClassMetadataFactory.php on line 23
+[26-Feb-2026 07:30:34 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Mapping\Factory\ClassResolverTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CacheClassMetadataFactory.php on line 22
+[26-Feb-2026 07:38:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\Factory\ClassMetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CompiledClassMetadataFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CompiledClassMetadataFactory.php on line 22
+[26-Feb-2026 07:39:25 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Mapping\Factory\ClassResolverTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/ClassMetadataFactory.php on line 23
+[26-Feb-2026 08:24:33 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Mapping\Factory\ClassResolverTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CacheClassMetadataFactory.php on line 22
+[26-Feb-2026 08:25:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\Factory\ClassMetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CompiledClassMetadataFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/CompiledClassMetadataFactory.php on line 22
+[26-Feb-2026 08:28:33 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Mapping\Factory\ClassResolverTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/Factory/ClassMetadataFactory.php on line 23

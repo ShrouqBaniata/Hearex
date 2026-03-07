@@ -1,0 +1,8 @@
+[01-Dec-2025 00:17:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/website1/public_html/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[02-Feb-2026 03:38:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/website1/public_html/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36

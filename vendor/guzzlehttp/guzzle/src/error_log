@@ -1,0 +1,58 @@
+[29-Nov-2025 07:49:57 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[29-Nov-2025 18:38:18 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[29-Nov-2025 22:00:43 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[05-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[05-Dec-2025 03:13:34 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[31-Jan-2026 08:15:32 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[31-Jan-2026 18:18:11 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[31-Jan-2026 21:54:53 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[01-Feb-2026 14:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[03-Feb-2026 16:54:53 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[03-Feb-2026 16:55:25 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[03-Feb-2026 16:56:31 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[03-Feb-2026 16:58:42 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[25-Feb-2026 05:18:55 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[25-Feb-2026 05:43:17 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[25-Feb-2026 15:28:27 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[25-Feb-2026 15:56:00 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[25-Feb-2026 19:03:11 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[25-Feb-2026 19:35:21 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Client.php on line 17

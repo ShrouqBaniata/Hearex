@@ -1,0 +1,308 @@
+[28-Nov-2025 22:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php on line 14
+[28-Nov-2025 22:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\InvalidArgumentException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php on line 17
+[28-Nov-2025 23:02:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php on line 19
+[28-Nov-2025 23:03:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php on line 14
+[28-Nov-2025 23:06:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php on line 19
+[28-Nov-2025 23:07:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\UnexpectedTypeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedValueException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedValueException.php on line 17
+[28-Nov-2025 23:11:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php on line 19
+[28-Nov-2025 23:12:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php on line 17
+[28-Nov-2025 23:13:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php on line 19
+[28-Nov-2025 23:14:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php on line 14
+[28-Nov-2025 23:20:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php on line 14
+[28-Nov-2025 23:21:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php on line 14
+[28-Nov-2025 23:23:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php on line 14
+[28-Nov-2025 23:30:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php on line 19
+[02-Dec-2025 17:44:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php on line 14
+[02-Dec-2025 17:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\InvalidArgumentException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php on line 17
+[02-Dec-2025 17:48:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php on line 19
+[02-Dec-2025 17:50:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php on line 14
+[02-Dec-2025 17:54:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php on line 19
+[02-Dec-2025 17:55:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php on line 14
+[02-Dec-2025 17:57:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php on line 19
+[02-Dec-2025 17:59:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php on line 14
+[02-Dec-2025 18:01:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\UnexpectedTypeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedValueException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedValueException.php on line 17
+[02-Dec-2025 18:03:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php on line 14
+[02-Dec-2025 18:04:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php on line 17
+[02-Dec-2025 18:05:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\InvalidArgumentException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php on line 17
+[02-Dec-2025 18:07:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php on line 19
+[02-Dec-2025 18:08:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php on line 14
+[02-Dec-2025 18:10:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php on line 14
+[02-Dec-2025 18:13:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php on line 19
+[02-Dec-2025 18:14:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php on line 14
+[02-Dec-2025 18:15:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php on line 19
+[02-Dec-2025 18:24:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php on line 19
+[02-Dec-2025 18:25:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php on line 14
+[02-Dec-2025 18:26:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php on line 14
+[02-Dec-2025 18:27:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php on line 19
+[02-Dec-2025 18:28:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php on line 19
+[02-Dec-2025 18:30:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php on line 14
+[02-Dec-2025 18:31:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\InvalidArgumentException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php on line 17
+[02-Dec-2025 18:32:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php on line 14
+[02-Dec-2025 18:34:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php on line 17
+[02-Dec-2025 18:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php on line 14
+[02-Dec-2025 18:39:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php on line 19
+[02-Dec-2025 18:40:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php on line 19
+[02-Dec-2025 18:44:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php on line 14
+[24-Feb-2026 20:33:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php on line 14
+[24-Feb-2026 20:34:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\InvalidArgumentException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php on line 17
+[24-Feb-2026 20:40:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php on line 19
+[24-Feb-2026 20:41:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\UnexpectedTypeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedValueException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedValueException.php on line 17
+[24-Feb-2026 20:42:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/MissingOptionsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/MissingOptionsException.php on line 14
+[24-Feb-2026 20:43:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/GroupDefinitionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/GroupDefinitionException.php on line 14
+[24-Feb-2026 20:44:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php on line 14
+[24-Feb-2026 20:45:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php on line 19
+[24-Feb-2026 20:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php on line 17
+[24-Feb-2026 20:48:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ConstraintDefinitionException.php on line 14
+[24-Feb-2026 20:48:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\InvalidArgumentException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnsupportedMetadataException.php on line 17
+[24-Feb-2026 20:50:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/BadMethodCallException.php on line 19
+[24-Feb-2026 20:50:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php on line 14
+[24-Feb-2026 20:52:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php on line 19
+[24-Feb-2026 20:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php on line 14
+[24-Feb-2026 20:54:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php on line 19
+[24-Feb-2026 20:56:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidOptionsException.php on line 14
+[24-Feb-2026 20:56:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php on line 19
+[24-Feb-2026 20:57:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\UnexpectedTypeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedValueException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedValueException.php on line 17
+[24-Feb-2026 20:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php on line 14
+[24-Feb-2026 20:58:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/GroupDefinitionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/GroupDefinitionException.php on line 14
+[24-Feb-2026 20:58:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php on line 14
+[24-Feb-2026 20:59:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidationFailedException.php on line 19
+[24-Feb-2026 21:00:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/MissingOptionsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/MissingOptionsException.php on line 14
+[24-Feb-2026 21:01:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/NoSuchMetadataException.php on line 17
+[24-Feb-2026 21:04:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/UnexpectedTypeException.php on line 14
+[24-Feb-2026 21:07:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/OutOfBoundsException.php on line 19
+[24-Feb-2026 21:08:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/ValidatorException.php on line 14
+[24-Feb-2026 21:09:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/InvalidArgumentException.php on line 19
+[24-Feb-2026 21:11:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/RuntimeException.php on line 19
+[24-Feb-2026 21:12:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Validator\Exception\ValidatorException" not found in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/MappingException.php on line 14
+[24-Feb-2026 21:13:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Exception/LogicException.php on line 14

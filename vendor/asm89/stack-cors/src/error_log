@@ -1,0 +1,24 @@
+[29-Nov-2025 15:37:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php on line 18
+[01-Dec-2025 07:27:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php on line 18
+[31-Jan-2026 15:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php on line 18
+[02-Feb-2026 10:54:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php on line 18
+[25-Feb-2026 12:25:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php on line 18
+[25-Feb-2026 13:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/asm89/stack-cors/src/Cors.php on line 18

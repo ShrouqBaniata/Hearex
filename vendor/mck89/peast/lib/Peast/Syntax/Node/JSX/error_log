@@ -1,0 +1,12 @@
+[03-Feb-2026 09:33:39 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[03-Feb-2026 09:34:36 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\JSX\JSXBoundaryElement" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[03-Feb-2026 09:35:41 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19

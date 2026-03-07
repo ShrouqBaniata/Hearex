@@ -1,0 +1,28 @@
+[29-Nov-2025 18:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[02-Dec-2025 20:37:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[02-Dec-2025 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[31-Jan-2026 17:54:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[03-Feb-2026 04:29:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[25-Feb-2026 15:00:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[25-Feb-2026 15:30:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22

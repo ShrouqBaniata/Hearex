@@ -1,0 +1,16 @@
+[06-Dec-2025 06:01:31 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Helper\Dumper\BaseDumper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Dumper/DryDumper.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Dumper/DryDumper.php on line 16
+[03-Feb-2026 07:36:27 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Helper\Dumper\BaseDumper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Dumper/DryDumper.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Dumper/DryDumper.php on line 16
+[03-Feb-2026 08:21:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Dumper/BaseDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Dumper/BaseDumper.php on line 19
+[03-Feb-2026 08:47:46 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Helper\Dumper\BaseDumper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Dumper/FileSystemDumper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Dumper/FileSystemDumper.php on line 14

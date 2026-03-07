@@ -1,0 +1,60 @@
+[29-Nov-2025 11:41:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[29-Nov-2025 13:37:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[29-Nov-2025 15:01:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php on line 24
+[31-Jan-2026 11:53:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[31-Jan-2026 13:42:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[31-Jan-2026 15:03:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php on line 24
+[03-Feb-2026 16:22:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[03-Feb-2026 16:23:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[03-Feb-2026 16:23:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php on line 24
+[25-Feb-2026 08:59:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[25-Feb-2026 09:20:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[25-Feb-2026 10:41:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[25-Feb-2026 11:10:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[25-Feb-2026 12:04:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php on line 24
+[25-Feb-2026 12:34:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/http-message/src/RequestInterface.php on line 24

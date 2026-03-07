@@ -1,0 +1,16 @@
+[28-Nov-2025 11:40:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/consolidation/self-update/src/SelfUpdateCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/self-update/src/SelfUpdateCommand.php on line 20
+[02-Feb-2026 01:34:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/consolidation/self-update/src/SelfUpdateCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/self-update/src/SelfUpdateCommand.php on line 20
+[03-Feb-2026 12:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/consolidation/self-update/src/SelfUpdateCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/self-update/src/SelfUpdateCommand.php on line 20
+[24-Feb-2026 10:08:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/consolidation/self-update/src/SelfUpdateCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/self-update/src/SelfUpdateCommand.php on line 20

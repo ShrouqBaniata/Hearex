@@ -1,0 +1,27 @@
+{
+  "name": "drupal/sc_swiper",
+  "type": "drupal-module",
+  "description": "Provide Swiper library integration.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "npm-asset/swiper": "^11.1"
+  },
+  "repositories": {
+    "npm-asset.swiper": {
+      "type": "package",
+      "package": {
+        "name": "npm-asset/swiper",
+        "type": "drupal-library",
+        "version": "11.1.14",
+        "dist": {
+          "type": "tar",
+          "url": "https://registry.npmjs.org/swiper/-/swiper-11.1.14.tgz"
+        },
+        "license": [
+          "MIT"
+        ]
+      }
+    }
+  }
+}

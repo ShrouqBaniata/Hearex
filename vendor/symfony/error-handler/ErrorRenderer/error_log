@@ -1,0 +1,116 @@
+[28-Nov-2025 10:27:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[28-Nov-2025 12:04:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[28-Nov-2025 13:32:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[29-Nov-2025 06:33:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[29-Nov-2025 06:37:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[29-Nov-2025 06:38:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[29-Nov-2025 06:44:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[29-Nov-2025 06:44:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[29-Nov-2025 06:54:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[29-Nov-2025 06:57:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[29-Nov-2025 06:59:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[04-Dec-2025 06:58:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[04-Dec-2025 06:59:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[04-Dec-2025 08:21:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[30-Jan-2026 15:07:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[30-Jan-2026 15:08:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[30-Jan-2026 16:32:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[31-Jan-2026 07:15:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[31-Jan-2026 07:16:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[31-Jan-2026 07:17:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[24-Feb-2026 08:40:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[24-Feb-2026 10:07:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[24-Feb-2026 10:07:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[24-Feb-2026 10:33:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[24-Feb-2026 11:35:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[24-Feb-2026 11:40:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[25-Feb-2026 04:39:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[25-Feb-2026 04:40:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[25-Feb-2026 04:41:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25

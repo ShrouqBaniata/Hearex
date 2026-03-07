@@ -1,0 +1,16 @@
+[01-Feb-2026 22:35:46 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Gulp\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Gulp/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Gulp/Run.php on line 22
+[02-Feb-2026 00:36:02 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Gulp/Base.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Gulp/Base.php on line 10
+[03-Feb-2026 18:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Gulp\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Gulp/Run.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Gulp/Run.php on line 22
+[03-Feb-2026 18:42:29 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Gulp/Base.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Gulp/Base.php on line 10

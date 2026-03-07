@@ -1,0 +1,112 @@
+[29-Nov-2025 07:53:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/psy/psysh/src/Shell.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Shell.php on line 54
+[29-Nov-2025 18:11:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionClosure" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php on line 22
+[30-Nov-2025 01:30:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php on line 17
+[01-Dec-2025 01:16:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/psy/psysh/src/Shell.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Shell.php on line 54
+[01-Dec-2025 01:17:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php on line 17
+[01-Dec-2025 01:21:46 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionClosure" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php on line 22
+[01-Dec-2025 01:30:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/psy/psysh/src/Shell.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Shell.php on line 54
+[01-Dec-2025 01:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionClosure" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php on line 22
+[01-Dec-2025 01:38:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php on line 17
+[05-Dec-2025 01:26:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionClosure" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php on line 22
+[05-Dec-2025 05:00:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php on line 17
+[05-Dec-2025 07:16:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php on line 17
+[31-Jan-2026 08:21:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/psy/psysh/src/Shell.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Shell.php on line 54
+[31-Jan-2026 18:09:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionClosure" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php on line 22
+[01-Feb-2026 01:09:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php on line 17
+[01-Feb-2026 06:16:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php on line 17
+[02-Feb-2026 05:29:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/psy/psysh/src/Shell.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Shell.php on line 54
+[02-Feb-2026 05:30:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionClosure" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php on line 22
+[02-Feb-2026 05:31:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php on line 17
+[02-Feb-2026 05:32:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php on line 17
+[25-Feb-2026 05:25:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/psy/psysh/src/Shell.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Shell.php on line 54
+[25-Feb-2026 05:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/psy/psysh/src/Shell.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Shell.php on line 54
+[25-Feb-2026 15:15:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionClosure" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php on line 22
+[25-Feb-2026 15:45:01 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionClosure" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoopClosure.php on line 22
+[25-Feb-2026 22:44:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php on line 17
+[25-Feb-2026 23:11:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SuperglobalsEnv.php on line 17
+[26-Feb-2026 03:53:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php on line 17
+[26-Feb-2026 04:24:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\EnvInterface" not found in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/SystemEnv.php on line 17

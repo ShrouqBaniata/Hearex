@@ -1,0 +1,44 @@
+[29-Nov-2025 06:19:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php on line 32
+[02-Dec-2025 21:56:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php on line 32
+[02-Dec-2025 22:29:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php on line 32
+[31-Jan-2026 06:58:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php on line 32
+[01-Feb-2026 06:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Stream.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Stream.php on line 19
+[03-Feb-2026 05:33:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php on line 32
+[03-Feb-2026 05:34:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Stream.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Stream.php on line 19
+[25-Feb-2026 03:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php on line 32
+[25-Feb-2026 04:23:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/UploadedFile.php on line 32
+[26-Feb-2026 04:31:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Stream.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Stream.php on line 19
+[26-Feb-2026 05:03:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Stream.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Stream.php on line 19

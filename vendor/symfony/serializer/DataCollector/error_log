@@ -1,0 +1,24 @@
+[28-Nov-2025 19:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php on line 26
+[01-Dec-2025 10:06:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php on line 26
+[01-Dec-2025 11:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php on line 26
+[01-Dec-2025 11:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php on line 26
+[24-Feb-2026 17:56:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php on line 26
+[24-Feb-2026 17:58:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/DataCollector/SerializerDataCollector.php on line 26

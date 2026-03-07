@@ -1,0 +1,16 @@
+[01-Feb-2026 20:03:50 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Links/Task.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Links/Task.php on line 20
+[01-Feb-2026 20:04:45 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Links/Menu.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Links/Menu.php on line 20
+[01-Feb-2026 20:06:55 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Links/Action.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Links/Action.php on line 20
+[01-Feb-2026 21:04:32 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Links/Contextual.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Links/Contextual.php on line 20

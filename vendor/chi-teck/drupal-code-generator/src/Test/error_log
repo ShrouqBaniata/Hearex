@@ -1,0 +1,24 @@
+[29-Nov-2025 22:29:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php on line 20
+[05-Dec-2025 03:35:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php on line 20
+[31-Jan-2026 22:34:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php on line 20
+[03-Feb-2026 18:22:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php on line 20
+[25-Feb-2026 19:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php on line 20
+[25-Feb-2026 20:15:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/GeneratorTest.php on line 20

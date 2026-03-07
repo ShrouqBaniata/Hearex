@@ -1,0 +1,2 @@
+[01-Feb-2026 16:41:02 UTC] PHP Fatal error:  Trait "Consolidation\Config\Util\ConfigInterpolatorTrait" not found in /home/website1/public_html/vendor/consolidation/config/src/Config.php on line 9
+[03-Feb-2026 01:12:25 UTC] PHP Fatal error:  Trait "Consolidation\Config\Util\ConfigInterpolatorTrait" not found in /home/website1/public_html/vendor/consolidation/config/src/Config.php on line 9

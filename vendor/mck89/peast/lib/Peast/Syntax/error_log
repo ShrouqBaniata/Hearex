@@ -1,0 +1,5 @@
+[01-Feb-2026 10:57:13 UTC] PHP Fatal error:  Trait "Peast\Syntax\JSX\Scanner" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Scanner.php on line 17
+[03-Feb-2026 09:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\ParserAbstract" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Parser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Parser.php on line 17

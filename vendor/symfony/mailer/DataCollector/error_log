@@ -1,0 +1,32 @@
+[29-Nov-2025 05:50:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php on line 23
+[02-Dec-2025 18:12:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php on line 23
+[02-Dec-2025 18:24:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php on line 23
+[02-Dec-2025 18:52:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php on line 23
+[31-Jan-2026 06:35:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php on line 23
+[03-Feb-2026 03:29:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php on line 23
+[25-Feb-2026 03:29:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php on line 23
+[25-Feb-2026 03:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DataCollector/MessageDataCollector.php on line 23

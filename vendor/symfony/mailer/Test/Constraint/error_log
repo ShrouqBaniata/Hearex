@@ -1,0 +1,24 @@
+[01-Feb-2026 07:52:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[01-Feb-2026 08:22:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php on line 17
+[26-Feb-2026 05:33:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[26-Feb-2026 06:01:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php on line 17
+[26-Feb-2026 06:13:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[26-Feb-2026 06:24:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php on line 17

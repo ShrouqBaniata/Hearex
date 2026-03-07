@@ -1,0 +1,16 @@
+[02-Dec-2025 18:47:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Renderer/TwigRenderer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Renderer/TwigRenderer.php on line 16
+[06-Dec-2025 01:21:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Renderer/TwigRenderer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Renderer/TwigRenderer.php on line 16
+[03-Feb-2026 03:41:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Renderer/TwigRenderer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Renderer/TwigRenderer.php on line 16
+[03-Feb-2026 17:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Renderer/TwigRenderer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Renderer/TwigRenderer.php on line 16

@@ -1,0 +1,12 @@
+[01-Feb-2026 17:16:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/tests/FilterOutputDataTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/tests/FilterOutputDataTest.php on line 8
+[01-Feb-2026 18:39:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/tests/OpTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/tests/OpTest.php on line 8
+[01-Feb-2026 19:10:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/tests/FactoryTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/tests/FactoryTest.php on line 8

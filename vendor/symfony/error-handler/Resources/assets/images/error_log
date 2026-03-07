@@ -1,0 +1,4 @@
+[01-Feb-2026 18:50:56 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/website1/public_html/vendor/symfony/error-handler/Resources/assets/images/symfony-ghost.svg.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Resources/assets/images/symfony-ghost.svg.php on line 1

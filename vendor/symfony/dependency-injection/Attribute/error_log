@@ -1,0 +1,268 @@
+[28-Nov-2025 17:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireLocator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 15
+[28-Nov-2025 17:32:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 26
+[28-Nov-2025 17:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireIterator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 15
+[28-Nov-2025 20:40:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[28-Nov-2025 22:17:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autoconfigure" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 20
+[28-Nov-2025 22:33:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 22
+[28-Nov-2025 22:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 20
+[29-Nov-2025 00:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[01-Dec-2025 15:07:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 26
+[01-Dec-2025 15:09:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireIterator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 15
+[01-Dec-2025 15:17:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireLocator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 15
+[01-Dec-2025 15:28:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[01-Dec-2025 15:31:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autoconfigure" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 20
+[01-Dec-2025 15:32:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 22
+[01-Dec-2025 15:42:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 20
+[01-Dec-2025 15:46:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[01-Dec-2025 16:27:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 26
+[01-Dec-2025 16:28:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireIterator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 15
+[01-Dec-2025 16:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireLocator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 15
+[01-Dec-2025 16:34:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[01-Dec-2025 16:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 22
+[01-Dec-2025 16:55:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autoconfigure" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 20
+[01-Dec-2025 16:56:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 20
+[01-Dec-2025 17:00:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[01-Dec-2025 17:08:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 22
+[01-Dec-2025 17:09:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireIterator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 15
+[01-Dec-2025 17:10:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[01-Dec-2025 17:12:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireLocator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 15
+[01-Dec-2025 17:15:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autoconfigure" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 20
+[01-Dec-2025 17:17:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 26
+[01-Dec-2025 17:21:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 20
+[01-Dec-2025 17:56:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 26
+[01-Dec-2025 17:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireLocator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 15
+[01-Dec-2025 17:59:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireIterator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 15
+[01-Dec-2025 18:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[01-Dec-2025 18:18:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 22
+[01-Dec-2025 18:24:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autoconfigure" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 20
+[01-Dec-2025 18:33:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[01-Dec-2025 18:37:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 20
+[30-Jan-2026 21:31:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireIterator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 15
+[30-Jan-2026 21:32:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 26
+[30-Jan-2026 21:33:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireLocator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 15
+[31-Jan-2026 00:09:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[31-Jan-2026 00:49:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 22
+[31-Jan-2026 02:00:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[02-Feb-2026 13:36:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 26
+[02-Feb-2026 13:38:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireIterator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 15
+[02-Feb-2026 13:39:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireLocator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 15
+[02-Feb-2026 13:54:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[02-Feb-2026 14:00:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 22
+[02-Feb-2026 14:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[24-Feb-2026 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireIterator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 15
+[24-Feb-2026 15:37:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 26
+[24-Feb-2026 15:38:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireLocator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 15
+[24-Feb-2026 15:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireLocator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 15
+[24-Feb-2026 15:43:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\AutowireIterator" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 15
+[24-Feb-2026 15:44:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 26
+[24-Feb-2026 18:37:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[24-Feb-2026 18:47:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[24-Feb-2026 20:04:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autoconfigure" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 20
+[24-Feb-2026 20:16:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 22
+[24-Feb-2026 20:16:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autoconfigure" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 20
+[24-Feb-2026 20:27:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 20
+[24-Feb-2026 20:31:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 22
+[24-Feb-2026 20:43:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Attribute\Autowire" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 20
+[24-Feb-2026 22:36:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[24-Feb-2026 22:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14

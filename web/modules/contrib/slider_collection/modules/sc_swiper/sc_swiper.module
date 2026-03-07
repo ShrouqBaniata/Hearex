@@ -1,0 +1,111 @@
+<?php
+
+/**
+ * @file
+ * Slider collection Tiny Slider functionality.
+ */
+
+use Drupal\Component\Utility\Crypt;
+use Drupal\Component\Utility\Html;
+use Drupal\Core\Routing\RouteMatchInterface;
+use Drupal\slider_collection\Event\AlterEntitySettingsEvent;
+use Drupal\slider_collection\Event\AlterViewSettingsEvent;
+use Drupal\slider_collection\Event\SliderCollectionEvents;
+
+/**
+ * Implements hook_help().
+ */
+function sc_swiper_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    case 'help.page.sc_swiper':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Swiper: Download code at: https://www.npmjs.com/package/swiper') . '</p>';
+      return $output;
+
+    default:
+  }
+
+  return NULL;
+}
+
+/**
+ * Implements hook_theme().
+ */
+function sc_swiper_theme() {
+  return [
+    'swiper_views' => [
+      'variables' => [],
+    ],
+    'swiper_entity_formatter' => [
+      'variables' => [
+        'object' => NULL,
+        'content' => [],
+        'settings' => [],
+      ],
+    ],
+  ];
+}
+
+/**
+ * Prepares variables for Swiper templates.
+ *
+ * Default template: swiper-views.html.twig.
+ */
+function template_preprocess_swiper_views(array &$variables) {
+  $handler = $variables['view']->style_plugin;
+  $options = $handler->options ?? [];
+
+  // Allow users to override settings.
+  \Drupal::service('event_dispatcher')
+    ->dispatch(new AlterViewSettingsEvent($options, $variables['view']), SliderCollectionEvents::ALTER_VIEW_SETTINGS);
+
+
+  _sc_swiper_process_swiper($variables, $options);
+
+  template_preprocess_views_view_unformatted($variables);
+}
+
+/**
+ * Prepares variables for Swiper entity formatter templates.
+ *
+ * Default template: swiper-entity-formatter.html.twig.
+ */
+function template_preprocess_swiper_entity_formatter(array &$variables) {
+  $options = $variables['settings'];
+
+  // Allow users to override settings.
+  \Drupal::service('event_dispatcher')
+    ->dispatch(new AlterEntitySettingsEvent($options, $variables['object']), SliderCollectionEvents::ALTER_ENTITY_SETTINGS);
+
+  _sc_swiper_process_swiper($variables, $variables['settings']);
+}
+
+/**
+ * Process swiper element.
+ *
+ * @param array $variables
+ *   Array with variables.
+ * @param array $options
+ *   Swiper options.
+ */
+function _sc_swiper_process_swiper(array &$variables, array $options) {
+  $swiper = \Drupal::service('sc_swiper.swiper');
+  $settings = $swiper->formattedSettings($options);
+
+  // Used JSON_FORCE_OBJECT to force the numbers
+  // in the $settings array keys.
+  $variables['id'] = 'swiper';
+  $variables['attributes']['id'] = Html::getUniqueId('swiper-' . Crypt::randomBytesBase64(8));
+  $variables['attributes']['data-swiper'] = json_encode($settings, JSON_FORCE_OBJECT);
+  $variables['attributes']['class'][] = 'swiper';
+
+  $variables['scrollbar'] = (bool) $settings['scrollbar'];
+  $variables['navigation'] = (bool) $settings['navigation'];
+  $variables['pagination'] = (bool) $settings['pagination'];
+
+  $attached = [
+    '#attached' => ['library' => ['sc_swiper/swiper-views']],
+  ];
+  \Drupal::service('renderer')->render($attached);
+}

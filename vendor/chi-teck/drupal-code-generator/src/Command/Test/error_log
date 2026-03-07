@@ -1,0 +1,40 @@
+[30-Nov-2025 19:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Unit.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Unit.php on line 21
+[30-Nov-2025 23:32:42 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Browser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Browser.php on line 21
+[01-Dec-2025 00:15:39 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Kernel.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Kernel.php on line 21
+[01-Dec-2025 01:04:59 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/WebDriver.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/WebDriver.php on line 22
+[01-Dec-2025 01:22:37 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Nightwatch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Nightwatch.php on line 21
+[01-Feb-2026 23:14:08 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Unit.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Unit.php on line 21
+[02-Feb-2026 02:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Browser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Browser.php on line 21
+[02-Feb-2026 03:29:12 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Kernel.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Kernel.php on line 21
+[02-Feb-2026 05:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Nightwatch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/Nightwatch.php on line 21
+[02-Feb-2026 05:37:37 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/WebDriver.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Test/WebDriver.php on line 22

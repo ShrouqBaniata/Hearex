@@ -1,0 +1,84 @@
+[29-Nov-2025 08:39:05 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Transformations\TableTransformation" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php on line 5
+[29-Nov-2025 10:13:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php on line 7
+[29-Nov-2025 20:05:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php on line 7
+[30-Nov-2025 01:49:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php on line 12
+[31-Jan-2026 08:56:38 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Transformations\TableTransformation" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php on line 5
+[31-Jan-2026 10:29:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php on line 7
+[31-Jan-2026 20:00:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php on line 7
+[01-Feb-2026 01:21:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php on line 12
+[01-Feb-2026 14:45:13 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Transformations\TableTransformation" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php on line 5
+[01-Feb-2026 14:46:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php on line 7
+[01-Feb-2026 14:47:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php on line 7
+[01-Feb-2026 14:48:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php on line 12
+[01-Feb-2026 17:11:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\StructuredData\TableDataInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/TableTransformation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/TableTransformation.php on line 12
+[25-Feb-2026 06:00:26 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Transformations\TableTransformation" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php on line 5
+[25-Feb-2026 06:26:00 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Transformations\TableTransformation" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/PropertyListTableTransformation.php on line 5
+[25-Feb-2026 07:32:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php on line 7
+[25-Feb-2026 07:55:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataTransformation.php on line 7
+[25-Feb-2026 17:05:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php on line 7
+[25-Feb-2026 17:36:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\StringTransformationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/UnstructuredDataListTransformation.php on line 7
+[25-Feb-2026 23:00:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php on line 12
+[25-Feb-2026 23:25:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Transformations/DomToArraySimplifier.php on line 12

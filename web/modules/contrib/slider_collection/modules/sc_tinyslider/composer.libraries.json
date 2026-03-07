@@ -1,0 +1,24 @@
+{
+  "name": "drupal/sc_tinyslider",
+  "type": "drupal-module",
+  "description": "Provide TinySlider library integration.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "ganlanyuan/tiny-slider": "^2.9"
+  },
+  "repositories": {
+    "ganlanyuan.tiny-slider": {
+      "type": "package",
+      "package": {
+        "name": "ganlanyuan/tiny-slider",
+        "version": "2.9.3",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/ganlanyuan/tiny-slider/archive/refs/tags/v2.9.3.zip",
+          "type": "zip"
+        }
+      }
+    }
+  }
+}

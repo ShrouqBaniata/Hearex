@@ -1,0 +1,20 @@
+[29-Nov-2025 17:39:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[31-Jan-2026 17:31:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[03-Feb-2026 14:53:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[25-Feb-2026 14:39:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[25-Feb-2026 15:07:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27

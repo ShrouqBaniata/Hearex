@@ -1,0 +1,92 @@
+[28-Nov-2025 14:35:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Definition\ConfigurableInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php on line 21
+[28-Nov-2025 17:51:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php on line 25
+[28-Nov-2025 20:32:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Extension\ExtensionInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php on line 27
+[01-Dec-2025 06:41:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php on line 25
+[01-Dec-2025 06:42:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Extension\ExtensionInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php on line 27
+[01-Dec-2025 06:43:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Definition\ConfigurableInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php on line 21
+[01-Dec-2025 06:45:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php on line 25
+[01-Dec-2025 06:55:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Definition\ConfigurableInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php on line 21
+[01-Dec-2025 06:56:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php on line 25
+[01-Dec-2025 06:57:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Extension\ExtensionInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php on line 27
+[04-Dec-2025 09:47:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Definition\ConfigurableInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php on line 21
+[30-Jan-2026 17:58:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Definition\ConfigurableInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php on line 21
+[30-Jan-2026 21:56:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php on line 25
+[31-Jan-2026 00:08:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Extension\ExtensionInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php on line 27
+[02-Feb-2026 10:29:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Definition\ConfigurableInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php on line 21
+[02-Feb-2026 10:29:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php on line 25
+[02-Feb-2026 10:30:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Extension\ExtensionInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php on line 27
+[24-Feb-2026 12:41:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Definition\ConfigurableInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php on line 21
+[24-Feb-2026 13:06:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Config\Definition\ConfigurableInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/ConfigurableExtensionInterface.php on line 21
+[24-Feb-2026 16:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php on line 25
+[24-Feb-2026 16:08:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/AbstractExtension.php on line 25
+[24-Feb-2026 18:31:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Extension\ExtensionInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php on line 27
+[24-Feb-2026 18:40:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Extension\ExtensionInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Extension/Extension.php on line 27

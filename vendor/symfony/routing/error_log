@@ -1,0 +1,116 @@
+[28-Nov-2025 12:36:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[28-Nov-2025 15:01:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[29-Nov-2025 01:18:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/website1/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Router.php on line 38
+[01-Dec-2025 13:25:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Dec-2025 13:35:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Dec-2025 13:36:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[01-Dec-2025 13:38:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/website1/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Router.php on line 38
+[01-Dec-2025 13:57:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Dec-2025 14:02:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/website1/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Router.php on line 38
+[01-Dec-2025 14:08:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[01-Dec-2025 14:13:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/website1/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Router.php on line 38
+[01-Dec-2025 14:16:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Dec-2025 14:55:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Dec-2025 15:04:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[01-Dec-2025 15:47:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/website1/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Router.php on line 38
+[04-Dec-2025 07:38:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[04-Dec-2025 10:13:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[30-Jan-2026 15:49:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[30-Jan-2026 18:49:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[31-Jan-2026 02:03:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/website1/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Router.php on line 38
+[02-Feb-2026 12:58:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[02-Feb-2026 12:59:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[02-Feb-2026 13:04:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/website1/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Router.php on line 38
+[24-Feb-2026 11:00:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[24-Feb-2026 11:04:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[24-Feb-2026 13:06:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[24-Feb-2026 13:32:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/RouteCompiler.php on line 20
+[24-Feb-2026 22:50:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/website1/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Router.php on line 38
+[24-Feb-2026 23:05:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/website1/public_html/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Router.php on line 38

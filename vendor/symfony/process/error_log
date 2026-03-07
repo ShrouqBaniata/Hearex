@@ -1,0 +1,72 @@
+[28-Nov-2025 16:11:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[29-Nov-2025 00:46:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php on line 44
+[01-Dec-2025 12:16:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[01-Dec-2025 12:32:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php on line 44
+[01-Dec-2025 12:43:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[01-Dec-2025 12:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[01-Dec-2025 12:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php on line 44
+[01-Dec-2025 13:04:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[01-Dec-2025 13:08:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php on line 44
+[04-Dec-2025 11:08:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[30-Jan-2026 20:01:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[31-Jan-2026 01:47:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php on line 44
+[02-Feb-2026 12:18:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[02-Feb-2026 12:18:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php on line 44
+[24-Feb-2026 14:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[24-Feb-2026 14:28:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[24-Feb-2026 22:22:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php on line 44
+[24-Feb-2026 22:38:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/PhpSubprocess.php on line 44

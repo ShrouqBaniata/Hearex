@@ -1,0 +1,52 @@
+[05-Dec-2025 10:43:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[05-Dec-2025 11:03:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[05-Dec-2025 11:43:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[01-Feb-2026 09:23:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[01-Feb-2026 10:18:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[01-Feb-2026 11:50:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[01-Feb-2026 22:26:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[01-Feb-2026 22:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[01-Feb-2026 22:27:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[26-Feb-2026 07:00:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[26-Feb-2026 07:45:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[26-Feb-2026 07:50:32 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[26-Feb-2026 08:40:50 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14

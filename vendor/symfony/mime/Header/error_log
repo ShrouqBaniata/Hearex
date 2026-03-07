@@ -1,0 +1,156 @@
+[29-Nov-2025 13:12:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\UnstructuredHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php on line 19
+[29-Nov-2025 15:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[29-Nov-2025 16:11:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[29-Nov-2025 19:14:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Header\HeaderInterface" not found in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[29-Nov-2025 21:50:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[30-Nov-2025 04:59:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php on line 22
+[30-Nov-2025 05:03:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php on line 19
+[31-Jan-2026 13:16:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\UnstructuredHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php on line 19
+[31-Jan-2026 15:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[31-Jan-2026 16:04:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[31-Jan-2026 19:12:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Header\HeaderInterface" not found in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[31-Jan-2026 21:51:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[01-Feb-2026 03:59:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php on line 22
+[01-Feb-2026 04:05:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php on line 19
+[01-Feb-2026 08:53:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/MailboxHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/MailboxHeader.php on line 22
+[03-Feb-2026 10:06:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\UnstructuredHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php on line 19
+[03-Feb-2026 10:07:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[03-Feb-2026 10:08:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[03-Feb-2026 10:09:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Header\HeaderInterface" not found in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[03-Feb-2026 10:10:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[03-Feb-2026 10:11:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php on line 19
+[03-Feb-2026 10:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php on line 22
+[03-Feb-2026 10:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/MailboxHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/MailboxHeader.php on line 22
+[25-Feb-2026 10:16:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\UnstructuredHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php on line 19
+[25-Feb-2026 10:44:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\UnstructuredHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php on line 19
+[25-Feb-2026 12:35:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[25-Feb-2026 13:04:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[25-Feb-2026 13:09:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[25-Feb-2026 13:37:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[25-Feb-2026 16:17:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Header\HeaderInterface" not found in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[25-Feb-2026 16:48:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Header\HeaderInterface" not found in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[25-Feb-2026 19:01:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[25-Feb-2026 19:32:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[26-Feb-2026 01:34:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php on line 22
+[26-Feb-2026 01:36:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php on line 19
+[26-Feb-2026 02:07:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/PathHeader.php on line 22
+[26-Feb-2026 02:08:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/DateHeader.php on line 19
+[26-Feb-2026 06:31:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/MailboxHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/MailboxHeader.php on line 22
+[26-Feb-2026 07:17:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/website1/public_html/vendor/symfony/mime/Header/MailboxHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Header/MailboxHeader.php on line 22

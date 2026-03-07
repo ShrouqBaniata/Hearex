@@ -1,0 +1,8 @@
+[01-Feb-2026 16:48:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\StructuredData\Xml\XmlSchemaInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/StructuredData/Xml/XmlSchema.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/StructuredData/Xml/XmlSchema.php on line 5
+[02-Feb-2026 00:24:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\StructuredData\Xml\XmlSchemaInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/StructuredData/Xml/XmlSchema.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/StructuredData/Xml/XmlSchema.php on line 5

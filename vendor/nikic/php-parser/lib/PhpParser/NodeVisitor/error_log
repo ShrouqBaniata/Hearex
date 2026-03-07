@@ -1,0 +1,16 @@
+[03-Feb-2026 17:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/CommentAnnotatingVisitor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/CommentAnnotatingVisitor.php on line 10
+[03-Feb-2026 19:00:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/ParentConnectingVisitor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/ParentConnectingVisitor.php on line 19
+[03-Feb-2026 22:15:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/FirstFindingVisitor.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/FirstFindingVisitor.php on line 13
+[03-Feb-2026 22:15:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NodeConnectingVisitor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NodeConnectingVisitor.php on line 19

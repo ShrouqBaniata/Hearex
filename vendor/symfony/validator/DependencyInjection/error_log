@@ -1,0 +1,96 @@
+[28-Nov-2025 13:31:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php on line 23
+[28-Nov-2025 13:33:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php on line 23
+[28-Nov-2025 13:37:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php on line 22
+[02-Dec-2025 06:20:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php on line 22
+[02-Dec-2025 06:21:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php on line 23
+[02-Dec-2025 06:23:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php on line 23
+[02-Dec-2025 06:31:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php on line 23
+[02-Dec-2025 06:37:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php on line 23
+[02-Dec-2025 06:41:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php on line 22
+[04-Dec-2025 08:40:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php on line 23
+[04-Dec-2025 08:41:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php on line 22
+[04-Dec-2025 08:42:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php on line 23
+[30-Jan-2026 16:52:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php on line 23
+[30-Jan-2026 16:53:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php on line 22
+[30-Jan-2026 16:54:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php on line 23
+[02-Feb-2026 18:13:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php on line 23
+[02-Feb-2026 18:14:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php on line 22
+[02-Feb-2026 18:15:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php on line 23
+[24-Feb-2026 11:47:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php on line 23
+[24-Feb-2026 11:48:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php on line 22
+[24-Feb-2026 11:49:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php on line 23
+[24-Feb-2026 12:00:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddConstraintValidatorsPass.php on line 23
+[24-Feb-2026 12:01:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddValidatorInitializersPass.php on line 22
+[24-Feb-2026 12:02:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DependencyInjection/AddAutoMappingConfigurationPass.php on line 23

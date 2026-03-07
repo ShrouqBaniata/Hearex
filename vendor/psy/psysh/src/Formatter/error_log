@@ -1,0 +1,44 @@
+[30-Nov-2025 03:22:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[05-Dec-2025 06:04:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[05-Dec-2025 11:32:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/CodeFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 20
+[01-Feb-2026 02:54:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[01-Feb-2026 11:16:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/CodeFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 20
+[01-Feb-2026 15:59:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/SignatureFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/SignatureFormatter.php on line 22
+[01-Feb-2026 20:47:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[01-Feb-2026 20:50:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/CodeFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 20
+[26-Feb-2026 00:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[26-Feb-2026 01:03:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[26-Feb-2026 08:45:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/website1/public_html/vendor/psy/psysh/src/Formatter/CodeFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 20

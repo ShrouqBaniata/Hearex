@@ -1,0 +1,12 @@
+[01-Dec-2025 00:21:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\StringInput" not found in /home/website1/public_html/vendor/psy/psysh/src/Input/ShellInput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Input/ShellInput.php on line 20
+[01-Feb-2026 16:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\InputArgument" not found in /home/website1/public_html/vendor/psy/psysh/src/Input/CodeArgument.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Input/CodeArgument.php on line 30
+[02-Feb-2026 03:39:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\StringInput" not found in /home/website1/public_html/vendor/psy/psysh/src/Input/ShellInput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Input/ShellInput.php on line 20

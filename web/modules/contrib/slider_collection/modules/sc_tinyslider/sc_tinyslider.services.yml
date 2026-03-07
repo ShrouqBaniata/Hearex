@@ -1,0 +1,3 @@
+services:
+  sc_tinyslider.tinyslider:
+    class: Drupal\sc_tinyslider\TinySliderBase

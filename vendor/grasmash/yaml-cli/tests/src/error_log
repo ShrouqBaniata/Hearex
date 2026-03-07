@@ -1,0 +1,4 @@
+[01-Feb-2026 15:44:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/TestBase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/TestBase.php on line 13

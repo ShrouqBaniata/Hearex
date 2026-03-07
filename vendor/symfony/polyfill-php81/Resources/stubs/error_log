@@ -1,0 +1,5 @@
+[29-Nov-2025 17:04:24 UTC] PHP Fatal error:  Cannot declare class CURLStringFile, because the name is already in use in /home/website1/public_html/vendor/symfony/polyfill-php81/Resources/stubs/CURLStringFile.php on line 16
+[31-Jan-2026 17:00:51 UTC] PHP Fatal error:  Cannot declare class CURLStringFile, because the name is already in use in /home/website1/public_html/vendor/symfony/polyfill-php81/Resources/stubs/CURLStringFile.php on line 16
+[03-Feb-2026 09:15:17 UTC] PHP Fatal error:  Cannot declare class CURLStringFile, because the name is already in use in /home/website1/public_html/vendor/symfony/polyfill-php81/Resources/stubs/CURLStringFile.php on line 16
+[25-Feb-2026 14:02:49 UTC] PHP Fatal error:  Cannot declare class CURLStringFile, because the name is already in use in /home/website1/public_html/vendor/symfony/polyfill-php81/Resources/stubs/CURLStringFile.php on line 16
+[25-Feb-2026 14:33:02 UTC] PHP Fatal error:  Cannot declare class CURLStringFile, because the name is already in use in /home/website1/public_html/vendor/symfony/polyfill-php81/Resources/stubs/CURLStringFile.php on line 16

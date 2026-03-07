@@ -1,0 +1,8 @@
+[06-Dec-2025 06:00:53 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Drush/SymfonyCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Drush/SymfonyCommand.php on line 22
+[03-Feb-2026 07:35:43 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Drush/SymfonyCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Drush/SymfonyCommand.php on line 22

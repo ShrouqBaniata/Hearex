@@ -1,0 +1,40 @@
+[30-Nov-2025 02:43:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php on line 40
+[30-Nov-2025 02:48:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php on line 26
+[01-Feb-2026 02:19:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php on line 40
+[01-Feb-2026 02:20:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php on line 26
+[03-Feb-2026 21:52:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php on line 40
+[03-Feb-2026 21:53:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php on line 26
+[25-Feb-2026 23:58:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php on line 40
+[25-Feb-2026 23:58:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php on line 26
+[26-Feb-2026 00:28:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/LazyLoadingMetadataFactory.php on line 40
+[26-Feb-2026 00:28:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Mapping/Factory/BlackHoleMetadataFactory.php on line 26

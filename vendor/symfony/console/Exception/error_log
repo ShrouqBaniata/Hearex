@@ -1,0 +1,160 @@
+[29-Nov-2025 08:43:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[29-Nov-2025 08:45:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[29-Nov-2025 08:48:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[29-Nov-2025 08:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[29-Nov-2025 08:57:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[29-Nov-2025 09:00:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[29-Nov-2025 09:03:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[29-Nov-2025 09:07:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[31-Jan-2026 09:52:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[31-Jan-2026 09:56:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[31-Jan-2026 09:58:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[31-Jan-2026 10:01:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[31-Jan-2026 10:04:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[31-Jan-2026 10:08:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[31-Jan-2026 10:12:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[31-Jan-2026 10:20:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[03-Feb-2026 12:58:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[03-Feb-2026 12:58:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[03-Feb-2026 12:59:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[03-Feb-2026 13:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[03-Feb-2026 13:14:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[03-Feb-2026 13:16:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[03-Feb-2026 13:20:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[03-Feb-2026 13:22:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[25-Feb-2026 06:15:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[25-Feb-2026 06:17:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[25-Feb-2026 06:19:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[25-Feb-2026 06:26:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[25-Feb-2026 06:31:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[25-Feb-2026 06:34:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[25-Feb-2026 06:35:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/CommandNotFoundException.php on line 19
+[25-Feb-2026 06:37:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[25-Feb-2026 06:38:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidArgumentException.php on line 17
+[25-Feb-2026 06:43:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19
+[25-Feb-2026 06:44:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RunCommandFailedException.php on line 19
+[25-Feb-2026 06:50:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/NamespaceNotFoundException.php on line 19
+[25-Feb-2026 06:56:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/InvalidOptionException.php on line 19
+[25-Feb-2026 07:00:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/RuntimeException.php on line 17
+[25-Feb-2026 07:03:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/LogicException.php on line 17
+[25-Feb-2026 07:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Exception/MissingInputException.php on line 19

@@ -1,0 +1,16 @@
+[01-Feb-2026 09:38:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[02-Feb-2026 02:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[26-Feb-2026 07:31:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[26-Feb-2026 08:01:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/website1/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17

@@ -1,0 +1,56 @@
+[29-Nov-2025 04:14:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[29-Nov-2025 18:39:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[03-Dec-2025 01:53:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[03-Dec-2025 01:57:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[03-Dec-2025 02:09:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[03-Dec-2025 02:18:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[31-Jan-2026 04:58:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[31-Jan-2026 18:30:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[03-Feb-2026 06:22:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[03-Feb-2026 06:26:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[25-Feb-2026 01:49:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[25-Feb-2026 02:13:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[25-Feb-2026 15:36:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[25-Feb-2026 16:06:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27

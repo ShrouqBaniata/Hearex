@@ -1,0 +1,12 @@
+name: Slider Collection Swiper
+type: module
+description: Swiper integration.
+core_version_requirement: ^10 || ^11
+package: 'Slider Collection'
+dependencies:
+  - slider_collection:slider_collection
+
+# Information added by Drupal.org packaging script on 2025-02-20
+version: '1.0.6'
+project: 'slider_collection'
+datestamp: 1740055297

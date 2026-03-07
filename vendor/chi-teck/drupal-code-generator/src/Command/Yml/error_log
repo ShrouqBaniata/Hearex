@@ -1,0 +1,56 @@
+[30-Nov-2025 23:30:34 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Services.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Services.php on line 20
+[30-Nov-2025 23:54:15 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Routing.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Routing.php on line 20
+[01-Dec-2025 00:59:31 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Migration.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Migration.php on line 29
+[01-Dec-2025 01:03:55 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Permissions.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Permissions.php on line 23
+[01-Dec-2025 01:11:32 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Breakpoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Breakpoints.php on line 20
+[01-Dec-2025 01:57:23 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/ModuleLibraries.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/ModuleLibraries.php on line 21
+[01-Dec-2025 02:03:57 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/ThemeLibraries.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/ThemeLibraries.php on line 21
+[02-Feb-2026 02:33:46 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Services.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Services.php on line 20
+[02-Feb-2026 02:37:59 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Routing.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Routing.php on line 20
+[02-Feb-2026 05:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Breakpoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Breakpoints.php on line 20
+[02-Feb-2026 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Permissions.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Permissions.php on line 23
+[02-Feb-2026 05:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Migration.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/Migration.php on line 29
+[02-Feb-2026 05:56:00 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/ThemeLibraries.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/ThemeLibraries.php on line 21
+[02-Feb-2026 05:57:05 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/ModuleLibraries.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Yml/ModuleLibraries.php on line 21

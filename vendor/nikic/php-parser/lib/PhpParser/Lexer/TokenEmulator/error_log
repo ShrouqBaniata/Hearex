@@ -1,0 +1,24 @@
+[03-Feb-2026 16:33:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/AttributeEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/AttributeEmulator.php on line 8
+[03-Feb-2026 19:34:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php on line 8
+[03-Feb-2026 22:04:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php on line 7
+[03-Feb-2026 22:04:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php on line 8
+[03-Feb-2026 22:05:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php on line 9
+[03-Feb-2026 22:47:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php on line 10

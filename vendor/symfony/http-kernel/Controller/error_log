@@ -1,0 +1,196 @@
+[29-Nov-2025 00:19:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[29-Nov-2025 00:22:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[29-Nov-2025 00:24:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[29-Nov-2025 02:14:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[29-Nov-2025 02:20:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[01-Dec-2025 20:18:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[01-Dec-2025 20:22:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[01-Dec-2025 20:27:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[01-Dec-2025 20:33:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[01-Dec-2025 20:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[01-Dec-2025 20:40:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[01-Dec-2025 20:42:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[01-Dec-2025 20:44:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[01-Dec-2025 20:58:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[01-Dec-2025 21:13:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[01-Dec-2025 21:15:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[01-Dec-2025 21:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[01-Dec-2025 21:21:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[01-Dec-2025 21:25:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[01-Dec-2025 21:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[01-Dec-2025 21:34:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[01-Dec-2025 21:35:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[01-Dec-2025 21:38:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[01-Dec-2025 21:41:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[01-Dec-2025 22:04:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[01-Dec-2025 22:08:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[01-Dec-2025 22:09:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[01-Dec-2025 22:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[01-Dec-2025 22:20:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[31-Jan-2026 01:17:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[31-Jan-2026 01:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[31-Jan-2026 01:21:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[31-Jan-2026 02:54:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[31-Jan-2026 03:16:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[02-Feb-2026 14:28:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[02-Feb-2026 14:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[02-Feb-2026 14:32:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[02-Feb-2026 14:36:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[02-Feb-2026 14:37:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[24-Feb-2026 21:52:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[24-Feb-2026 21:55:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[24-Feb-2026 21:57:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[24-Feb-2026 22:07:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[24-Feb-2026 22:10:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[24-Feb-2026 22:12:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[24-Feb-2026 23:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[24-Feb-2026 23:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[25-Feb-2026 00:04:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[25-Feb-2026 00:32:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20

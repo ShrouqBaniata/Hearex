@@ -1,0 +1,32 @@
+[28-Nov-2025 22:24:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31
+[01-Dec-2025 09:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31
+[01-Dec-2025 09:33:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31
+[01-Dec-2025 10:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31
+[31-Jan-2026 00:48:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31
+[02-Feb-2026 11:08:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31
+[24-Feb-2026 20:11:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31
+[24-Feb-2026 20:26:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31

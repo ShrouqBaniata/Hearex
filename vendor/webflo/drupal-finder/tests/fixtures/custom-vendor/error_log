@@ -1,0 +1,15 @@
+[02-Dec-2025 19:49:25 UTC] PHP Warning:  require(/home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/foo/bar/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/drupal-finder.php on line 5
+[02-Dec-2025 19:49:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/foo/bar/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/drupal-finder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/drupal-finder.php on line 5
+[03-Feb-2026 04:01:25 UTC] PHP Warning:  require(/home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/foo/bar/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/drupal-finder.php on line 5
+[03-Feb-2026 04:01:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/foo/bar/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/drupal-finder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/drupal-finder.php on line 5
+[03-Feb-2026 19:40:34 UTC] PHP Warning:  require(/home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/foo/bar/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/drupal-finder.php on line 5
+[03-Feb-2026 19:40:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/foo/bar/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/drupal-finder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/webflo/drupal-finder/tests/fixtures/custom-vendor/drupal-finder.php on line 5

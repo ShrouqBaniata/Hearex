@@ -1,0 +1,11 @@
+{
+    "name": "drupal/sc_tinyslider",
+    "type": "drupal-module",
+    "description": "Provide TinySlider library integration.",
+    "keywords": ["Drupal"],
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "require": {
+        "ganlanyuan/tiny-slider": "^2.9"
+    }
+}

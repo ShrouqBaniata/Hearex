@@ -1,0 +1,32 @@
+[01-Feb-2026 18:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/RouteInfo.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/RouteInfo.php on line 13
+[03-Feb-2026 06:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/ThemeInfo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/ThemeInfo.php on line 16
+[03-Feb-2026 07:22:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/ModuleInfo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/ModuleInfo.php on line 16
+[03-Feb-2026 07:23:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/ConfigInfo.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/ConfigInfo.php on line 13
+[03-Feb-2026 07:25:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/PermissionInfo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/PermissionInfo.php on line 15
+[03-Feb-2026 07:26:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/ServiceInfo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/ServiceInfo.php on line 15
+[03-Feb-2026 07:31:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/HookInfo.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/HookInfo.php on line 13
+[03-Feb-2026 09:45:08 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Helper\Drupal\ExtensionInfoInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/NullExtensionInfo.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Drupal/NullExtensionInfo.php on line 14

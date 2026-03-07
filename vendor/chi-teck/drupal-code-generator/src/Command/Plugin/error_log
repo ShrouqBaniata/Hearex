@@ -1,0 +1,120 @@
+[30-Nov-2025 23:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Block.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Block.php on line 20
+[01-Dec-2025 01:03:07 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Action.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Action.php on line 27
+[01-Dec-2025 01:10:50 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Filter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Filter.php on line 20
+[01-Dec-2025 01:13:38 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/MenuLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/MenuLink.php on line 20
+[01-Dec-2025 01:15:41 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/CKEditor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/CKEditor.php on line 22
+[01-Dec-2025 01:39:52 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/RestResource.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/RestResource.php on line 21
+[01-Dec-2025 01:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Constraint.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Constraint.php on line 30
+[01-Dec-2025 01:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Condition.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Condition.php on line 20
+[01-Dec-2025 01:56:22 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/QueueWorker.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/QueueWorker.php on line 20
+[01-Dec-2025 06:31:05 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/EntityReferenceSelection.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/EntityReferenceSelection.php on line 31
+[02-Feb-2026 02:36:57 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Block.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Block.php on line 20
+[02-Feb-2026 05:13:52 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Filter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Filter.php on line 20
+[02-Feb-2026 05:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Action.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Action.php on line 27
+[02-Feb-2026 05:28:02 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/CKEditor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/CKEditor.php on line 22
+[02-Feb-2026 05:38:14 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/MenuLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/MenuLink.php on line 20
+[02-Feb-2026 05:49:28 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/QueueWorker.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/QueueWorker.php on line 20
+[02-Feb-2026 05:51:07 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Condition.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Condition.php on line 20
+[02-Feb-2026 05:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/RestResource.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/RestResource.php on line 21
+[02-Feb-2026 05:55:04 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Constraint.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Constraint.php on line 30
+[02-Feb-2026 10:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/EntityReferenceSelection.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/EntityReferenceSelection.php on line 31
+[04-Feb-2026 00:01:40 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Block.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Block.php on line 20
+[04-Feb-2026 00:01:49 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Filter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Filter.php on line 20
+[04-Feb-2026 00:02:18 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Action.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Action.php on line 27
+[04-Feb-2026 00:03:20 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/CKEditor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/CKEditor.php on line 22
+[04-Feb-2026 00:04:23 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/MenuLink.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/MenuLink.php on line 20
+[04-Feb-2026 00:05:26 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Condition.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Condition.php on line 20
+[04-Feb-2026 00:06:29 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Constraint.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/Constraint.php on line 30
+[04-Feb-2026 00:07:32 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/RestResource.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/RestResource.php on line 21
+[04-Feb-2026 00:08:37 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/QueueWorker.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/QueueWorker.php on line 20
+[04-Feb-2026 00:09:38 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/EntityReferenceSelection.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Plugin/EntityReferenceSelection.php on line 31

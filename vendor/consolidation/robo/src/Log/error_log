@@ -1,0 +1,66 @@
+[05-Dec-2025 09:33:39 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerAwareTrait" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/ResultPrinter.php on line 20
+[05-Dec-2025 11:33:20 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\Logger" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php on line 12
+[05-Dec-2025 11:35:25 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\LogOutputStyler" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php on line 11
+[05-Dec-2025 11:36:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\LogLevel" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php on line 5
+[05-Dec-2025 11:57:19 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerAwareTrait" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/ResultPrinter.php on line 20
+[05-Dec-2025 11:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\Logger" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php on line 12
+[05-Dec-2025 12:00:11 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\LogOutputStyler" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php on line 11
+[05-Dec-2025 12:01:14 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\LogLevel" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php on line 5
+[05-Dec-2025 12:11:25 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerAwareTrait" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/ResultPrinter.php on line 20
+[05-Dec-2025 12:14:28 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\LogOutputStyler" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php on line 11
+[05-Dec-2025 12:15:32 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\Logger" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php on line 12
+[05-Dec-2025 12:16:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\LogLevel" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php on line 5
+[01-Feb-2026 07:49:11 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerAwareTrait" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/ResultPrinter.php on line 20
+[01-Feb-2026 11:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\LogOutputStyler" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php on line 11
+[01-Feb-2026 11:19:21 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\Logger" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php on line 12
+[01-Feb-2026 11:20:24 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\LogLevel" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php on line 5
+[26-Feb-2026 05:26:37 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerAwareTrait" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/ResultPrinter.php on line 20
+[26-Feb-2026 06:00:08 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerAwareTrait" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/ResultPrinter.php on line 20
+[26-Feb-2026 08:47:39 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\Logger" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogger.php on line 12
+[26-Feb-2026 08:48:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\LogLevel" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogLevel.php on line 5
+[26-Feb-2026 08:50:37 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Log\LogOutputStyler" not found in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Log/RoboLogStyle.php on line 11

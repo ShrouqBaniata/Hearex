@@ -1,0 +1,140 @@
+[24-Nov-2025 06:20:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\Capability\CommandProvider" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php on line 12
+[24-Nov-2025 06:20:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\PostPackageEventListenerInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php on line 18
+[24-Nov-2025 06:23:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php on line 24
+[28-Nov-2025 10:27:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\Capability\CommandProvider" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php on line 12
+[28-Nov-2025 10:27:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\PostPackageEventListenerInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php on line 18
+[28-Nov-2025 10:42:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php on line 24
+[28-Nov-2025 11:29:30 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php on line 17
+[01-Dec-2025 03:34:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php on line 24
+[01-Dec-2025 03:35:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\Capability\CommandProvider" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php on line 12
+[01-Dec-2025 03:38:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\PostPackageEventListenerInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php on line 18
+[01-Dec-2025 03:40:55 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php on line 17
+[01-Dec-2025 03:46:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\PostPackageEventListenerInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php on line 18
+[01-Dec-2025 03:47:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php on line 24
+[01-Dec-2025 03:48:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\Capability\CommandProvider" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php on line 12
+[01-Dec-2025 03:52:01 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php on line 17
+[04-Dec-2025 05:42:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\Capability\CommandProvider" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php on line 12
+[04-Dec-2025 05:42:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\PostPackageEventListenerInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php on line 18
+[04-Dec-2025 05:47:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php on line 24
+[04-Dec-2025 06:25:50 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php on line 17
+[30-Jan-2026 13:53:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\Capability\CommandProvider" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php on line 12
+[30-Jan-2026 13:53:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\PostPackageEventListenerInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php on line 18
+[30-Jan-2026 13:57:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php on line 24
+[30-Jan-2026 14:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php on line 17
+[02-Feb-2026 07:11:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\PostPackageEventListenerInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php on line 18
+[02-Feb-2026 07:12:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\Capability\CommandProvider" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php on line 12
+[02-Feb-2026 07:13:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php on line 24
+[02-Feb-2026 07:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php on line 17
+[24-Feb-2026 08:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\PostPackageEventListenerInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php on line 18
+[24-Feb-2026 08:20:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\Capability\CommandProvider" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php on line 12
+[24-Feb-2026 09:10:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php on line 24
+[24-Feb-2026 09:14:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\PostPackageEventListenerInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/AllowedPackages.php on line 18
+[24-Feb-2026 09:14:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\Capability\CommandProvider" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/CommandProvider.php on line 12
+[24-Feb-2026 09:18:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Plugin.php on line 24
+[24-Feb-2026 09:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php on line 17
+[24-Feb-2026 09:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/ComposerScaffoldCommand.php on line 17

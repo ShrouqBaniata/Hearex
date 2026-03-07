@@ -1,0 +1,28 @@
+[29-Nov-2025 18:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[31-Jan-2026 18:10:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[01-Feb-2026 14:50:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[03-Feb-2026 15:40:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[03-Feb-2026 15:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[25-Feb-2026 15:16:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[25-Feb-2026 15:46:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Crypto\SMime" not found in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20

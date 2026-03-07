@@ -1,0 +1,8 @@
+[02-Feb-2026 23:15:08 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[03-Feb-2026 00:50:25 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34

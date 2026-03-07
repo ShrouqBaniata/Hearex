@@ -1,0 +1,438 @@
+[28-Nov-2025 12:42:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[28-Nov-2025 12:43:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[28-Nov-2025 12:44:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[28-Nov-2025 12:45:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[28-Nov-2025 12:47:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[28-Nov-2025 12:49:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[28-Nov-2025 13:50:09 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[28-Nov-2025 18:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\FragmentHandler" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 24
+[28-Nov-2025 19:16:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[28-Nov-2025 20:53:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php on line 24
+[28-Nov-2025 22:56:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php on line 26
+[28-Nov-2025 23:32:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DependencyInjection\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php on line 28
+[29-Nov-2025 02:15:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 26
+[01-Dec-2025 10:11:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[01-Dec-2025 10:13:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[01-Dec-2025 10:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[01-Dec-2025 10:15:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[01-Dec-2025 10:17:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[01-Dec-2025 10:21:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[01-Dec-2025 10:22:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[01-Dec-2025 10:28:58 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[01-Dec-2025 10:30:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php on line 24
+[01-Dec-2025 10:32:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\FragmentHandler" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 24
+[01-Dec-2025 10:33:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php on line 26
+[01-Dec-2025 10:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DependencyInjection\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php on line 28
+[01-Dec-2025 10:43:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 26
+[01-Dec-2025 10:56:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[01-Dec-2025 11:02:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[01-Dec-2025 11:04:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[01-Dec-2025 11:05:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[01-Dec-2025 11:06:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[01-Dec-2025 11:07:43 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[01-Dec-2025 11:11:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[01-Dec-2025 11:19:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[01-Dec-2025 11:20:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\FragmentHandler" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 24
+[01-Dec-2025 11:28:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 26
+[01-Dec-2025 11:30:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php on line 26
+[01-Dec-2025 11:31:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php on line 24
+[01-Dec-2025 11:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DependencyInjection\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php on line 28
+[01-Dec-2025 11:45:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[01-Dec-2025 11:45:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[01-Dec-2025 11:46:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[01-Dec-2025 11:47:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[01-Dec-2025 11:48:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[01-Dec-2025 11:53:02 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[01-Dec-2025 11:55:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[01-Dec-2025 11:58:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php on line 26
+[01-Dec-2025 11:59:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php on line 24
+[01-Dec-2025 12:01:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\FragmentHandler" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 24
+[01-Dec-2025 12:02:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 26
+[01-Dec-2025 12:03:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[01-Dec-2025 12:05:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DependencyInjection\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php on line 28
+[01-Dec-2025 12:12:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[01-Dec-2025 12:12:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[01-Dec-2025 12:15:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[01-Dec-2025 12:18:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\FragmentHandler" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 24
+[01-Dec-2025 12:19:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[01-Dec-2025 12:21:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[01-Dec-2025 12:22:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[01-Dec-2025 12:26:05 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[01-Dec-2025 12:27:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[01-Dec-2025 12:30:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php on line 26
+[01-Dec-2025 12:33:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DependencyInjection\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php on line 28
+[01-Dec-2025 12:34:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php on line 24
+[01-Dec-2025 12:37:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 26
+[04-Dec-2025 07:50:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[04-Dec-2025 07:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[04-Dec-2025 07:51:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[04-Dec-2025 07:52:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[04-Dec-2025 07:53:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[04-Dec-2025 08:52:23 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[30-Jan-2026 16:00:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[30-Jan-2026 16:00:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[30-Jan-2026 16:00:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[30-Jan-2026 16:01:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[30-Jan-2026 16:02:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[30-Jan-2026 17:03:33 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[30-Jan-2026 22:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\FragmentHandler" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 24
+[30-Jan-2026 23:34:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[31-Jan-2026 03:03:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 26
+[31-Jan-2026 03:15:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[02-Feb-2026 12:00:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[02-Feb-2026 12:00:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[02-Feb-2026 12:01:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[02-Feb-2026 12:02:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[02-Feb-2026 12:03:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[02-Feb-2026 12:04:18 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[02-Feb-2026 12:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\FragmentHandler" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 24
+[02-Feb-2026 12:06:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[02-Feb-2026 12:07:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 26
+[02-Feb-2026 12:08:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[24-Feb-2026 11:09:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[24-Feb-2026 11:10:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[24-Feb-2026 11:10:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[24-Feb-2026 11:11:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[24-Feb-2026 11:12:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[24-Feb-2026 11:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[24-Feb-2026 11:13:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 25
+[24-Feb-2026 11:13:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[24-Feb-2026 11:14:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[24-Feb-2026 11:15:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[24-Feb-2026 11:16:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 35
+[24-Feb-2026 11:57:32 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[24-Feb-2026 12:10:58 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 29
+[24-Feb-2026 16:42:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\FragmentHandler" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 24
+[24-Feb-2026 16:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\FragmentHandler" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 24
+[24-Feb-2026 17:04:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[24-Feb-2026 17:13:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[24-Feb-2026 18:54:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php on line 24
+[24-Feb-2026 19:01:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php on line 24
+[24-Feb-2026 20:28:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php on line 26
+[24-Feb-2026 20:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php on line 26
+[24-Feb-2026 21:00:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DependencyInjection\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php on line 28
+[24-Feb-2026 21:18:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DependencyInjection\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php on line 28
+[24-Feb-2026 23:50:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 26
+[25-Feb-2026 00:12:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 26
+[25-Feb-2026 00:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21

@@ -1,0 +1,240 @@
+[29-Nov-2025 08:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php on line 34
+[29-Nov-2025 08:52:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php on line 19
+[29-Nov-2025 08:55:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php on line 25
+[29-Nov-2025 08:56:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\RoundRobinTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php on line 19
+[29-Nov-2025 08:59:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportFactoryInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php on line 22
+[29-Nov-2025 09:04:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php on line 21
+[29-Nov-2025 09:10:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php on line 25
+[29-Nov-2025 09:11:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractHttpTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php on line 25
+[29-Nov-2025 09:13:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php on line 24
+[29-Nov-2025 09:14:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php on line 31
+[29-Nov-2025 12:38:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php on line 19
+[29-Nov-2025 15:18:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php on line 24
+[31-Jan-2026 09:51:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php on line 34
+[31-Jan-2026 09:59:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php on line 19
+[31-Jan-2026 10:00:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportFactoryInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php on line 22
+[31-Jan-2026 10:06:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php on line 25
+[31-Jan-2026 10:07:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\RoundRobinTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php on line 19
+[31-Jan-2026 10:15:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractHttpTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php on line 25
+[31-Jan-2026 10:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php on line 24
+[31-Jan-2026 10:18:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php on line 25
+[31-Jan-2026 10:21:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php on line 21
+[31-Jan-2026 10:25:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php on line 31
+[31-Jan-2026 12:31:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php on line 19
+[31-Jan-2026 15:18:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php on line 24
+[03-Feb-2026 12:04:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php on line 34
+[03-Feb-2026 12:05:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportFactoryInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php on line 22
+[03-Feb-2026 12:06:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php on line 19
+[03-Feb-2026 12:07:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php on line 25
+[03-Feb-2026 12:08:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\RoundRobinTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php on line 19
+[03-Feb-2026 12:10:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractHttpTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php on line 25
+[03-Feb-2026 12:11:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php on line 25
+[03-Feb-2026 12:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php on line 24
+[03-Feb-2026 12:14:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php on line 21
+[03-Feb-2026 12:15:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php on line 31
+[03-Feb-2026 12:17:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php on line 19
+[03-Feb-2026 12:18:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php on line 24
+[25-Feb-2026 06:18:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php on line 34
+[25-Feb-2026 06:22:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php on line 19
+[25-Feb-2026 06:23:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportFactoryInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php on line 22
+[25-Feb-2026 06:32:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php on line 25
+[25-Feb-2026 06:35:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\RoundRobinTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php on line 19
+[25-Feb-2026 06:37:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractHttpTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php on line 25
+[25-Feb-2026 06:39:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractHttpTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractApiTransport.php on line 25
+[25-Feb-2026 06:40:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php on line 25
+[25-Feb-2026 06:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php on line 24
+[25-Feb-2026 06:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransport.php on line 34
+[25-Feb-2026 06:44:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php on line 21
+[25-Feb-2026 06:46:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportFactoryInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransportFactory.php on line 22
+[25-Feb-2026 06:47:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/SendmailTransportFactory.php on line 19
+[25-Feb-2026 06:49:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php on line 31
+[25-Feb-2026 06:57:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/RoundRobinTransport.php on line 25
+[25-Feb-2026 06:58:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\RoundRobinTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/FailoverTransport.php on line 19
+[25-Feb-2026 07:09:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NativeTransportFactory.php on line 24
+[25-Feb-2026 07:10:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractHttpTransport.php on line 25
+[25-Feb-2026 07:13:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransport.php on line 21
+[25-Feb-2026 07:17:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/AbstractTransport.php on line 31
+[25-Feb-2026 09:32:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php on line 19
+[25-Feb-2026 09:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/NullTransportFactory.php on line 19
+[25-Feb-2026 12:20:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php on line 24
+[25-Feb-2026 12:50:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\TransportInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Transports.php on line 24

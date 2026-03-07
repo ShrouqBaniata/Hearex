@@ -1,0 +1,68 @@
+[28-Nov-2025 12:07:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[28-Nov-2025 17:44:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Application.php on line 73
+[01-Dec-2025 12:20:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[01-Dec-2025 12:24:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Application.php on line 73
+[01-Dec-2025 12:38:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[01-Dec-2025 12:39:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Application.php on line 73
+[01-Dec-2025 12:54:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Application.php on line 73
+[01-Dec-2025 12:56:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[04-Dec-2025 07:04:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[30-Jan-2026 15:14:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[30-Jan-2026 21:48:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Application.php on line 73
+[02-Feb-2026 12:19:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[02-Feb-2026 12:20:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Application.php on line 73
+[24-Feb-2026 10:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[24-Feb-2026 10:42:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[24-Feb-2026 15:51:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Application.php on line 73
+[24-Feb-2026 15:59:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/website1/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Application.php on line 73

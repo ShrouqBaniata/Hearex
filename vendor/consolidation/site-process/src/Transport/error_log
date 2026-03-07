@@ -1,0 +1,144 @@
+[29-Nov-2025 21:11:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php on line 15
+[29-Nov-2025 21:11:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php on line 10
+[29-Nov-2025 21:12:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php on line 13
+[29-Nov-2025 21:14:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php on line 14
+[29-Nov-2025 21:16:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php on line 13
+[29-Nov-2025 21:17:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php on line 14
+[05-Dec-2025 02:45:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php on line 14
+[05-Dec-2025 02:46:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php on line 14
+[05-Dec-2025 02:47:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php on line 13
+[05-Dec-2025 02:48:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php on line 15
+[05-Dec-2025 02:49:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php on line 13
+[05-Dec-2025 02:51:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php on line 10
+[31-Jan-2026 21:17:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php on line 14
+[31-Jan-2026 21:17:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php on line 14
+[31-Jan-2026 21:18:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php on line 13
+[31-Jan-2026 21:19:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php on line 13
+[31-Jan-2026 21:20:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php on line 10
+[31-Jan-2026 21:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php on line 15
+[03-Feb-2026 22:52:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php on line 14
+[03-Feb-2026 22:52:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php on line 14
+[03-Feb-2026 22:52:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php on line 13
+[03-Feb-2026 22:52:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php on line 10
+[03-Feb-2026 22:53:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php on line 15
+[03-Feb-2026 22:54:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php on line 13
+[25-Feb-2026 18:25:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php on line 14
+[25-Feb-2026 18:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php on line 13
+[25-Feb-2026 18:26:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php on line 14
+[25-Feb-2026 18:27:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php on line 15
+[25-Feb-2026 18:29:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php on line 13
+[25-Feb-2026 18:30:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php on line 10
+[25-Feb-2026 18:58:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/VagrantTransport.php on line 14
+[25-Feb-2026 18:58:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/DockerComposeTransport.php on line 14
+[25-Feb-2026 18:59:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/KubectlTransport.php on line 13
+[25-Feb-2026 19:00:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SkprTransport.php on line 13
+[25-Feb-2026 19:01:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/LocalTransport.php on line 10
+[25-Feb-2026 19:02:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteProcess\Transport\TransportInterface" not found in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/src/Transport/SshTransport.php on line 15

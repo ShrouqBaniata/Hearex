@@ -1,0 +1,8 @@
+[01-Dec-2025 00:58:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Serializer\RulesInterface" not found in /home/website1/public_html/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[02-Feb-2026 04:31:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Serializer\RulesInterface" not found in /home/website1/public_html/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17

@@ -1,0 +1,56 @@
+[01-Feb-2026 12:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[01-Feb-2026 12:58:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Robo\Collection\NestedCollectionInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[01-Feb-2026 12:59:31 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[01-Feb-2026 13:01:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[01-Feb-2026 13:02:29 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[01-Feb-2026 13:03:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Robo\Contract\TaskInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[01-Feb-2026 14:14:31 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[03-Feb-2026 22:33:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Robo\Collection\NestedCollectionInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[03-Feb-2026 22:33:45 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[03-Feb-2026 22:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[03-Feb-2026 22:33:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[03-Feb-2026 22:34:06 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[03-Feb-2026 22:34:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Robo\Contract\TaskInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[03-Feb-2026 22:35:48 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19

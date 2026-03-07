@@ -1,0 +1,32 @@
+[29-Nov-2025 22:42:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteAlias\DataFileLoaderInterface" not found in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[30-Nov-2025 23:07:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteAlias\DataFileLoaderInterface" not found in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[30-Nov-2025 23:13:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteAlias\DataFileLoaderInterface" not found in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[05-Dec-2025 03:43:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteAlias\DataFileLoaderInterface" not found in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[31-Jan-2026 22:44:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteAlias\DataFileLoaderInterface" not found in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[02-Feb-2026 02:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteAlias\DataFileLoaderInterface" not found in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[25-Feb-2026 19:54:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteAlias\DataFileLoaderInterface" not found in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[25-Feb-2026 20:27:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\SiteAlias\DataFileLoaderInterface" not found in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7

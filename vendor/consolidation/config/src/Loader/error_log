@@ -1,0 +1,28 @@
+[05-Dec-2025 10:37:15 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Config\Loader\ConfigLoader" not found in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php on line 11
+[05-Dec-2025 10:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Config\Loader\ConfigLoader" not found in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php on line 11
+[05-Dec-2025 11:01:27 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Config\Loader\ConfigLoader" not found in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php on line 11
+[01-Feb-2026 09:25:12 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Config\Loader\ConfigLoader" not found in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php on line 11
+[01-Feb-2026 15:09:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\Loader\ConfigLoaderInterface" not found in /home/website1/public_html/vendor/consolidation/config/src/Loader/ConfigLoader.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Loader/ConfigLoader.php on line 8
+[26-Feb-2026 07:01:56 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Config\Loader\ConfigLoader" not found in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php on line 11
+[26-Feb-2026 07:48:56 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Config\Loader\ConfigLoader" not found in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Loader/YamlConfigLoader.php on line 11

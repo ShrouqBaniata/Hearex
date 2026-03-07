@@ -1,0 +1,8 @@
+[01-Feb-2026 14:15:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/yaml/Command/LintCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/yaml/Command/LintCommand.php on line 37
+[03-Feb-2026 13:37:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/yaml/Command/LintCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/yaml/Command/LintCommand.php on line 37

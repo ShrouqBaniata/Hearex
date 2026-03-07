@@ -1,0 +1,24 @@
+[29-Nov-2025 20:31:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Validate\ValidationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php on line 21
+[05-Dec-2025 02:31:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Validate\ValidationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php on line 21
+[31-Jan-2026 20:26:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Validate\ValidationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php on line 21
+[03-Feb-2026 10:37:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Validate\ValidationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php on line 21
+[25-Feb-2026 17:34:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Validate\ValidationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php on line 21
+[25-Feb-2026 18:06:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\OutputFormatters\Validate\ValidationInterface" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Validate/ValidDataTypesInterface.php on line 21

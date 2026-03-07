@@ -1,0 +1,28 @@
+[02-Feb-2026 21:13:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[02-Feb-2026 21:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[02-Feb-2026 21:39:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[03-Feb-2026 16:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 22
+[03-Feb-2026 19:00:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[03-Feb-2026 19:00:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[03-Feb-2026 19:01:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21

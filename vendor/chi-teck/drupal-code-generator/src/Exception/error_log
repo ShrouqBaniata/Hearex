@@ -1,0 +1,60 @@
+[29-Nov-2025 15:14:33 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[30-Nov-2025 00:25:37 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[30-Nov-2025 02:23:47 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[31-Jan-2026 15:14:54 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[01-Feb-2026 00:26:20 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[01-Feb-2026 02:00:04 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[03-Feb-2026 17:18:07 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[03-Feb-2026 17:32:42 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[03-Feb-2026 17:35:52 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[25-Feb-2026 12:15:19 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[25-Feb-2026 12:45:14 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[25-Feb-2026 21:47:00 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[25-Feb-2026 22:18:00 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[25-Feb-2026 23:37:42 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[26-Feb-2026 00:02:48 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10

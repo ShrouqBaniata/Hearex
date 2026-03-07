@@ -1,0 +1,28 @@
+[29-Nov-2025 18:28:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php on line 39
+[03-Dec-2025 00:11:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php on line 39
+[03-Dec-2025 00:35:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php on line 39
+[31-Jan-2026 18:19:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php on line 39
+[03-Feb-2026 05:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php on line 39
+[25-Feb-2026 15:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php on line 39
+[25-Feb-2026 15:53:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Command/DebugCommand.php on line 39

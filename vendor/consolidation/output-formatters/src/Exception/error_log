@@ -1,0 +1,52 @@
+[30-Nov-2025 05:20:27 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[30-Nov-2025 05:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[30-Nov-2025 05:36:12 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[05-Dec-2025 07:03:34 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[05-Dec-2025 07:07:29 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[01-Feb-2026 04:21:30 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[01-Feb-2026 04:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[03-Feb-2026 10:36:29 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[03-Feb-2026 10:36:33 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[26-Feb-2026 01:53:08 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[26-Feb-2026 01:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[26-Feb-2026 02:25:37 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[26-Feb-2026 02:29:17 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\OutputFormatters\Exception\AbstractDataFormatException" not found in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10

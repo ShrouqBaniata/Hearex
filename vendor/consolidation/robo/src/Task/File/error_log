@@ -1,0 +1,32 @@
+[02-Feb-2026 03:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Write.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Write.php on line 21
+[02-Feb-2026 03:57:26 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Concat.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Concat.php on line 25
+[02-Feb-2026 21:25:25 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Replace.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Replace.php on line 35
+[03-Feb-2026 05:14:31 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\File\Write" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/TmpFile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/TmpFile.php on line 28
+[03-Feb-2026 18:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Write.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Write.php on line 21
+[03-Feb-2026 18:35:17 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Concat.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Concat.php on line 25
+[03-Feb-2026 18:39:23 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Replace.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/Replace.php on line 35
+[03-Feb-2026 18:45:36 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\File\Write" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/TmpFile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/File/TmpFile.php on line 28

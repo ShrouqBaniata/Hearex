@@ -1,0 +1,44 @@
+[02-Feb-2026 01:35:26 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/CheckPlatformReqs.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/CheckPlatformReqs.php on line 15
+[02-Feb-2026 04:00:03 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/CreateProject.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/CreateProject.php on line 15
+[02-Feb-2026 04:04:40 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/RequireDependency.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/RequireDependency.php on line 15
+[02-Feb-2026 10:16:16 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/DumpAutoload.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/DumpAutoload.php on line 31
+[02-Feb-2026 21:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Init.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Init.php on line 15
+[02-Feb-2026 22:50:40 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Remove.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Remove.php on line 15
+[03-Feb-2026 00:14:15 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Install.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Install.php on line 25
+[03-Feb-2026 00:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Update.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Update.php on line 25
+[03-Feb-2026 00:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Config.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Config.php on line 15
+[03-Feb-2026 16:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Base.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Base.php on line 10
+[03-Feb-2026 19:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Composer\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Validate.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Composer/Validate.php on line 15

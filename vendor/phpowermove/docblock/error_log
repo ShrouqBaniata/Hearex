@@ -1,0 +1,32 @@
+[28-Nov-2025 15:06:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Finder\Finder" not found in /home/website1/public_html/vendor/phpowermove/docblock/sami.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/sami.php on line 6
+[02-Dec-2025 10:09:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Finder\Finder" not found in /home/website1/public_html/vendor/phpowermove/docblock/sami.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/sami.php on line 6
+[02-Dec-2025 10:33:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Finder\Finder" not found in /home/website1/public_html/vendor/phpowermove/docblock/sami.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/sami.php on line 6
+[04-Dec-2025 10:11:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Finder\Finder" not found in /home/website1/public_html/vendor/phpowermove/docblock/sami.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/sami.php on line 6
+[30-Jan-2026 18:44:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Finder\Finder" not found in /home/website1/public_html/vendor/phpowermove/docblock/sami.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/sami.php on line 6
+[02-Feb-2026 22:28:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Finder\Finder" not found in /home/website1/public_html/vendor/phpowermove/docblock/sami.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/sami.php on line 6
+[24-Feb-2026 13:06:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Finder\Finder" not found in /home/website1/public_html/vendor/phpowermove/docblock/sami.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/sami.php on line 6
+[24-Feb-2026 13:31:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Finder\Finder" not found in /home/website1/public_html/vendor/phpowermove/docblock/sami.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/sami.php on line 6

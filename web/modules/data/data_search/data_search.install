@@ -1,0 +1,20 @@
+<?php
+/**
+ * @file
+ * Install, update and uninstall functions for the data_search module.
+ *
+ */
+
+
+/**
+ * Implements hook_install().
+ *
+ * @todo: Should use db_change_field()
+ * @todo: What happens if data_search and search are installed at the same time?
+ */
+function data_search_install() {
+  // Adjust length of type columns for data tables with names of a max length of 64.
+  \Drupal::database()->schema()->changeField('search_dataset', 'type', 'type', ['type' => 'varchar', 'length' => 64]);
+  \Drupal::database()->schema()->changeField('search_index', 'type', 'type', ['type' => 'varchar', 'length' => 64]);
+  \Drupal::database()->schema()->changeField('search_node_links', 'type', 'type', ['type' => 'varchar', 'length' => 64]);
+}

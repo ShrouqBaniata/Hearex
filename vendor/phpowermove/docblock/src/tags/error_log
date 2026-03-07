@@ -1,0 +1,108 @@
+[03-Dec-2025 21:08:45 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/TypeTag.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/TypeTag.php on line 18
+[03-Dec-2025 21:09:38 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/MethodTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/MethodTag.php on line 17
+[03-Dec-2025 21:10:39 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/PropertyTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/PropertyTag.php on line 17
+[03-Dec-2025 21:14:40 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/ThrowsTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/ThrowsTag.php on line 17
+[03-Dec-2025 21:15:27 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/ParamTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/ParamTag.php on line 17
+[03-Dec-2025 21:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVersionTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/DeprecatedTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/DeprecatedTag.php on line 17
+[03-Dec-2025 21:21:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractDescriptionTag.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractDescriptionTag.php on line 15
+[03-Dec-2025 21:22:11 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/TypeTag.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/TypeTag.php on line 18
+[03-Dec-2025 21:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/ThrowsTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/ThrowsTag.php on line 17
+[03-Dec-2025 21:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/MethodTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/MethodTag.php on line 17
+[03-Dec-2025 21:27:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/PropertyTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/PropertyTag.php on line 17
+[03-Dec-2025 21:28:19 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/ParamTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/ParamTag.php on line 17
+[03-Dec-2025 21:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVersionTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/DeprecatedTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/DeprecatedTag.php on line 17
+[03-Dec-2025 21:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/TypeTag.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/TypeTag.php on line 18
+[03-Dec-2025 21:31:27 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/PropertyReadTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/PropertyReadTag.php on line 17
+[03-Dec-2025 22:57:19 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractDescriptionTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/SeeTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/SeeTag.php on line 17
+[03-Dec-2025 22:57:47 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/VarTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/VarTag.php on line 17
+[03-Dec-2025 22:57:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractDescriptionTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/UnknownTag.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/UnknownTag.php on line 15
+[03-Dec-2025 22:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractDescriptionTag.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractDescriptionTag.php on line 15
+[03-Dec-2025 23:03:50 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVersionTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/SinceTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/SinceTag.php on line 17
+[03-Dec-2025 23:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractDescriptionTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractVersionTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractVersionTag.php on line 17
+[03-Dec-2025 23:06:47 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractVarTypeTag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractVarTypeTag.php on line 19
+[03-Dec-2025 23:08:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVersionTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/VersionTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/VersionTag.php on line 17
+[03-Dec-2025 23:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AuthorTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AuthorTag.php on line 17
+[03-Dec-2025 23:39:55 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/LicenseTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/LicenseTag.php on line 17
+[03-Dec-2025 23:59:42 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractVarTypeTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/PropertyWriteTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/PropertyWriteTag.php on line 17
+[04-Dec-2025 00:00:45 UTC] PHP Fatal error:  Uncaught Error: Class "phpowermove\docblock\tags\AbstractDescriptionTag" not found in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractTypeTag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/src/tags/AbstractTypeTag.php on line 17

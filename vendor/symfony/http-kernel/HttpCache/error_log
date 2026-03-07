@@ -1,0 +1,132 @@
+[29-Nov-2025 06:25:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[29-Nov-2025 06:33:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[29-Nov-2025 21:56:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[01-Dec-2025 02:09:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[01-Dec-2025 02:15:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[01-Dec-2025 02:25:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[01-Dec-2025 02:41:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[01-Dec-2025 02:42:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[01-Dec-2025 02:48:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[05-Dec-2025 03:14:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[05-Dec-2025 10:48:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\StoreInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php on line 25
+[05-Dec-2025 11:41:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Ssi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Ssi.php on line 22
+[05-Dec-2025 11:42:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Esi.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Esi.php on line 28
+[31-Jan-2026 07:05:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[31-Jan-2026 07:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[31-Jan-2026 21:57:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[01-Feb-2026 10:06:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\StoreInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php on line 25
+[01-Feb-2026 11:41:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Esi.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Esi.php on line 28
+[01-Feb-2026 11:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Ssi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Ssi.php on line 22
+[02-Feb-2026 06:11:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[02-Feb-2026 06:12:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[02-Feb-2026 06:13:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[02-Feb-2026 06:14:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\StoreInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php on line 25
+[02-Feb-2026 06:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Esi.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Esi.php on line 28
+[02-Feb-2026 06:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Ssi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Ssi.php on line 22
+[24-Feb-2026 13:55:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[25-Feb-2026 04:05:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[25-Feb-2026 04:10:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[25-Feb-2026 04:35:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[25-Feb-2026 19:06:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[25-Feb-2026 19:36:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[26-Feb-2026 07:40:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\StoreInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php on line 25
+[26-Feb-2026 08:21:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\StoreInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/HttpCache/Store.php on line 25

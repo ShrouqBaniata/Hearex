@@ -1,0 +1,144 @@
+[30-Nov-2025 00:39:58 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php on line 14
+[30-Nov-2025 00:44:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php on line 17
+[30-Nov-2025 00:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Error" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php on line 17
+[30-Nov-2025 05:46:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php on line 17
+[05-Dec-2025 04:47:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php on line 14
+[05-Dec-2025 04:50:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Error" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php on line 17
+[05-Dec-2025 04:51:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php on line 17
+[05-Dec-2025 07:00:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php on line 17
+[05-Dec-2025 09:15:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php on line 17
+[05-Dec-2025 11:47:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php on line 17
+[05-Dec-2025 12:07:47 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php on line 17
+[01-Feb-2026 00:42:27 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php on line 14
+[01-Feb-2026 00:43:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Error" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php on line 17
+[01-Feb-2026 00:44:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php on line 17
+[01-Feb-2026 04:39:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php on line 17
+[01-Feb-2026 07:27:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php on line 17
+[01-Feb-2026 11:56:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php on line 17
+[01-Feb-2026 12:16:46 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php on line 17
+[01-Feb-2026 15:19:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/BreakException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/BreakException.php on line 17
+[01-Feb-2026 20:34:43 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php on line 14
+[01-Feb-2026 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Error" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php on line 17
+[01-Feb-2026 20:46:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php on line 17
+[01-Feb-2026 20:48:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php on line 17
+[01-Feb-2026 20:49:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php on line 17
+[01-Feb-2026 20:51:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php on line 17
+[01-Feb-2026 20:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php on line 17
+[25-Feb-2026 22:03:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php on line 14
+[25-Feb-2026 22:06:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Error" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php on line 17
+[25-Feb-2026 22:07:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php on line 17
+[25-Feb-2026 22:35:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/UnexpectedTargetException.php on line 14
+[25-Feb-2026 22:37:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Error" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php on line 17
+[25-Feb-2026 22:38:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php on line 17
+[26-Feb-2026 02:12:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php on line 17
+[26-Feb-2026 02:44:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php on line 17
+[26-Feb-2026 05:05:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php on line 17
+[26-Feb-2026 05:38:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Exception/ErrorException.php on line 17

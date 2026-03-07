@@ -1,0 +1,28 @@
+[28-Nov-2025 19:44:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[01-Dec-2025 10:55:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[01-Dec-2025 11:24:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[01-Dec-2025 11:56:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[01-Dec-2025 12:14:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[24-Feb-2026 17:51:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[24-Feb-2026 18:04:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23

@@ -1,0 +1,20 @@
+[29-Nov-2025 01:48:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8
+[31-Jan-2026 02:36:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8
+[03-Feb-2026 10:25:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8
+[24-Feb-2026 23:18:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8
+[24-Feb-2026 23:35:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8

@@ -1,0 +1,36 @@
+[01-Feb-2026 22:51:02 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\StackBasedTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[02-Feb-2026 10:09:25 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Filesystem\BaseDir" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[02-Feb-2026 12:36:01 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Filesystem\BaseDir" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[02-Feb-2026 12:36:25 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[02-Feb-2026 12:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Filesystem\TmpDir" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[02-Feb-2026 12:41:40 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Filesystem\BaseDir" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[02-Feb-2026 12:44:37 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Filesystem\BaseDir" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[02-Feb-2026 12:45:38 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Filesystem\BaseDir" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[03-Feb-2026 00:11:52 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Filesystem\BaseDir" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30

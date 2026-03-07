@@ -1,0 +1,140 @@
+[29-Nov-2025 08:43:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php on line 21
+[29-Nov-2025 08:44:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php on line 19
+[29-Nov-2025 08:51:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php on line 19
+[29-Nov-2025 08:53:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php on line 21
+[29-Nov-2025 08:58:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php on line 19
+[29-Nov-2025 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php on line 21
+[29-Nov-2025 09:12:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php on line 19
+[31-Jan-2026 09:53:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php on line 21
+[31-Jan-2026 09:54:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php on line 19
+[31-Jan-2026 09:57:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php on line 19
+[31-Jan-2026 10:02:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php on line 21
+[31-Jan-2026 10:03:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php on line 21
+[31-Jan-2026 10:09:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php on line 19
+[31-Jan-2026 10:11:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php on line 19
+[03-Feb-2026 13:01:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php on line 21
+[03-Feb-2026 13:06:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php on line 19
+[03-Feb-2026 13:08:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php on line 19
+[03-Feb-2026 13:12:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php on line 21
+[03-Feb-2026 13:13:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php on line 21
+[03-Feb-2026 13:17:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php on line 19
+[03-Feb-2026 13:21:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php on line 19
+[25-Feb-2026 07:07:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php on line 21
+[25-Feb-2026 07:09:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php on line 19
+[25-Feb-2026 07:10:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php on line 19
+[25-Feb-2026 07:11:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php on line 21
+[25-Feb-2026 07:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php on line 21
+[25-Feb-2026 07:18:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php on line 19
+[25-Feb-2026 07:23:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php on line 19
+[25-Feb-2026 07:33:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php on line 21
+[25-Feb-2026 07:34:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php on line 19
+[25-Feb-2026 07:35:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RunProcessFailedException.php on line 19
+[25-Feb-2026 07:37:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php on line 21
+[25-Feb-2026 07:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/ProcessFailedException.php on line 21
+[25-Feb-2026 07:41:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/RuntimeException.php on line 19
+[25-Feb-2026 07:44:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/process/Exception/LogicException.php on line 19

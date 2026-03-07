@@ -1,0 +1,60 @@
+[28-Nov-2025 19:45:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[28-Nov-2025 19:46:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\AdvancedNameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 21
+[28-Nov-2025 19:50:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 19
+[01-Dec-2025 11:08:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\AdvancedNameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 21
+[01-Dec-2025 11:16:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[01-Dec-2025 11:17:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 19
+[01-Dec-2025 11:50:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[01-Dec-2025 11:51:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 19
+[01-Dec-2025 11:54:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\AdvancedNameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 21
+[24-Feb-2026 17:51:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\AdvancedNameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 21
+[24-Feb-2026 17:54:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[24-Feb-2026 17:55:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 19
+[24-Feb-2026 17:59:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\AdvancedNameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 21
+[24-Feb-2026 18:00:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[24-Feb-2026 18:03:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\NameConverter\NameConverterInterface" not found in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 19

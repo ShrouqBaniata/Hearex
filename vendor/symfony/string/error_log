@@ -1,0 +1,152 @@
+[28-Nov-2025 14:57:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[28-Nov-2025 15:59:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[28-Nov-2025 16:12:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[28-Nov-2025 23:51:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/UnicodeString.php on line 33
+[02-Dec-2025 19:22:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[02-Dec-2025 19:27:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[02-Dec-2025 19:29:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[02-Dec-2025 19:31:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/UnicodeString.php on line 33
+[02-Dec-2025 19:47:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[02-Dec-2025 19:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[02-Dec-2025 19:55:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[02-Dec-2025 19:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/UnicodeString.php on line 33
+[02-Dec-2025 20:02:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[02-Dec-2025 20:09:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[02-Dec-2025 20:12:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[02-Dec-2025 20:13:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/UnicodeString.php on line 33
+[04-Dec-2025 10:06:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[04-Dec-2025 11:05:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[04-Dec-2025 11:14:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[06-Dec-2025 01:34:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[06-Dec-2025 01:36:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[06-Dec-2025 01:37:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[06-Dec-2025 01:48:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[06-Dec-2025 01:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[06-Dec-2025 01:51:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[30-Jan-2026 18:32:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[30-Jan-2026 19:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[30-Jan-2026 20:07:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[31-Jan-2026 00:59:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/UnicodeString.php on line 33
+[03-Feb-2026 03:52:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/UnicodeString.php on line 33
+[24-Feb-2026 13:00:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[24-Feb-2026 13:25:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/ByteString.php on line 26
+[24-Feb-2026 14:11:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[24-Feb-2026 14:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[24-Feb-2026 14:27:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractString" not found in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[24-Feb-2026 14:34:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/CodePointString.php on line 25
+[24-Feb-2026 21:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/UnicodeString.php on line 33
+[24-Feb-2026 21:43:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\String\AbstractUnicodeString" not found in /home/website1/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/UnicodeString.php on line 33

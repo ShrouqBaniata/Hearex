@@ -1,0 +1,44 @@
+[30-Nov-2025 01:59:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php on line 14
+[05-Dec-2025 05:16:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php on line 14
+[05-Dec-2025 10:24:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Grasmash\Expander\StringifierInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php on line 9
+[01-Feb-2026 01:28:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php on line 14
+[01-Feb-2026 09:01:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Grasmash\Expander\StringifierInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php on line 9
+[03-Feb-2026 15:03:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php on line 14
+[03-Feb-2026 15:06:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Grasmash\Expander\StringifierInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php on line 9
+[25-Feb-2026 23:06:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php on line 14
+[25-Feb-2026 23:32:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerAwareInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Expander.php on line 14
+[26-Feb-2026 06:37:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Grasmash\Expander\StringifierInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php on line 9
+[26-Feb-2026 07:18:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Grasmash\Expander\StringifierInterface" not found in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/expander/src/Stringifier.php on line 9

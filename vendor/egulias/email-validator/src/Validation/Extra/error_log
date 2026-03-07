@@ -1,0 +1,4 @@
+[03-Feb-2026 16:07:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Validation\EmailValidation" not found in /home/website1/public_html/vendor/egulias/email-validator/src/Validation/Extra/SpoofCheckValidation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/egulias/email-validator/src/Validation/Extra/SpoofCheckValidation.php on line 11

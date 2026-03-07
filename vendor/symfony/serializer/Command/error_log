@@ -1,0 +1,20 @@
+[29-Nov-2025 16:18:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php on line 31
+[31-Jan-2026 16:07:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php on line 31
+[03-Feb-2026 08:04:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php on line 31
+[25-Feb-2026 13:08:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php on line 31
+[25-Feb-2026 13:44:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Command/DebugCommand.php on line 31

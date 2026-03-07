@@ -1,0 +1,28 @@
+[29-Nov-2025 00:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php on line 30
+[01-Dec-2025 04:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php on line 30
+[01-Dec-2025 04:42:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php on line 30
+[31-Jan-2026 02:01:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php on line 30
+[02-Feb-2026 08:10:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php on line 30
+[24-Feb-2026 22:39:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php on line 30
+[24-Feb-2026 22:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/DataCollector/ValidatorDataCollector.php on line 30

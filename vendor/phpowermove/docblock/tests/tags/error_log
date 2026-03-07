@@ -1,0 +1,32 @@
+[04-Dec-2025 00:15:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/DeprecatedTagTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/DeprecatedTagTest.php on line 8
+[04-Dec-2025 00:16:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/MethodTagTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/MethodTagTest.php on line 8
+[04-Dec-2025 00:17:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/PropertyTagTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/PropertyTagTest.php on line 8
+[04-Dec-2025 00:18:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/ParamTagTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/ParamTagTest.php on line 8
+[04-Dec-2025 00:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/TypeTagTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/TypeTagTest.php on line 8
+[04-Dec-2025 00:20:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/SeeTagTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/SeeTagTest.php on line 8
+[04-Dec-2025 00:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/VarTagTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/VarTagTest.php on line 9
+[04-Dec-2025 00:22:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/ThrowsTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/tags/ThrowsTest.php on line 8

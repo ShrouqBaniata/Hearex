@@ -1,0 +1,4 @@
+[03-Dec-2025 23:56:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php on line 24

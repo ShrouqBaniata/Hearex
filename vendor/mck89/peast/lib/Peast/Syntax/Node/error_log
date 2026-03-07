@@ -1,0 +1,340 @@
+[02-Feb-2026 18:42:17 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\ModuleSpecifier" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportNamespaceSpecifier.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportNamespaceSpecifier.php on line 18
+[02-Feb-2026 18:42:21 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/TaggedTemplateExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/TaggedTemplateExpression.php on line 18
+[02-Feb-2026 18:42:33 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExportDefaultDeclaration.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExportDefaultDeclaration.php on line 18
+[02-Feb-2026 18:43:11 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ParenthesizedExpression.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ParenthesizedExpression.php on line 17
+[02-Feb-2026 18:44:11 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExportNamedDeclaration.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExportNamedDeclaration.php on line 18
+[02-Feb-2026 18:45:15 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ConditionalExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ConditionalExpression.php on line 18
+[02-Feb-2026 18:47:21 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Function_" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ArrowFunctionExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ArrowFunctionExpression.php on line 18
+[02-Feb-2026 18:48:17 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Super.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Super.php on line 17
+[02-Feb-2026 18:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\ModuleSpecifier" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportDefaultSpecifier.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportDefaultSpecifier.php on line 18
+[02-Feb-2026 18:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\CallExpression" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/NewExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/NewExpression.php on line 18
+[02-Feb-2026 18:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/MethodDefinition.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/MethodDefinition.php on line 17
+[02-Feb-2026 18:53:25 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Literal" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/NumericLiteral.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/NumericLiteral.php on line 17
+[02-Feb-2026 18:54:26 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\ChainElement" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/MemberExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/MemberExpression.php on line 18
+[02-Feb-2026 18:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\ModuleSpecifier" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExportSpecifier.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExportSpecifier.php on line 18
+[02-Feb-2026 18:56:30 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Literal" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/StringLiteral.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/StringLiteral.php on line 19
+[02-Feb-2026 18:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ThisExpression.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ThisExpression.php on line 17
+[02-Feb-2026 18:58:36 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ModuleSpecifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ModuleSpecifier.php on line 19
+[02-Feb-2026 18:59:39 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\ModuleSpecifier" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportSpecifier.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportSpecifier.php on line 18
+[02-Feb-2026 19:00:43 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/DoWhileStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/DoWhileStatement.php on line 18
+[02-Feb-2026 19:01:46 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportAttribute.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportAttribute.php on line 18
+[02-Feb-2026 19:03:47 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/YieldExpression.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/YieldExpression.php on line 17
+[02-Feb-2026 19:04:45 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/PrivateIdentifier.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/PrivateIdentifier.php on line 17
+[02-Feb-2026 19:05:49 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BinaryExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BinaryExpression.php on line 18
+[02-Feb-2026 19:06:49 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Class_" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ClassDeclaration.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ClassDeclaration.php on line 18
+[02-Feb-2026 19:07:52 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ChainExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ChainExpression.php on line 18
+[02-Feb-2026 19:08:58 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/DebuggerStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/DebuggerStatement.php on line 18
+[02-Feb-2026 19:09:58 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ArrayExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ArrayExpression.php on line 18
+[02-Feb-2026 19:11:01 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\ForInStatement" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ForOfStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ForOfStatement.php on line 18
+[02-Feb-2026 19:12:05 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/UnaryExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/UnaryExpression.php on line 18
+[02-Feb-2026 19:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Class_" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ClassExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ClassExpression.php on line 18
+[02-Feb-2026 19:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Literal" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BooleanLiteral.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BooleanLiteral.php on line 17
+[02-Feb-2026 19:15:17 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ObjectPattern.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ObjectPattern.php on line 18
+[02-Feb-2026 19:16:16 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/AwaitExpression.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/AwaitExpression.php on line 17
+[02-Feb-2026 19:17:21 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/UpdateExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/UpdateExpression.php on line 18
+[02-Feb-2026 19:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ThrowStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ThrowStatement.php on line 18
+[02-Feb-2026 19:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\ChainElement" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/CallExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/CallExpression.php on line 18
+[02-Feb-2026 19:20:30 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportDeclaration.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportDeclaration.php on line 18
+[02-Feb-2026 19:21:36 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ChainElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ChainElement.php on line 17
+[02-Feb-2026 19:22:35 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportExpression.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ImportExpression.php on line 17
+[02-Feb-2026 19:23:36 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/VariableDeclarator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/VariableDeclarator.php on line 18
+[02-Feb-2026 19:24:42 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Function_" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/FunctionExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/FunctionExpression.php on line 18
+[02-Feb-2026 19:25:44 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/PropertyDefinition.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/PropertyDefinition.php on line 17
+[02-Feb-2026 19:26:47 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Property" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/AssignmentProperty.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/AssignmentProperty.php on line 18
+[02-Feb-2026 19:27:51 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/SequenceExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/SequenceExpression.php on line 18
+[02-Feb-2026 19:28:57 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\BlockStatement" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/StaticBlock.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/StaticBlock.php on line 17
+[02-Feb-2026 19:29:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Peast\Syntax\Node\Statement" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Declaration.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Declaration.php on line 17
+[02-Feb-2026 19:31:03 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/CatchClause.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/CatchClause.php on line 17
+[02-Feb-2026 19:32:06 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Literal" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/NullLiteral.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/NullLiteral.php on line 17
+[02-Feb-2026 19:33:11 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/VariableDeclaration.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/VariableDeclaration.php on line 18
+[02-Feb-2026 19:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Function_" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/FunctionDeclaration.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/FunctionDeclaration.php on line 18
+[02-Feb-2026 19:35:18 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExportAllDeclaration.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExportAllDeclaration.php on line 18
+[02-Feb-2026 19:36:23 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/AssignmentExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/AssignmentExpression.php on line 18
+[02-Feb-2026 19:37:25 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/EmptyStatement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/EmptyStatement.php on line 17
+[02-Feb-2026 19:38:27 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BreakStatement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BreakStatement.php on line 17
+[02-Feb-2026 19:39:30 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/WithStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/WithStatement.php on line 18
+[02-Feb-2026 19:40:35 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/LabeledStatement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/LabeledStatement.php on line 17
+[02-Feb-2026 19:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/TemplateElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/TemplateElement.php on line 20
+[02-Feb-2026 19:42:39 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BlockStatement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BlockStatement.php on line 17
+[02-Feb-2026 19:43:41 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/TryStatement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/TryStatement.php on line 17
+[02-Feb-2026 19:44:46 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/TemplateLiteral.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/TemplateLiteral.php on line 18
+[02-Feb-2026 19:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ForStatement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ForStatement.php on line 17
+[02-Feb-2026 19:46:55 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ForInStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ForInStatement.php on line 18
+[02-Feb-2026 19:48:01 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/MetaProperty.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/MetaProperty.php on line 18
+[02-Feb-2026 19:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/WhileStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/WhileStatement.php on line 18
+[02-Feb-2026 19:50:08 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ContinueStatement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ContinueStatement.php on line 17
+[02-Feb-2026 19:51:11 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/SwitchStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/SwitchStatement.php on line 18
+[02-Feb-2026 19:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/SpreadElement.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/SpreadElement.php on line 19
+[02-Feb-2026 19:53:15 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ReturnStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ReturnStatement.php on line 18
+[02-Feb-2026 19:54:18 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/AssignmentPattern.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/AssignmentPattern.php on line 18
+[02-Feb-2026 19:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ArrayPattern.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ArrayPattern.php on line 18
+[02-Feb-2026 19:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Identifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Identifier.php on line 19
+[02-Feb-2026 19:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/SwitchCase.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/SwitchCase.php on line 17
+[02-Feb-2026 19:59:35 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/IfStatement.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/IfStatement.php on line 18
+[02-Feb-2026 20:00:39 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/RestElement.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/RestElement.php on line 19
+[02-Feb-2026 20:01:44 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExpressionStatement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ExpressionStatement.php on line 17
+[02-Feb-2026 20:02:45 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/LogicalExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/LogicalExpression.php on line 18
+[02-Feb-2026 20:03:50 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ObjectExpression.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ObjectExpression.php on line 18
+[02-Feb-2026 20:04:52 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Literal" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BigIntLiteral.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/BigIntLiteral.php on line 17
+[02-Feb-2026 20:05:56 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Literal" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/RegExpLiteral.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/RegExpLiteral.php on line 17
+[02-Feb-2026 20:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Program.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Program.php on line 20
+[02-Feb-2026 20:09:07 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Function_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Function_.php on line 17
+[02-Feb-2026 20:10:12 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ClassBody.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/ClassBody.php on line 17
+[02-Feb-2026 20:11:12 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Literal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Literal.php on line 17
+[02-Feb-2026 20:12:15 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Comment.php on line 17
+[02-Feb-2026 20:14:19 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Syntax\Node\Node" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Property.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Syntax/Node/Property.php on line 18

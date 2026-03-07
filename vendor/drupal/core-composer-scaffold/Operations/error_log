@@ -1,0 +1,120 @@
+[28-Nov-2025 14:22:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\Operations\OperationInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php on line 12
+[28-Nov-2025 19:10:44 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php on line 15
+[29-Nov-2025 00:09:38 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php on line 14
+[29-Nov-2025 06:16:29 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php on line 14
+[02-Dec-2025 09:42:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\Operations\OperationInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php on line 12
+[02-Dec-2025 09:50:32 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php on line 15
+[02-Dec-2025 09:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php on line 14
+[02-Dec-2025 09:57:16 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php on line 14
+[02-Dec-2025 09:58:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\Operations\OperationInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php on line 12
+[02-Dec-2025 10:01:08 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php on line 15
+[02-Dec-2025 10:03:58 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php on line 14
+[02-Dec-2025 10:06:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\Operations\OperationInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php on line 12
+[02-Dec-2025 10:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php on line 14
+[04-Dec-2025 09:33:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\Operations\OperationInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php on line 12
+[30-Jan-2026 17:41:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\Operations\OperationInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php on line 12
+[30-Jan-2026 23:28:11 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php on line 15
+[31-Jan-2026 01:10:56 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php on line 14
+[31-Jan-2026 06:57:03 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php on line 14
+[02-Feb-2026 22:20:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\Operations\OperationInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php on line 12
+[02-Feb-2026 22:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php on line 15
+[02-Feb-2026 22:22:17 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php on line 14
+[02-Feb-2026 22:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php on line 14
+[24-Feb-2026 12:26:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\Operations\OperationInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php on line 12
+[24-Feb-2026 12:52:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Drupal\Composer\Plugin\Scaffold\Operations\OperationInterface" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php on line 12
+[24-Feb-2026 17:05:16 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php on line 15
+[24-Feb-2026 17:13:33 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/ReplaceOp.php on line 15
+[24-Feb-2026 21:44:41 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php on line 14
+[24-Feb-2026 22:00:28 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/AppendOp.php on line 14
+[25-Feb-2026 03:56:33 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php on line 14
+[25-Feb-2026 04:21:43 UTC] PHP Fatal error:  Uncaught Error: Class "Drupal\Composer\Plugin\Scaffold\Operations\AbstractOperation" not found in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/drupal/core-composer-scaffold/Operations/SkipOp.php on line 14

@@ -1,0 +1,36 @@
+[01-Feb-2026 06:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[01-Feb-2026 06:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[01-Feb-2026 06:47:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[26-Feb-2026 04:06:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[26-Feb-2026 04:17:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[26-Feb-2026 04:21:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[26-Feb-2026 04:38:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[26-Feb-2026 04:49:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[26-Feb-2026 04:52:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29

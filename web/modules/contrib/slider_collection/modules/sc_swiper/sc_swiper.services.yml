@@ -1,0 +1,3 @@
+services:
+  sc_swiper.swiper:
+    class: Drupal\sc_swiper\SwiperBase

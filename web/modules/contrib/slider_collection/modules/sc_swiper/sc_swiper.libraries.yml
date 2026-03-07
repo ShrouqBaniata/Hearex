@@ -1,0 +1,23 @@
+swiper-views:
+  version: VERSION
+  dependencies:
+    - sc_swiper/swiper-init
+
+swiper-init:
+  version: VERSION
+  js:
+    js/swiper-init.js: {}
+  dependencies:
+    - core/drupal
+    - core/once
+    - sc_swiper/swiper
+
+swiper:
+  version: VERSION
+  js:
+    /libraries/swiper/swiper-bundle.min.js:
+      preprocess: false
+      minified: true
+  css:
+    theme:
+      /libraries/swiper/swiper-bundle.min.css: { minified: true }

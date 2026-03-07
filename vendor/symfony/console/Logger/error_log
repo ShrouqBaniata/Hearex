@@ -1,0 +1,20 @@
+[30-Nov-2025 02:34:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php on line 27
+[01-Feb-2026 02:01:50 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php on line 27
+[03-Feb-2026 14:24:46 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php on line 27
+[25-Feb-2026 23:42:33 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php on line 27
+[26-Feb-2026 00:12:10 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Logger/ConsoleLogger.php on line 27

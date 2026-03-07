@@ -1,0 +1,392 @@
+[01-Feb-2026 16:58:36 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/YawikInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/YawikInstaller.php on line 5
+[01-Feb-2026 16:59:27 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MatomoInstaller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MatomoInstaller.php on line 10
+[01-Feb-2026 18:10:26 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MODULEWorkInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MODULEWorkInstaller.php on line 5
+[01-Feb-2026 18:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/EzPlatformInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/EzPlatformInstaller.php on line 5
+[01-Feb-2026 19:37:51 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/KodiCMSInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/KodiCMSInstaller.php on line 5
+[01-Feb-2026 19:38:35 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ForkCMSInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ForkCMSInstaller.php on line 5
+[01-Feb-2026 19:39:40 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ImageCMSInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ImageCMSInstaller.php on line 5
+[01-Feb-2026 19:40:45 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/StarbugInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/StarbugInstaller.php on line 5
+[01-Feb-2026 19:41:47 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MantisBTInstaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MantisBTInstaller.php on line 7
+[01-Feb-2026 19:42:51 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/LithiumInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/LithiumInstaller.php on line 5
+[01-Feb-2026 19:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MiaoxingInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MiaoxingInstaller.php on line 5
+[01-Feb-2026 19:44:55 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PhiftyInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PhiftyInstaller.php on line 5
+[01-Feb-2026 19:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/RoundcubeInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/RoundcubeInstaller.php on line 5
+[01-Feb-2026 19:46:58 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/WolfCMSInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/WolfCMSInstaller.php on line 5
+[01-Feb-2026 19:48:04 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CakePHPInstaller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CakePHPInstaller.php on line 8
+[01-Feb-2026 19:49:08 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/OntoWikiInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/OntoWikiInstaller.php on line 5
+[01-Feb-2026 19:50:09 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AkauntingInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AkauntingInstaller.php on line 5
+[01-Feb-2026 19:51:12 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PiwikInstaller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PiwikInstaller.php on line 10
+[01-Feb-2026 19:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ZikulaInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ZikulaInstaller.php on line 5
+[01-Feb-2026 19:53:18 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/RadPHPInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/RadPHPInstaller.php on line 5
+[01-Feb-2026 19:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MODXEvoInstaller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MODXEvoInstaller.php on line 8
+[01-Feb-2026 19:56:21 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DokuWikiInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DokuWikiInstaller.php on line 5
+[01-Feb-2026 19:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MediaWikiInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MediaWikiInstaller.php on line 5
+[01-Feb-2026 21:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SyDESInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SyDESInstaller.php on line 5
+[01-Feb-2026 21:13:30 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php on line 5
+[01-Feb-2026 21:27:35 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/TastyIgniterInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/TastyIgniterInstaller.php on line 5
+[01-Feb-2026 23:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php on line 5
+[02-Feb-2026 00:22:10 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/LanManagementSystemInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/LanManagementSystemInstaller.php on line 5
+[02-Feb-2026 02:10:42 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MauticInstaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MauticInstaller.php on line 7
+[02-Feb-2026 02:10:45 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/OxidInstaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/OxidInstaller.php on line 7
+[02-Feb-2026 02:10:54 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PhpBBInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PhpBBInstaller.php on line 5
+[02-Feb-2026 02:31:08 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SyliusInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SyliusInstaller.php on line 5
+[02-Feb-2026 02:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MajimaInstaller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MajimaInstaller.php on line 9
+[02-Feb-2026 03:16:34 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ClanCatsFrameworkInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ClanCatsFrameworkInstaller.php on line 5
+[02-Feb-2026 03:17:03 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ExpressionEngineInstaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ExpressionEngineInstaller.php on line 7
+[02-Feb-2026 04:39:18 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/Redaxo5Installer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/Redaxo5Installer.php on line 5
+[02-Feb-2026 06:54:34 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/TuskInstaller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/TuskInstaller.php on line 9
+[02-Feb-2026 07:41:23 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SMFInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SMFInstaller.php on line 5
+[02-Feb-2026 21:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PrestashopInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PrestashopInstaller.php on line 5
+[02-Feb-2026 21:15:04 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SilverStripeInstaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SilverStripeInstaller.php on line 7
+[02-Feb-2026 21:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CodeIgniterInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CodeIgniterInstaller.php on line 5
+[02-Feb-2026 21:17:09 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php on line 5
+[02-Feb-2026 21:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SiteDirectInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/SiteDirectInstaller.php on line 5
+[03-Feb-2026 02:29:24 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MakoInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MakoInstaller.php on line 5
+[03-Feb-2026 02:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/VanillaInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/VanillaInstaller.php on line 5
+[03-Feb-2026 02:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/EliasisInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/EliasisInstaller.php on line 5
+[03-Feb-2026 02:32:23 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AsgardInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AsgardInstaller.php on line 5
+[03-Feb-2026 02:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php on line 5
+[03-Feb-2026 02:34:26 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/FuelInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/FuelInstaller.php on line 5
+[03-Feb-2026 02:35:29 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/OsclassInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/OsclassInstaller.php on line 5
+[03-Feb-2026 02:36:30 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CroogoInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CroogoInstaller.php on line 5
+[03-Feb-2026 02:37:32 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php on line 5
+[03-Feb-2026 02:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ElggInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ElggInstaller.php on line 5
+[03-Feb-2026 02:39:35 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AttogramInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AttogramInstaller.php on line 5
+[03-Feb-2026 02:40:40 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CiviCrmInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CiviCrmInstaller.php on line 5
+[03-Feb-2026 02:41:45 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ItopInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ItopInstaller.php on line 5
+[03-Feb-2026 02:42:51 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php on line 5
+[03-Feb-2026 02:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/KanboardInstaller.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/KanboardInstaller.php on line 14
+[03-Feb-2026 02:44:52 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PuppetInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PuppetInstaller.php on line 5
+[03-Feb-2026 02:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ShopwareInstaller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ShopwareInstaller.php on line 9
+[03-Feb-2026 02:47:01 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/WinterInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/WinterInstaller.php on line 5
+[03-Feb-2026 02:48:03 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/LaravelInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/LaravelInstaller.php on line 5
+[03-Feb-2026 02:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DecibelInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DecibelInstaller.php on line 5
+[03-Feb-2026 02:50:09 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/OctoberInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/OctoberInstaller.php on line 5
+[03-Feb-2026 02:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ReIndexInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ReIndexInstaller.php on line 5
+[03-Feb-2026 02:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/WordPressInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/WordPressInstaller.php on line 5
+[03-Feb-2026 02:54:13 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DframeInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DframeInstaller.php on line 5
+[03-Feb-2026 02:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DolibarrInstaller.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/DolibarrInstaller.php on line 11
+[03-Feb-2026 02:56:18 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/KohanaInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/KohanaInstaller.php on line 5
+[03-Feb-2026 02:57:20 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MagentoInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MagentoInstaller.php on line 5
+[03-Feb-2026 02:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CockpitInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/CockpitInstaller.php on line 5
+[03-Feb-2026 02:59:28 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PortoInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PortoInstaller.php on line 5
+[03-Feb-2026 03:00:34 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/BotbleInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/BotbleInstaller.php on line 5
+[03-Feb-2026 03:01:33 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PxcmsInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PxcmsInstaller.php on line 5
+[03-Feb-2026 03:02:37 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PantheonInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PantheonInstaller.php on line 5
+[03-Feb-2026 03:03:40 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/GravInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/GravInstaller.php on line 5
+[03-Feb-2026 03:04:43 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ChefInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ChefInstaller.php on line 5
+[03-Feb-2026 03:05:44 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/TheliaInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/TheliaInstaller.php on line 5
+[03-Feb-2026 03:06:50 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/RedaxoInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/RedaxoInstaller.php on line 5
+[03-Feb-2026 03:07:54 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/KnownInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/KnownInstaller.php on line 5
+[03-Feb-2026 04:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php on line 26
+[03-Feb-2026 04:22:57 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/BonefishInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/BonefishInstaller.php on line 5
+[03-Feb-2026 04:23:51 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ModxInstaller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ModxInstaller.php on line 8
+[03-Feb-2026 04:26:50 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/HuradInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/HuradInstaller.php on line 5
+[03-Feb-2026 04:27:42 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/LavaLiteInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/LavaLiteInstaller.php on line 5
+[03-Feb-2026 04:28:48 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/VgmcpInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/VgmcpInstaller.php on line 5
+[03-Feb-2026 04:55:35 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/TaoInstaller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/TaoInstaller.php on line 8
+[03-Feb-2026 04:58:03 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AglInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/AglInstaller.php on line 5
+[03-Feb-2026 04:58:28 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PPIInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PPIInstaller.php on line 5
+[03-Feb-2026 08:45:57 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ZendInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ZendInstaller.php on line 5
+[03-Feb-2026 08:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MayaInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/MayaInstaller.php on line 5
+[03-Feb-2026 09:26:35 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ProcessWireInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ProcessWireInstaller.php on line 5
+[03-Feb-2026 09:27:31 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/UserFrostingInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/UserFrostingInstaller.php on line 5
+[03-Feb-2026 09:43:14 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installer\LibraryInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/Installer.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/Installer.php on line 15
+[03-Feb-2026 10:24:11 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PlentymarketsInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/PlentymarketsInstaller.php on line 5
+[03-Feb-2026 10:24:18 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ConcreteCMSInstaller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/ConcreteCMSInstaller.php on line 5
+[03-Feb-2026 12:29:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Plugin\PluginInterface" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/Plugin.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/Plugin.php on line 9
+[03-Feb-2026 21:35:52 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Installers\BaseInstaller" not found in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/Concrete5Installer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/installers/src/Composer/Installers/Concrete5Installer.php on line 5

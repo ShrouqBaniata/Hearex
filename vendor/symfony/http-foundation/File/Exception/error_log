@@ -1,0 +1,44 @@
+[01-Feb-2026 13:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/NoTmpDirFileException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/NoTmpDirFileException.php on line 19
+[01-Feb-2026 13:24:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/PartialFileException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/PartialFileException.php on line 19
+[01-Feb-2026 13:25:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/FileNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/FileNotFoundException.php on line 19
+[01-Feb-2026 13:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/UnexpectedTypeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/UnexpectedTypeException.php on line 14
+[01-Feb-2026 13:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/CannotWriteFileException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/CannotWriteFileException.php on line 19
+[01-Feb-2026 13:28:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/AccessDeniedException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/AccessDeniedException.php on line 19
+[01-Feb-2026 13:29:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/FormSizeFileException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/FormSizeFileException.php on line 19
+[01-Feb-2026 13:30:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/IniSizeFileException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/IniSizeFileException.php on line 19
+[01-Feb-2026 13:31:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/ExtensionFileException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/ExtensionFileException.php on line 19
+[01-Feb-2026 13:32:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/UploadException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/UploadException.php on line 19
+[01-Feb-2026 13:36:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\Exception\FileException" not found in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/NoFileException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/File/Exception/NoFileException.php on line 19

@@ -1,0 +1,68 @@
+[02-Feb-2026 03:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Exec.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Exec.php on line 31
+[02-Feb-2026 21:00:11 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Run.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Run.php on line 50
+[02-Feb-2026 21:26:28 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Remove.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Remove.php on line 16
+[02-Feb-2026 21:28:36 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Result" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Result.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Result.php on line 5
+[02-Feb-2026 21:30:40 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Commit.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Commit.php on line 24
+[02-Feb-2026 21:31:40 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Build.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Build.php on line 23
+[02-Feb-2026 21:34:45 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Start.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Start.php on line 15
+[03-Feb-2026 16:39:42 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Base.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Base.php on line 10
+[03-Feb-2026 16:39:48 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Stop.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Stop.php on line 15
+[03-Feb-2026 19:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Exec.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Exec.php on line 31
+[03-Feb-2026 19:14:47 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Pull.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Pull.php on line 17
+[03-Feb-2026 19:15:29 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Run.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Run.php on line 50
+[03-Feb-2026 19:16:33 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Start.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Start.php on line 15
+[03-Feb-2026 19:17:37 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Result" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Result.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Result.php on line 5
+[03-Feb-2026 19:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Remove.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Remove.php on line 16
+[03-Feb-2026 19:19:48 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Commit.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Commit.php on line 24
+[03-Feb-2026 19:20:51 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Docker\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Build.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Docker/Build.php on line 23

@@ -1,0 +1,40 @@
+[29-Nov-2025 12:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php on line 16
+[29-Nov-2025 15:58:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php on line 25
+[31-Jan-2026 12:16:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php on line 16
+[31-Jan-2026 15:46:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php on line 25
+[03-Feb-2026 07:59:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php on line 16
+[03-Feb-2026 08:03:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php on line 25
+[25-Feb-2026 09:16:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php on line 16
+[25-Feb-2026 09:42:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/TagNameComparatorTest.php on line 16
+[25-Feb-2026 12:43:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php on line 25
+[25-Feb-2026 13:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/phpowermove/docblock/tests/DocblockTest.php on line 25

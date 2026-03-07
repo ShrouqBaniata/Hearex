@@ -1,0 +1,8 @@
+[02-Feb-2026 23:01:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php on line 24
+[03-Feb-2026 08:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php on line 24

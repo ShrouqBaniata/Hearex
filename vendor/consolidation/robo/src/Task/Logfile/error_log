@@ -1,0 +1,12 @@
+[02-Feb-2026 12:37:29 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Logfile\BaseLogfile" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Logfile/TruncateLog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Logfile/TruncateLog.php on line 19
+[03-Feb-2026 02:28:04 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Logfile\BaseLogfile" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Logfile/RotateLog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Logfile/RotateLog.php on line 19
+[03-Feb-2026 17:09:28 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Logfile/BaseLogfile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Logfile/BaseLogfile.php on line 8

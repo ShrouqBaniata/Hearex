@@ -1,0 +1,52 @@
+[05-Dec-2025 09:38:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php on line 10
+[05-Dec-2025 10:05:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php on line 10
+[05-Dec-2025 10:14:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php on line 10
+[05-Dec-2025 10:15:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php on line 10
+[05-Dec-2025 10:30:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php on line 10
+[05-Dec-2025 10:31:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php on line 10
+[01-Feb-2026 07:53:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php on line 10
+[01-Feb-2026 08:19:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php on line 10
+[01-Feb-2026 14:40:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIO.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIO.php on line 16
+[26-Feb-2026 05:32:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php on line 10
+[26-Feb-2026 05:59:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php on line 10
+[26-Feb-2026 06:11:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/SymfonyStyleInjector.php on line 10
+[26-Feb-2026 06:24:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\ParameterInjector" not found in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Symfony/ConsoleIOInjector.php on line 10

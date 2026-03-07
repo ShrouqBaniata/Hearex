@@ -1,0 +1,24 @@
+[01-Dec-2025 03:21:37 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/NginxVirtualHost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/NginxVirtualHost.php on line 25
+[01-Dec-2025 06:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/ApacheVirtualHost.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/ApacheVirtualHost.php on line 22
+[02-Feb-2026 06:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/NginxVirtualHost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/NginxVirtualHost.php on line 25
+[02-Feb-2026 10:00:39 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/ApacheVirtualHost.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/ApacheVirtualHost.php on line 22
+[03-Feb-2026 23:42:16 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/NginxVirtualHost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/NginxVirtualHost.php on line 25
+[03-Feb-2026 23:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/ApacheVirtualHost.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/Miscellaneous/ApacheVirtualHost.php on line 22

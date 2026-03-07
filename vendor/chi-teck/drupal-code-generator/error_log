@@ -1,0 +1,42 @@
+[24-Nov-2025 06:19:29 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[24-Nov-2025 06:19:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[28-Nov-2025 10:26:07 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[28-Nov-2025 10:26:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[30-Nov-2025 20:44:03 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[30-Nov-2025 20:44:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[04-Dec-2025 05:41:40 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[04-Dec-2025 05:41:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[30-Jan-2026 13:52:39 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[30-Jan-2026 13:52:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[02-Feb-2026 00:21:05 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[02-Feb-2026 00:21:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[24-Feb-2026 08:19:12 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[24-Feb-2026 08:19:12 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[24-Feb-2026 08:19:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[24-Feb-2026 09:13:48 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[24-Feb-2026 09:13:48 UTC] PHP Warning:  require(/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php): Failed to open stream: No such file or directory in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4
+[24-Feb-2026 09:13:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/website1/public_html/vendor/chi-teck/drupal-code-generator/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/psalm-autoloader.php on line 4

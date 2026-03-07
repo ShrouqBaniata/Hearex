@@ -1,0 +1,40 @@
+[29-Nov-2025 09:24:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php on line 14
+[29-Nov-2025 10:09:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[31-Jan-2026 09:05:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php on line 14
+[31-Jan-2026 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[03-Feb-2026 11:47:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php on line 14
+[03-Feb-2026 11:49:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[25-Feb-2026 06:14:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php on line 14
+[25-Feb-2026 06:39:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php on line 14
+[25-Feb-2026 07:34:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[25-Feb-2026 07:56:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/string/Exception/RuntimeException.php on line 14

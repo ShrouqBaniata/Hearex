@@ -1,0 +1,4 @@
+[02-Feb-2026 01:58:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Proxy\AbstractProxy" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Storage/Proxy/SessionHandlerProxy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Storage/Proxy/SessionHandlerProxy.php on line 19

@@ -1,0 +1,152 @@
+[29-Nov-2025 11:07:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php on line 20
+[29-Nov-2025 19:52:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[29-Nov-2025 21:03:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php on line 23
+[30-Nov-2025 04:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\AbstractDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 23
+[02-Dec-2025 19:52:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php on line 20
+[02-Dec-2025 19:59:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[02-Dec-2025 20:06:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php on line 20
+[02-Dec-2025 20:07:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php on line 23
+[02-Dec-2025 20:08:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\AbstractDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 23
+[02-Dec-2025 20:19:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[05-Dec-2025 02:13:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[05-Dec-2025 02:33:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php on line 23
+[05-Dec-2025 06:12:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\AbstractDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 23
+[05-Dec-2025 11:14:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\CliDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 22
+[06-Dec-2025 02:02:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[06-Dec-2025 02:04:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php on line 23
+[06-Dec-2025 02:06:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\AbstractDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 23
+[06-Dec-2025 02:07:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\CliDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 22
+[06-Dec-2025 02:41:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[06-Dec-2025 02:43:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php on line 23
+[06-Dec-2025 02:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\AbstractDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 23
+[06-Dec-2025 02:46:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\CliDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 22
+[31-Jan-2026 11:23:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php on line 20
+[31-Jan-2026 19:44:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[31-Jan-2026 21:08:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php on line 23
+[01-Feb-2026 03:31:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\AbstractDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 23
+[01-Feb-2026 10:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\CliDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 22
+[03-Feb-2026 04:07:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php on line 20
+[25-Feb-2026 08:30:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php on line 20
+[25-Feb-2026 08:51:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php on line 20
+[25-Feb-2026 16:50:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[25-Feb-2026 17:20:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[25-Feb-2026 18:15:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php on line 23
+[25-Feb-2026 18:48:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\DataDumperInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/ServerDumper.php on line 23
+[26-Feb-2026 01:17:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\AbstractDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 23
+[26-Feb-2026 01:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\AbstractDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 23
+[26-Feb-2026 07:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\CliDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 22
+[26-Feb-2026 08:50:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\CliDumper" not found in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 22

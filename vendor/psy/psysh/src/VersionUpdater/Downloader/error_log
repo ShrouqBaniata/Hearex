@@ -1,0 +1,8 @@
+[01-Feb-2026 23:59:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Downloader" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/Downloader/FileDownloader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/Downloader/FileDownloader.php on line 17
+[02-Feb-2026 00:00:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Downloader" not found in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/Downloader/CurlDownloader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VersionUpdater/Downloader/CurlDownloader.php on line 19

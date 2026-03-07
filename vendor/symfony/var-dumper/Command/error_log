@@ -1,0 +1,28 @@
+[29-Nov-2025 20:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[02-Dec-2025 20:52:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[02-Dec-2025 21:06:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[02-Dec-2025 21:14:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[31-Jan-2026 20:20:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[03-Feb-2026 04:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[25-Feb-2026 17:59:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39

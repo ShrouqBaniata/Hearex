@@ -1,0 +1,24 @@
+[01-Feb-2026 08:07:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\Dumper\MatcherDumperInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/MatcherDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/MatcherDumper.php on line 21
+[01-Feb-2026 08:08:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\Dumper\MatcherDumper" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherDumper.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherDumper.php on line 27
+[26-Feb-2026 05:47:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\Dumper\MatcherDumperInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/MatcherDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/MatcherDumper.php on line 21
+[26-Feb-2026 05:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\Dumper\MatcherDumper" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherDumper.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherDumper.php on line 27
+[26-Feb-2026 06:11:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\Dumper\MatcherDumperInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/MatcherDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/MatcherDumper.php on line 21
+[26-Feb-2026 06:12:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\Dumper\MatcherDumper" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherDumper.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherDumper.php on line 27

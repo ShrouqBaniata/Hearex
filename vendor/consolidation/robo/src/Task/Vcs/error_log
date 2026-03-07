@@ -1,0 +1,12 @@
+[02-Feb-2026 03:59:03 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\CommandStack" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Vcs/HgStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Vcs/HgStack.php on line 24
+[02-Feb-2026 21:29:36 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\CommandStack" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Vcs/SvnStack.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Vcs/SvnStack.php on line 30
+[02-Feb-2026 23:11:57 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\CommandStack" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Vcs/GitStack.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Vcs/GitStack.php on line 31

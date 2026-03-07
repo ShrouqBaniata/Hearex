@@ -1,0 +1,172 @@
+[28-Nov-2025 20:00:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php on line 31
+[29-Nov-2025 13:40:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php on line 38
+[29-Nov-2025 14:40:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php on line 33
+[29-Nov-2025 14:42:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php on line 54
+[29-Nov-2025 22:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Dumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php on line 21
+[01-Dec-2025 07:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php on line 31
+[01-Dec-2025 08:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php on line 38
+[01-Dec-2025 08:19:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php on line 54
+[01-Dec-2025 08:22:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Dumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php on line 21
+[01-Dec-2025 08:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php on line 33
+[01-Dec-2025 08:51:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php on line 31
+[01-Dec-2025 09:11:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php on line 38
+[01-Dec-2025 09:12:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php on line 33
+[01-Dec-2025 09:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php on line 54
+[01-Dec-2025 09:19:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Dumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php on line 21
+[01-Dec-2025 09:31:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php on line 31
+[01-Dec-2025 09:43:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php on line 38
+[01-Dec-2025 09:50:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php on line 54
+[01-Dec-2025 09:51:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php on line 33
+[01-Dec-2025 09:59:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Dumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php on line 21
+[01-Dec-2025 10:27:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php on line 31
+[01-Dec-2025 10:44:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php on line 38
+[01-Dec-2025 10:48:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php on line 54
+[01-Dec-2025 10:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php on line 33
+[05-Dec-2025 03:21:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Dumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php on line 21
+[31-Jan-2026 13:43:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php on line 38
+[31-Jan-2026 14:31:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php on line 33
+[31-Jan-2026 14:32:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php on line 54
+[31-Jan-2026 22:11:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Dumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php on line 21
+[02-Feb-2026 11:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php on line 38
+[02-Feb-2026 11:29:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php on line 54
+[02-Feb-2026 11:30:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php on line 33
+[02-Feb-2026 11:32:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Dumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php on line 21
+[24-Feb-2026 18:01:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php on line 31
+[24-Feb-2026 18:09:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/GraphvizDumper.php on line 31
+[25-Feb-2026 10:42:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php on line 38
+[25-Feb-2026 11:10:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/YamlDumper.php on line 38
+[25-Feb-2026 11:33:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php on line 54
+[25-Feb-2026 11:37:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php on line 33
+[25-Feb-2026 11:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/XmlDumper.php on line 33
+[25-Feb-2026 12:06:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Dumper\Dumper" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/PhpDumper.php on line 54
+[25-Feb-2026 19:19:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Dumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php on line 21
+[25-Feb-2026 19:52:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Dumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/Dumper/Dumper.php on line 21

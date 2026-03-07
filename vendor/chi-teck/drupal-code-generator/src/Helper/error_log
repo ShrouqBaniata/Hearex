@@ -1,0 +1,24 @@
+[30-Nov-2025 00:32:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php on line 24
+[05-Dec-2025 04:33:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php on line 24
+[01-Feb-2026 00:31:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php on line 24
+[03-Feb-2026 17:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php on line 24
+[25-Feb-2026 21:51:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php on line 24
+[25-Feb-2026 22:20:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/QuestionHelper.php on line 24

@@ -1,0 +1,5 @@
+[29-Nov-2025 12:34:16 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/SerializerContextBuilder.php on line 22
+[31-Jan-2026 12:37:43 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/SerializerContextBuilder.php on line 22
+[03-Feb-2026 08:02:47 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/SerializerContextBuilder.php on line 22
+[25-Feb-2026 09:38:10 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/SerializerContextBuilder.php on line 22
+[25-Feb-2026 10:04:54 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/SerializerContextBuilder.php on line 22

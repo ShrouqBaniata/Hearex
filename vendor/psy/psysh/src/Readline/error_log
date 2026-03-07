@@ -1,0 +1,16 @@
+[01-Feb-2026 13:15:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/website1/public_html/vendor/psy/psysh/src/Readline/Userland.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Readline/Userland.php on line 26
+[01-Feb-2026 15:06:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/website1/public_html/vendor/psy/psysh/src/Readline/GNUReadline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Readline/GNUReadline.php on line 21
+[01-Feb-2026 16:50:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/website1/public_html/vendor/psy/psysh/src/Readline/Transient.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Readline/Transient.php on line 19
+[01-Feb-2026 19:33:27 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Readline\GNUReadline" not found in /home/website1/public_html/vendor/psy/psysh/src/Readline/Libedit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/Readline/Libedit.php on line 26

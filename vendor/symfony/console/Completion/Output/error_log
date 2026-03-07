@@ -1,0 +1,48 @@
+[01-Feb-2026 09:42:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[01-Feb-2026 09:43:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[01-Feb-2026 09:44:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[02-Feb-2026 08:40:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[02-Feb-2026 08:41:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[02-Feb-2026 08:41:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[26-Feb-2026 07:33:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[26-Feb-2026 07:34:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[26-Feb-2026 07:35:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[26-Feb-2026 08:05:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[26-Feb-2026 08:06:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[26-Feb-2026 08:07:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/website1/public_html/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20

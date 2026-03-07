@@ -1,0 +1,36 @@
+[29-Nov-2025 16:19:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[29-Nov-2025 18:14:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 22
+[31-Jan-2026 16:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[31-Jan-2026 18:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 22
+[01-Feb-2026 21:35:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[01-Feb-2026 21:36:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 22
+[25-Feb-2026 13:10:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[25-Feb-2026 15:17:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 22
+[25-Feb-2026 15:47:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface" not found in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 22

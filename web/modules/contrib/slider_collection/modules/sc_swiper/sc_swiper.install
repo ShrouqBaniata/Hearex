@@ -1,0 +1,31 @@
+<?php
+
+/**
+ * @file
+ * Install, update and uninstall functions for the Swiper module.
+ */
+
+/**
+ * Implements hook_requirements().
+ */
+function sc_swiper_requirements($phase) {
+  if ($phase != 'runtime') {
+    return [];
+  }
+
+  $library = \Drupal::service('library.discovery')->getLibraryByName('sc_swiper', 'swiper');
+  $library_exists = file_exists(DRUPAL_ROOT . '/' . $library['js'][0]['data']);
+
+  return [
+    'swiper_library_downloaded' => [
+      'title' => t('Swiper library'),
+      'value' => $library_exists ? t('Installed') : t('Not installed'),
+      'description' => $library_exists ?
+      ''
+        : t('The Swiper library needs to be <a href="@url">downloaded</a> and extracted into the /libraries/swiper folder in your Drupal installation directory.', [
+          '@url' => 'https://www.npmjs.com/package/swiper',
+        ]),
+      'severity' => $library_exists ? REQUIREMENT_OK : REQUIREMENT_ERROR,
+    ],
+  ];
+}

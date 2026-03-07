@@ -1,0 +1,40 @@
+[30-Nov-2025 05:01:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[30-Nov-2025 05:06:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[01-Feb-2026 04:03:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[01-Feb-2026 04:04:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[03-Feb-2026 21:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[03-Feb-2026 21:49:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[26-Feb-2026 01:30:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[26-Feb-2026 01:31:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[26-Feb-2026 02:03:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[26-Feb-2026 02:04:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25

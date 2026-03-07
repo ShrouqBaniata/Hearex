@@ -1,0 +1,12 @@
+[01-Dec-2025 03:03:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\CliDumper" not found in /home/website1/public_html/vendor/psy/psysh/src/VarDumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VarDumper/Dumper.php on line 21
+[01-Feb-2026 19:33:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\VarCloner" not found in /home/website1/public_html/vendor/psy/psysh/src/VarDumper/Cloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VarDumper/Cloner.php on line 22
+[02-Feb-2026 06:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\CliDumper" not found in /home/website1/public_html/vendor/psy/psysh/src/VarDumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/VarDumper/Dumper.php on line 21

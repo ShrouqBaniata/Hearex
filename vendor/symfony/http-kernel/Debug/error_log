@@ -1,0 +1,60 @@
+[29-Nov-2025 05:32:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[29-Nov-2025 11:26:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[29-Nov-2025 15:30:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[31-Jan-2026 06:08:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[31-Jan-2026 11:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[31-Jan-2026 15:19:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[03-Feb-2026 10:00:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[03-Feb-2026 10:01:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[03-Feb-2026 10:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[25-Feb-2026 03:03:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[25-Feb-2026 03:32:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[25-Feb-2026 08:49:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[25-Feb-2026 09:10:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[25-Feb-2026 12:21:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16
+[25-Feb-2026 12:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Debug\trigger_deprecation() in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Debug/FileLinkFormatter.php on line 16

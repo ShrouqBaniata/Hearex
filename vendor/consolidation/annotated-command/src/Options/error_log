@@ -1,0 +1,80 @@
+[29-Nov-2025 20:52:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Options\PrepareFormatter" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[30-Nov-2025 00:12:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[02-Dec-2025 16:36:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[02-Dec-2025 16:37:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[02-Dec-2025 16:40:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Options\PrepareFormatter" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[02-Dec-2025 16:44:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[02-Dec-2025 17:04:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[02-Dec-2025 17:07:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Options\PrepareFormatter" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[05-Dec-2025 02:41:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Options\PrepareFormatter" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[05-Dec-2025 04:22:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[06-Dec-2025 01:14:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Options\PrepareFormatter" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[06-Dec-2025 01:14:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[06-Dec-2025 01:23:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Options\PrepareFormatter" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[06-Dec-2025 01:24:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[31-Jan-2026 20:58:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Options\PrepareFormatter" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[01-Feb-2026 00:10:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[25-Feb-2026 18:03:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Options\PrepareFormatter" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[25-Feb-2026 18:37:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\AnnotatedCommand\Options\PrepareFormatter" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[25-Feb-2026 21:30:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[25-Feb-2026 22:02:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32

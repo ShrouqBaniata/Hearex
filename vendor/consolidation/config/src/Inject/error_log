@@ -1,0 +1,16 @@
+[05-Dec-2025 08:05:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/config/src/Inject/ConfigForCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Inject/ConfigForCommand.php on line 13
+[01-Feb-2026 05:35:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/config/src/Inject/ConfigForCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Inject/ConfigForCommand.php on line 13
+[26-Feb-2026 03:13:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/config/src/Inject/ConfigForCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Inject/ConfigForCommand.php on line 13
+[26-Feb-2026 03:46:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/website1/public_html/vendor/consolidation/config/src/Inject/ConfigForCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/config/src/Inject/ConfigForCommand.php on line 13

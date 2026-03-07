@@ -1,0 +1,9 @@
+[03-Feb-2026 23:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php(7): require()
+#1 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[03-Feb-2026 23:32:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 12

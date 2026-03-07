@@ -1,0 +1,28 @@
+[02-Feb-2026 11:05:25 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/ImageMinify.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/ImageMinify.php on line 79
+[02-Feb-2026 23:13:01 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/Minify.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/Minify.php on line 24
+[03-Feb-2026 06:49:55 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Assets\CssPreprocessor" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/Less.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/Less.php on line 43
+[03-Feb-2026 19:02:23 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/ImageMinify.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/ImageMinify.php on line 79
+[03-Feb-2026 19:03:18 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/Minify.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/Minify.php on line 24
+[03-Feb-2026 19:04:18 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Assets\CssPreprocessor" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/Less.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/Less.php on line 43
+[03-Feb-2026 21:31:42 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/CssPreprocessor.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Assets/CssPreprocessor.php on line 8

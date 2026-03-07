@@ -1,0 +1,80 @@
+[29-Nov-2025 01:01:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php on line 30
+[29-Nov-2025 01:04:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ContextualValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php on line 46
+[29-Nov-2025 01:09:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php on line 26
+[29-Nov-2025 10:19:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php on line 25
+[31-Jan-2026 02:07:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ContextualValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php on line 46
+[31-Jan-2026 02:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php on line 26
+[31-Jan-2026 02:10:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php on line 30
+[31-Jan-2026 10:44:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php on line 25
+[03-Feb-2026 12:33:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ContextualValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php on line 46
+[03-Feb-2026 12:34:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php on line 30
+[03-Feb-2026 12:35:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php on line 26
+[03-Feb-2026 12:36:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php on line 25
+[24-Feb-2026 22:44:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ContextualValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php on line 46
+[24-Feb-2026 22:47:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php on line 26
+[24-Feb-2026 22:47:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php on line 30
+[24-Feb-2026 23:00:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ContextualValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveContextualValidator.php on line 46
+[24-Feb-2026 23:02:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/RecursiveValidator.php on line 30
+[24-Feb-2026 23:02:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Validator\ValidatorInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/TraceableValidator.php on line 26
+[25-Feb-2026 07:47:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php on line 25
+[25-Feb-2026 08:19:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Validator\Mapping\Factory\MetadataFactoryInterface" not found in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/validator/Validator/ValidatorInterface.php on line 25

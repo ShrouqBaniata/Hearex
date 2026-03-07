@@ -1,0 +1,8 @@
+[01-Feb-2026 19:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Filter\FactoryInterface" not found in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[01-Feb-2026 19:20:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Filter\FactoryInterface" not found in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12

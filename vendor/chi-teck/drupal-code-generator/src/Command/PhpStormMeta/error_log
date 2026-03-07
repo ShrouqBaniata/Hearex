@@ -1,0 +1,4 @@
+[03-Feb-2026 20:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Command\BaseGenerator" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/PhpStormMeta/PhpStormMeta.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Command/PhpStormMeta/PhpStormMeta.php on line 24

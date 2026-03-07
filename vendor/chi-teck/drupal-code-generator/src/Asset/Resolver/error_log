@@ -1,0 +1,48 @@
+[30-Nov-2025 00:35:27 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[03-Dec-2025 00:31:19 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 11
+[06-Dec-2025 04:21:48 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 11
+[03-Feb-2026 06:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 11
+[03-Feb-2026 09:08:31 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[03-Feb-2026 09:09:22 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[03-Feb-2026 09:09:57 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 12
+[03-Feb-2026 17:48:32 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 11
+[03-Feb-2026 17:48:38 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[03-Feb-2026 17:48:43 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 12
+[03-Feb-2026 17:48:57 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[25-Feb-2026 21:46:06 UTC] PHP Fatal error:  Uncaught Error: Interface "DrupalCodeGenerator\Asset\Resolver\ResolverInterface" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9

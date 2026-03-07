@@ -1,0 +1,116 @@
+[29-Nov-2025 15:49:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php on line 33
+[29-Nov-2025 17:13:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php on line 28
+[29-Nov-2025 17:44:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php on line 30
+[30-Nov-2025 05:31:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php on line 27
+[30-Nov-2025 05:43:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php on line 26
+[31-Jan-2026 15:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php on line 33
+[31-Jan-2026 17:05:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php on line 28
+[31-Jan-2026 17:32:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php on line 30
+[01-Feb-2026 04:33:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php on line 26
+[01-Feb-2026 04:34:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php on line 27
+[01-Feb-2026 06:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/ListCommand.php on line 26
+[03-Feb-2026 11:00:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php on line 33
+[03-Feb-2026 11:07:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php on line 28
+[03-Feb-2026 11:08:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php on line 30
+[03-Feb-2026 11:11:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php on line 26
+[03-Feb-2026 11:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php on line 27
+[03-Feb-2026 11:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/ListCommand.php on line 26
+[25-Feb-2026 12:41:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php on line 33
+[25-Feb-2026 13:15:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/CompleteCommand.php on line 33
+[25-Feb-2026 14:07:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php on line 28
+[25-Feb-2026 14:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php on line 30
+[25-Feb-2026 14:37:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/DumpCompletionCommand.php on line 28
+[25-Feb-2026 15:08:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/TraceableCommand.php on line 30
+[26-Feb-2026 02:04:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php on line 27
+[26-Feb-2026 02:06:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php on line 26
+[26-Feb-2026 02:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/LazyCommand.php on line 27
+[26-Feb-2026 02:38:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/HelpCommand.php on line 26
+[26-Feb-2026 03:54:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/ListCommand.php on line 26
+[26-Feb-2026 04:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/website1/public_html/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Command/ListCommand.php on line 26

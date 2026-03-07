@@ -1,0 +1,20 @@
+[29-Nov-2025 04:54:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php on line 29
+[31-Jan-2026 05:36:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php on line 29
+[03-Feb-2026 14:43:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php on line 29
+[25-Feb-2026 02:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php on line 29
+[25-Feb-2026 03:04:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Test/TransportFactoryTestCase.php on line 29

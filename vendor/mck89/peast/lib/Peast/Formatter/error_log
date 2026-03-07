@@ -1,0 +1,24 @@
+[02-Feb-2026 06:45:16 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Formatter\Base" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/Compact.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/Compact.php on line 17
+[02-Feb-2026 22:15:43 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Formatter\Base" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/Expanded.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/Expanded.php on line 17
+[03-Feb-2026 07:40:21 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Formatter\Base" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/PrettyPrint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/PrettyPrint.php on line 17
+[03-Feb-2026 18:05:33 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Formatter\Base" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/Compact.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/Compact.php on line 17
+[03-Feb-2026 18:06:18 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Formatter\Base" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/Expanded.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/Expanded.php on line 17
+[03-Feb-2026 18:08:22 UTC] PHP Fatal error:  Uncaught Error: Class "Peast\Formatter\Base" not found in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/PrettyPrint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/mck89/peast/lib/Peast/Formatter/PrettyPrint.php on line 17

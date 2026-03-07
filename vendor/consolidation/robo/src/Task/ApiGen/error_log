@@ -1,0 +1,4 @@
+[03-Feb-2026 19:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/ApiGen/ApiGen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/ApiGen/ApiGen.php on line 25

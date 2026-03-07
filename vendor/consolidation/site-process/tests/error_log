@@ -1,0 +1,132 @@
+[28-Nov-2025 21:41:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[28-Nov-2025 21:45:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[28-Nov-2025 22:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[29-Nov-2025 14:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[02-Dec-2025 12:20:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[02-Dec-2025 12:25:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[02-Dec-2025 12:28:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[02-Dec-2025 12:29:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[02-Dec-2025 12:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[02-Dec-2025 12:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[02-Dec-2025 12:43:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[02-Dec-2025 12:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[02-Dec-2025 12:47:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[02-Dec-2025 12:53:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[02-Dec-2025 12:53:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[02-Dec-2025 13:14:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[02-Dec-2025 13:15:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[02-Dec-2025 13:16:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[02-Dec-2025 13:33:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[31-Jan-2026 00:27:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[31-Jan-2026 00:31:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[31-Jan-2026 14:40:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[03-Feb-2026 00:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[03-Feb-2026 00:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[03-Feb-2026 00:35:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[24-Feb-2026 19:27:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[24-Feb-2026 19:27:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[24-Feb-2026 19:41:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[24-Feb-2026 19:43:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[24-Feb-2026 20:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[24-Feb-2026 20:43:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[25-Feb-2026 11:41:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[25-Feb-2026 12:11:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/site-process/tests/EscapeTest.php on line 10

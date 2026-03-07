@@ -1,0 +1,30 @@
+[05-Dec-2025 09:40:29 UTC] PHP Fatal error:  Trait "League\Container\ContainerAwareTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregate.php on line 10
+[05-Dec-2025 09:50:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Container\ContainerAwareInterface" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php on line 10
+[05-Dec-2025 09:51:27 UTC] PHP Fatal error:  Trait "League\Container\ContainerAwareTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregate.php on line 10
+[05-Dec-2025 10:01:35 UTC] PHP Fatal error:  Trait "League\Container\ContainerAwareTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregate.php on line 10
+[05-Dec-2025 10:02:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Container\ContainerAwareInterface" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php on line 10
+[05-Dec-2025 10:18:58 UTC] PHP Fatal error:  Trait "League\Container\Argument\ArgumentResolverTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/Inflector.php on line 11
+[01-Feb-2026 08:02:01 UTC] PHP Fatal error:  Trait "League\Container\ContainerAwareTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregate.php on line 10
+[01-Feb-2026 08:06:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Container\ContainerAwareInterface" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php on line 10
+[01-Feb-2026 08:21:51 UTC] PHP Fatal error:  Trait "League\Container\Argument\ArgumentResolverTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/Inflector.php on line 11
+[26-Feb-2026 05:41:55 UTC] PHP Fatal error:  Trait "League\Container\ContainerAwareTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregate.php on line 10
+[26-Feb-2026 05:47:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Container\ContainerAwareInterface" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php on line 10
+[26-Feb-2026 06:00:08 UTC] PHP Fatal error:  Trait "League\Container\Argument\ArgumentResolverTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/Inflector.php on line 11
+[26-Feb-2026 06:35:01 UTC] PHP Fatal error:  Trait "League\Container\ContainerAwareTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregate.php on line 10
+[26-Feb-2026 06:38:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Container\ContainerAwareInterface" not found in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Inflector/InflectorAggregateInterface.php on line 10
+[26-Feb-2026 06:45:23 UTC] PHP Fatal error:  Trait "League\Container\Argument\ArgumentResolverTrait" not found in /home/website1/public_html/vendor/league/container/src/Inflector/Inflector.php on line 11

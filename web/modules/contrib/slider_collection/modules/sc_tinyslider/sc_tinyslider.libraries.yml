@@ -1,0 +1,22 @@
+tinyslider-views:
+  version: VERSION
+  dependencies:
+    - sc_tinyslider/tinyslider-init
+
+tinyslider-init:
+  version: VERSION
+  js:
+    js/tinyslider-init.js: {}
+  dependencies:
+    - sc_tinyslider/tinyslider
+
+tinyslider:
+  version: VERSION
+  js:
+    /libraries/tiny-slider/dist/min/tiny-slider.js:
+      preprocess: false
+      minified: true
+  css:
+    theme:
+      /libraries/tiny-slider/dist/tiny-slider.css: { minified: true }
+      css/tinyslider.css: { minified: true }

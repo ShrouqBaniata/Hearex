@@ -1,0 +1,20 @@
+[02-Feb-2026 23:12:02 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Bower\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Update.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Update.php on line 20
+[02-Feb-2026 23:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Bower\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Install.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Install.php on line 22
+[03-Feb-2026 13:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\BaseTask" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Base.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Base.php on line 9
+[03-Feb-2026 18:34:06 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Bower\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Install.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Install.php on line 22
+[03-Feb-2026 18:43:34 UTC] PHP Fatal error:  Uncaught Error: Class "Robo\Task\Bower\Base" not found in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Update.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Task/Bower/Update.php on line 20

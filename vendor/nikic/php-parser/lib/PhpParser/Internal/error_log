@@ -1,0 +1,4 @@
+[03-Feb-2026 16:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php on line 18

@@ -1,0 +1,20 @@
+[28-Nov-2025 18:39:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php on line 28
+[30-Jan-2026 22:44:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php on line 28
+[01-Feb-2026 21:54:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php on line 28
+[24-Feb-2026 16:46:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php on line 28
+[24-Feb-2026 16:54:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/ArgumentValueResolver/PsrServerRequestResolver.php on line 28

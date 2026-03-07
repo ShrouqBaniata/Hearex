@@ -1,0 +1,6 @@
+[24-Feb-2026 14:59:13 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/website1/public_html/vendor/masterminds/html5/bin/entities.php on line 9
+[24-Feb-2026 14:59:13 UTC] PHP Warning:  file_get_contents(http://www.w3.org/TR/2012/CR-html5-20121217/entities.json): Failed to open stream: no suitable wrapper could be found in /home/website1/public_html/vendor/masterminds/html5/bin/entities.php on line 9
+[24-Feb-2026 14:59:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/website1/public_html/vendor/masterminds/html5/bin/entities.php on line 13
+[24-Feb-2026 15:09:35 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/website1/public_html/vendor/masterminds/html5/bin/entities.php on line 9
+[24-Feb-2026 15:09:35 UTC] PHP Warning:  file_get_contents(http://www.w3.org/TR/2012/CR-html5-20121217/entities.json): Failed to open stream: no suitable wrapper could be found in /home/website1/public_html/vendor/masterminds/html5/bin/entities.php on line 9
+[24-Feb-2026 15:09:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/website1/public_html/vendor/masterminds/html5/bin/entities.php on line 13

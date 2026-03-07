@@ -1,0 +1,36 @@
+[28-Nov-2025 16:14:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\ErrorHandler\Error\FatalError" not found in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[29-Nov-2025 14:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\ErrorHandler\Error\FatalError" not found in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[29-Nov-2025 14:35:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\ErrorHandler\Error\FatalError" not found in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[04-Dec-2025 11:14:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\ErrorHandler\Error\FatalError" not found in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[30-Jan-2026 20:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\ErrorHandler\Error\FatalError" not found in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[31-Jan-2026 14:33:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\ErrorHandler\Error\FatalError" not found in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[24-Feb-2026 14:20:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\ErrorHandler\Error\FatalError" not found in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[24-Feb-2026 14:34:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\ErrorHandler\Error\FatalError" not found in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[25-Feb-2026 12:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\ErrorHandler\Error\FatalError" not found in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14

@@ -1,0 +1,24 @@
+[05-Dec-2025 09:25:27 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[01-Feb-2026 07:40:15 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[01-Feb-2026 14:55:39 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[01-Feb-2026 17:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[26-Feb-2026 05:17:01 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[26-Feb-2026 05:50:36 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8

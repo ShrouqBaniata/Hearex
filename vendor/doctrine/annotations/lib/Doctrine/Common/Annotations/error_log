@@ -1,0 +1,28 @@
+[03-Feb-2026 23:09:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Common\Annotations\Reader" not found in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationReader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationReader.php on line 23
+[03-Feb-2026 23:09:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Common\Annotations\Reader" not found in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/IndexedReader.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/IndexedReader.php on line 15
+[03-Feb-2026 23:09:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Common\Annotations\Reader" not found in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/FileCacheReader.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/FileCacheReader.php on line 38
+[03-Feb-2026 23:09:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Common\Annotations\Reader" not found in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/PsrCachedReader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/PsrCachedReader.php on line 23
+[03-Feb-2026 23:10:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Common\Annotations\Reader" not found in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/CachedReader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/CachedReader.php on line 25
+[03-Feb-2026 23:17:52 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocLexer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocLexer.php on line 21
+[03-Feb-2026 23:21:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Common\Annotations\Reader" not found in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/SimpleAnnotationReader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/SimpleAnnotationReader.php on line 17

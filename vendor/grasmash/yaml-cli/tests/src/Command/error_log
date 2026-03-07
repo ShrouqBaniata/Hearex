@@ -1,0 +1,28 @@
+[02-Feb-2026 08:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "Grasmash\YamlCli\Tests\TestBase" not found in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/ApplicationTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/ApplicationTest.php on line 7
+[02-Feb-2026 21:02:16 UTC] PHP Fatal error:  Uncaught Error: Class "Grasmash\YamlCli\Tests\TestBase" not found in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/UpdateValueCommandTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/UpdateValueCommandTest.php on line 11
+[03-Feb-2026 05:21:22 UTC] PHP Fatal error:  Uncaught Error: Class "Grasmash\YamlCli\Tests\TestBase" not found in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/UpdateKeyCommandTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/UpdateKeyCommandTest.php on line 10
+[03-Feb-2026 08:15:25 UTC] PHP Fatal error:  Uncaught Error: Class "Grasmash\YamlCli\Tests\TestBase" not found in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/GetValueCommandTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/GetValueCommandTest.php on line 9
+[03-Feb-2026 08:15:31 UTC] PHP Fatal error:  Uncaught Error: Class "Grasmash\YamlCli\Tests\TestBase" not found in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/UnsetKeyCommandTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/UnsetKeyCommandTest.php on line 10
+[03-Feb-2026 11:26:16 UTC] PHP Fatal error:  Uncaught Error: Class "Grasmash\YamlCli\Tests\TestBase" not found in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/GetTypeCommandTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/GetTypeCommandTest.php on line 9
+[03-Feb-2026 17:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "Grasmash\YamlCli\Tests\TestBase" not found in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/LintCommandTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/grasmash/yaml-cli/tests/src/Command/LintCommandTest.php on line 10

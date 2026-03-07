@@ -1,0 +1,96 @@
+[29-Nov-2025 22:11:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php on line 17
+[29-Nov-2025 22:18:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php on line 19
+[29-Nov-2025 22:18:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php on line 17
+[30-Nov-2025 05:41:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php on line 17
+[05-Dec-2025 03:27:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php on line 17
+[05-Dec-2025 03:28:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php on line 19
+[05-Dec-2025 03:29:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php on line 17
+[05-Dec-2025 06:59:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php on line 17
+[31-Jan-2026 22:16:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php on line 17
+[31-Jan-2026 22:17:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php on line 19
+[31-Jan-2026 22:18:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php on line 17
+[01-Feb-2026 04:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php on line 17
+[01-Feb-2026 19:21:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php on line 17
+[01-Feb-2026 19:22:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php on line 19
+[01-Feb-2026 19:23:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php on line 17
+[01-Feb-2026 19:24:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php on line 17
+[25-Feb-2026 19:26:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php on line 17
+[25-Feb-2026 19:27:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php on line 19
+[25-Feb-2026 19:28:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php on line 17
+[25-Feb-2026 19:57:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchNoneConstraint.php on line 17
+[25-Feb-2026 19:59:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MatchAllConstraint.php on line 19
+[25-Feb-2026 20:00:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/MultiConstraint.php on line 17
+[26-Feb-2026 02:10:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php on line 17
+[26-Feb-2026 02:43:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Composer\Semver\Constraint\ConstraintInterface" not found in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/composer/semver/src/Constraint/Constraint.php on line 17

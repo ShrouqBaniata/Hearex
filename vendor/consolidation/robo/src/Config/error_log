@@ -1,0 +1,40 @@
+[30-Nov-2025 04:21:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\GlobalOptionDefaultValuesInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php on line 16
+[30-Nov-2025 04:32:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\GlobalOptionDefaultValuesInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php on line 16
+[30-Nov-2025 04:53:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\GlobalOptionDefaultValuesInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php on line 16
+[05-Dec-2025 06:22:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\GlobalOptionDefaultValuesInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php on line 16
+[05-Dec-2025 06:43:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\GlobalOptionDefaultValuesInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php on line 16
+[05-Dec-2025 06:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\GlobalOptionDefaultValuesInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php on line 16
+[01-Feb-2026 03:33:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\GlobalOptionDefaultValuesInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php on line 16
+[01-Feb-2026 17:30:09 UTC] PHP Fatal error:  Uncaught Error: Class "Consolidation\Config\Util\ConfigOverlay" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/Config.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/Config.php on line 8
+[26-Feb-2026 00:58:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\GlobalOptionDefaultValuesInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php on line 16
+[26-Feb-2026 01:34:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Consolidation\Config\GlobalOptionDefaultValuesInterface" not found in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/consolidation/robo/src/Config/GlobalOptionDefaultValuesInterface.php on line 16

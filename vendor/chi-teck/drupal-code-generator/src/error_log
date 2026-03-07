@@ -1,0 +1,28 @@
+[29-Nov-2025 07:08:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php on line 44
+[01-Dec-2025 01:02:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php on line 44
+[01-Dec-2025 01:14:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php on line 44
+[31-Jan-2026 07:45:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php on line 44
+[02-Feb-2026 04:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php on line 44
+[25-Feb-2026 04:40:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php on line 44
+[25-Feb-2026 05:07:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Application.php on line 44

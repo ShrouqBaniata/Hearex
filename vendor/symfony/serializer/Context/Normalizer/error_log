@@ -1,0 +1,143 @@
+[29-Nov-2025 19:24:33 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ConstraintViolationListNormalizerContextBuilder.php on line 23
+[29-Nov-2025 19:27:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php on line 19
+[29-Nov-2025 19:29:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php on line 19
+[29-Nov-2025 19:31:09 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ProblemNormalizerContextBuilder.php on line 23
+[29-Nov-2025 19:33:11 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/FormErrorNormalizerContextBuilder.php on line 23
+[29-Nov-2025 19:34:06 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/UnwrappingDenormalizerContextBuilder.php on line 26
+[29-Nov-2025 19:35:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php on line 21
+[29-Nov-2025 19:36:12 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/BackedEnumNormalizerContextBuilder.php on line 23
+[29-Nov-2025 19:37:14 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateIntervalNormalizerContextBuilder.php on line 23
+[29-Nov-2025 19:39:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php on line 22
+[29-Nov-2025 19:40:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php on line 19
+[29-Nov-2025 19:41:26 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateTimeNormalizerContextBuilder.php on line 24
+[29-Nov-2025 19:42:30 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractNormalizerContextBuilder.php on line 24
+[29-Nov-2025 19:49:02 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/UidNormalizerContextBuilder.php on line 24
+[31-Jan-2026 19:21:00 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ConstraintViolationListNormalizerContextBuilder.php on line 23
+[31-Jan-2026 19:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php on line 19
+[31-Jan-2026 19:22:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php on line 19
+[31-Jan-2026 19:23:30 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateTimeNormalizerContextBuilder.php on line 24
+[31-Jan-2026 19:24:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php on line 21
+[31-Jan-2026 19:25:38 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ProblemNormalizerContextBuilder.php on line 23
+[31-Jan-2026 19:26:41 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractNormalizerContextBuilder.php on line 24
+[31-Jan-2026 19:27:42 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/BackedEnumNormalizerContextBuilder.php on line 23
+[31-Jan-2026 19:28:44 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/UnwrappingDenormalizerContextBuilder.php on line 26
+[31-Jan-2026 19:29:47 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/FormErrorNormalizerContextBuilder.php on line 23
+[31-Jan-2026 19:30:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php on line 22
+[31-Jan-2026 19:31:56 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateIntervalNormalizerContextBuilder.php on line 23
+[31-Jan-2026 19:32:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php on line 19
+[31-Jan-2026 19:38:21 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/UidNormalizerContextBuilder.php on line 24
+[03-Feb-2026 20:35:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php on line 19
+[03-Feb-2026 20:36:02 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ProblemNormalizerContextBuilder.php on line 23
+[03-Feb-2026 20:36:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php on line 21
+[03-Feb-2026 20:36:38 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateTimeNormalizerContextBuilder.php on line 24
+[03-Feb-2026 20:37:39 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ConstraintViolationListNormalizerContextBuilder.php on line 23
+[03-Feb-2026 20:38:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php on line 19
+[03-Feb-2026 20:39:47 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractNormalizerContextBuilder.php on line 24
+[03-Feb-2026 20:41:48 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/BackedEnumNormalizerContextBuilder.php on line 23
+[03-Feb-2026 20:42:43 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/UnwrappingDenormalizerContextBuilder.php on line 26
+[03-Feb-2026 20:43:46 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/FormErrorNormalizerContextBuilder.php on line 23
+[03-Feb-2026 20:44:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php on line 22
+[03-Feb-2026 20:45:53 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateIntervalNormalizerContextBuilder.php on line 23
+[03-Feb-2026 20:46:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php on line 19
+[03-Feb-2026 20:47:57 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/UidNormalizerContextBuilder.php on line 24
+[25-Feb-2026 16:26:22 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ConstraintViolationListNormalizerContextBuilder.php on line 23
+[25-Feb-2026 16:26:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php on line 19
+[25-Feb-2026 16:27:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php on line 19
+[25-Feb-2026 16:28:59 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ProblemNormalizerContextBuilder.php on line 23
+[25-Feb-2026 16:30:00 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateTimeNormalizerContextBuilder.php on line 24
+[25-Feb-2026 16:31:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php on line 21
+[25-Feb-2026 16:33:12 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/BackedEnumNormalizerContextBuilder.php on line 23
+[25-Feb-2026 16:35:16 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/FormErrorNormalizerContextBuilder.php on line 23
+[25-Feb-2026 16:36:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php on line 22
+[25-Feb-2026 16:37:24 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateIntervalNormalizerContextBuilder.php on line 23
+[25-Feb-2026 16:38:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php on line 19
+[25-Feb-2026 16:43:56 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/UidNormalizerContextBuilder.php on line 24
+[25-Feb-2026 16:56:15 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/BackedEnumNormalizerContextBuilder.php on line 23
+[25-Feb-2026 16:56:46 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ConstraintViolationListNormalizerContextBuilder.php on line 23
+[25-Feb-2026 16:57:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/JsonSerializableNormalizerContextBuilder.php on line 19
+[25-Feb-2026 16:58:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ObjectNormalizerContextBuilder.php on line 19
+[25-Feb-2026 16:59:50 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/ProblemNormalizerContextBuilder.php on line 23
+[25-Feb-2026 17:00:55 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateTimeNormalizerContextBuilder.php on line 24
+[25-Feb-2026 17:01:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/PropertyNormalizerContextBuilder.php on line 21
+[25-Feb-2026 17:03:00 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractNormalizerContextBuilder.php on line 24
+[25-Feb-2026 17:04:04 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/UnwrappingDenormalizerContextBuilder.php on line 26
+[25-Feb-2026 17:05:10 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/FormErrorNormalizerContextBuilder.php on line 23
+[25-Feb-2026 17:06:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/AbstractObjectNormalizerContextBuilder.php on line 22
+[25-Feb-2026 17:07:20 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/DateIntervalNormalizerContextBuilder.php on line 23
+[25-Feb-2026 17:08:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Serializer\Context\Normalizer\AbstractObjectNormalizerContextBuilder" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/GetSetMethodNormalizerContextBuilder.php on line 19
+[25-Feb-2026 17:13:40 UTC] PHP Fatal error:  Trait "Symfony\Component\Serializer\Context\ContextBuilderTrait" not found in /home/website1/public_html/vendor/symfony/serializer/Context/Normalizer/UidNormalizerContextBuilder.php on line 24

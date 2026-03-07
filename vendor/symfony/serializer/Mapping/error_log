@@ -1,0 +1,60 @@
+[29-Nov-2025 12:26:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\AttributeMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php on line 19
+[29-Nov-2025 12:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassDiscriminatorResolverInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php on line 19
+[29-Nov-2025 12:39:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php on line 17
+[31-Jan-2026 12:38:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassDiscriminatorResolverInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php on line 19
+[31-Jan-2026 12:44:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\AttributeMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php on line 19
+[31-Jan-2026 12:47:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php on line 17
+[03-Feb-2026 07:59:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassDiscriminatorResolverInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php on line 19
+[03-Feb-2026 08:00:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\AttributeMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php on line 19
+[03-Feb-2026 08:01:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php on line 17
+[25-Feb-2026 09:40:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassDiscriminatorResolverInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php on line 19
+[25-Feb-2026 09:44:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\AttributeMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php on line 19
+[25-Feb-2026 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php on line 17
+[25-Feb-2026 10:05:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassDiscriminatorResolverInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassDiscriminatorFromClassMetadata.php on line 19
+[25-Feb-2026 10:13:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\AttributeMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/AttributeMetadata.php on line 19
+[25-Feb-2026 10:15:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Mapping\ClassMetadataInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Mapping/ClassMetadata.php on line 17

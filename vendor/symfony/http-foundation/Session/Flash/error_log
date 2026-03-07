@@ -1,0 +1,72 @@
+[29-Nov-2025 21:52:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php on line 19
+[29-Nov-2025 21:58:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\SessionBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php on line 21
+[30-Nov-2025 05:28:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php on line 19
+[31-Jan-2026 21:24:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php on line 19
+[31-Jan-2026 21:33:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\SessionBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php on line 21
+[01-Feb-2026 04:18:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php on line 19
+[02-Feb-2026 08:53:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php on line 19
+[02-Feb-2026 08:53:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\SessionBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php on line 21
+[02-Feb-2026 08:53:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php on line 19
+[03-Feb-2026 19:45:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php on line 19
+[03-Feb-2026 19:45:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\SessionBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php on line 21
+[03-Feb-2026 19:46:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php on line 19
+[25-Feb-2026 18:34:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php on line 19
+[25-Feb-2026 18:42:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\SessionBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php on line 21
+[25-Feb-2026 19:07:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/AutoExpireFlashBag.php on line 19
+[25-Feb-2026 19:13:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\SessionBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBagInterface.php on line 21
+[26-Feb-2026 01:49:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php on line 19
+[26-Feb-2026 02:22:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Session/Flash/FlashBag.php on line 19

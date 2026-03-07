@@ -1,0 +1,24 @@
+[01-Dec-2025 21:23:38 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/QuestionHelper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/QuestionHelper.php on line 19
+[02-Feb-2026 14:50:17 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/QuestionHelper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/QuestionHelper.php on line 19
+[03-Feb-2026 09:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Test\Functional\FunctionalTestBase" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/GeneratorTestBase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/GeneratorTestBase.php on line 13
+[03-Feb-2026 20:54:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/FunctionalTestBase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/FunctionalTestBase.php on line 20
+[04-Feb-2026 00:10:42 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/QuestionHelper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/QuestionHelper.php on line 19
+[04-Feb-2026 00:14:59 UTC] PHP Fatal error:  Uncaught Error: Class "DrupalCodeGenerator\Test\Functional\FunctionalTestBase" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/GeneratorTestBase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Test/Functional/GeneratorTestBase.php on line 13

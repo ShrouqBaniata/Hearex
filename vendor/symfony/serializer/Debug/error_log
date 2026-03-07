@@ -1,0 +1,60 @@
+[29-Nov-2025 09:58:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Normalizer\NormalizerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php on line 30
+[29-Nov-2025 10:02:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php on line 29
+[29-Nov-2025 10:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Encoder\EncoderInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php on line 28
+[31-Jan-2026 09:30:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php on line 29
+[31-Jan-2026 09:33:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Normalizer\NormalizerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php on line 30
+[31-Jan-2026 09:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Encoder\EncoderInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php on line 28
+[03-Feb-2026 11:45:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php on line 29
+[03-Feb-2026 11:46:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Normalizer\NormalizerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php on line 30
+[03-Feb-2026 11:48:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Encoder\EncoderInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php on line 28
+[25-Feb-2026 07:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php on line 29
+[25-Feb-2026 07:03:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Normalizer\NormalizerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php on line 30
+[25-Feb-2026 07:28:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Encoder\EncoderInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php on line 28
+[25-Feb-2026 07:45:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableSerializer.php on line 29
+[25-Feb-2026 07:50:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Normalizer\NormalizerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableNormalizer.php on line 30
+[25-Feb-2026 07:52:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\Encoder\EncoderInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Debug/TraceableEncoder.php on line 28

@@ -1,0 +1,56 @@
+[29-Nov-2025 02:41:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[29-Nov-2025 02:45:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[02-Dec-2025 16:48:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[02-Dec-2025 16:49:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[02-Dec-2025 17:02:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[02-Dec-2025 17:06:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[31-Jan-2026 04:20:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[31-Jan-2026 04:21:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[03-Feb-2026 02:20:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[03-Feb-2026 02:20:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[25-Feb-2026 00:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[25-Feb-2026 01:03:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[25-Feb-2026 01:27:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[25-Feb-2026 01:29:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22

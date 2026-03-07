@@ -1,0 +1,73 @@
+<?php
+
+/**
+ * @file
+ * Slider collection Tiny Slider functionality.
+ */
+
+use Drupal\Component\Utility\Crypt;
+use Drupal\Component\Utility\Html;
+use Drupal\Core\Routing\RouteMatchInterface;
+use Drupal\slider_collection\Event\AlterViewSettingsEvent;
+use Drupal\slider_collection\Event\SliderCollectionEvents;
+
+/**
+ * Implements hook_help().
+ */
+function sc_tinyslider_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    case 'help.page.sc_tinyslider':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Tiny Slider 2: Download code at: https://github.com/ganlanyuan/tiny-slider') . '</p>';
+      return $output;
+
+    default:
+  }
+
+  return NULL;
+}
+
+/**
+ * Implements hook_theme().
+ */
+function sc_tinyslider_theme() {
+  return [
+    'tinyslider_views' => [
+      'variables' => [],
+    ],
+  ];
+}
+
+/**
+ * Prepares variables for Views Tiny Slider 2 templates.
+ *
+ * Default template: tinyslider-views.html.twig.
+ *
+ * @param array $variables
+ *   An associative array containing:
+ *     - view: A View object.
+ */
+function template_preprocess_tinyslider_views(array &$variables) {
+  $handler = $variables['view']->style_plugin;
+
+  $tinySlider = \Drupal::service('sc_tinyslider.tinyslider');
+  $settings = $tinySlider->formattedSettings($handler->options);
+
+  // Allow users to override settings.
+  \Drupal::service('event_dispatcher')
+    ->dispatch(new AlterViewSettingsEvent($settings, $variables['view']), SliderCollectionEvents::ALTER_VIEW_SETTINGS);
+
+  // Used JSON_FORCE_OBJECT to force the numbers
+  // in the $settings array keys.
+  $variables['id'] = 'tiny-slider';
+  $variables['attributes']['id'] = Html::getUniqueId('tiny-slider-' . Crypt::randomBytesBase64(8));
+  $variables['attributes']['data-tiny-slider'] = json_encode($settings, JSON_FORCE_OBJECT);
+  $variables['attributes']['class'][] = 'tiny-slider';
+
+  $attached = [
+    '#attached' => ['library' => ['sc_tinyslider/tinyslider-views']],
+  ];
+  \Drupal::service('renderer')->render($attached);
+  template_preprocess_views_view_unformatted($variables);
+}

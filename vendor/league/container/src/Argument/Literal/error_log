@@ -1,0 +1,28 @@
+[01-Feb-2026 17:32:48 UTC] PHP Fatal error:  Uncaught Error: Class "League\Container\Argument\LiteralArgument" not found in /home/website1/public_html/vendor/league/container/src/Argument/Literal/IntegerArgument.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Argument/Literal/IntegerArgument.php on line 9
+[01-Feb-2026 17:33:52 UTC] PHP Fatal error:  Uncaught Error: Class "League\Container\Argument\LiteralArgument" not found in /home/website1/public_html/vendor/league/container/src/Argument/Literal/BooleanArgument.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Argument/Literal/BooleanArgument.php on line 9
+[01-Feb-2026 17:34:58 UTC] PHP Fatal error:  Uncaught Error: Class "League\Container\Argument\LiteralArgument" not found in /home/website1/public_html/vendor/league/container/src/Argument/Literal/CallableArgument.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Argument/Literal/CallableArgument.php on line 9
+[02-Feb-2026 00:53:29 UTC] PHP Fatal error:  Uncaught Error: Class "League\Container\Argument\LiteralArgument" not found in /home/website1/public_html/vendor/league/container/src/Argument/Literal/StringArgument.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Argument/Literal/StringArgument.php on line 9
+[02-Feb-2026 00:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\Container\Argument\LiteralArgument" not found in /home/website1/public_html/vendor/league/container/src/Argument/Literal/ObjectArgument.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Argument/Literal/ObjectArgument.php on line 9
+[02-Feb-2026 20:24:13 UTC] PHP Fatal error:  Uncaught Error: Class "League\Container\Argument\LiteralArgument" not found in /home/website1/public_html/vendor/league/container/src/Argument/Literal/FloatArgument.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Argument/Literal/FloatArgument.php on line 9
+[02-Feb-2026 20:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\Container\Argument\LiteralArgument" not found in /home/website1/public_html/vendor/league/container/src/Argument/Literal/ArrayArgument.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/league/container/src/Argument/Literal/ArrayArgument.php on line 9

@@ -1,0 +1,56 @@
+[30-Nov-2025 02:28:22 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[05-Dec-2025 05:46:29 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[05-Dec-2025 11:08:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[05-Dec-2025 11:44:27 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 24
+[01-Feb-2026 02:00:42 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[01-Feb-2026 10:17:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[01-Feb-2026 11:51:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 24
+[01-Feb-2026 21:47:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[01-Feb-2026 21:48:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[01-Feb-2026 21:49:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 24
+[25-Feb-2026 23:38:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[26-Feb-2026 00:04:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[26-Feb-2026 07:51:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[26-Feb-2026 08:42:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19

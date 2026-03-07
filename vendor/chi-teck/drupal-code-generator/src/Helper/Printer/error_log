@@ -1,0 +1,16 @@
+[03-Feb-2026 09:30:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Printer/TablePrinter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Printer/TablePrinter.php on line 18
+[03-Feb-2026 09:31:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Printer/ListPrinter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Printer/ListPrinter.php on line 16
+[03-Feb-2026 17:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Printer/TablePrinter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Printer/TablePrinter.php on line 18
+[03-Feb-2026 17:50:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Printer/ListPrinter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/chi-teck/drupal-code-generator/src/Helper/Printer/ListPrinter.php on line 16

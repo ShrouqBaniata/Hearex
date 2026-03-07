@@ -1,0 +1,152 @@
+[28-Nov-2025 14:19:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[28-Nov-2025 15:18:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[28-Nov-2025 15:20:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[28-Nov-2025 15:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[28-Nov-2025 16:23:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21
+[02-Dec-2025 08:05:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[02-Dec-2025 08:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[02-Dec-2025 08:09:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21
+[02-Dec-2025 08:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[02-Dec-2025 08:13:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[02-Dec-2025 08:16:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[02-Dec-2025 08:20:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[02-Dec-2025 08:24:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21
+[04-Dec-2025 09:29:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[04-Dec-2025 10:28:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[04-Dec-2025 10:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[04-Dec-2025 10:35:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[04-Dec-2025 11:25:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21
+[30-Jan-2026 17:41:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[30-Jan-2026 19:15:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[30-Jan-2026 19:19:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[30-Jan-2026 19:39:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[30-Jan-2026 20:17:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21
+[02-Feb-2026 20:51:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[02-Feb-2026 20:51:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[02-Feb-2026 20:52:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[02-Feb-2026 20:53:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[02-Feb-2026 20:54:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21
+[24-Feb-2026 12:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[24-Feb-2026 12:47:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[24-Feb-2026 13:27:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[24-Feb-2026 13:34:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[24-Feb-2026 13:40:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[24-Feb-2026 13:48:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[24-Feb-2026 13:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[24-Feb-2026 14:14:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[24-Feb-2026 14:30:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21
+[24-Feb-2026 14:46:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21

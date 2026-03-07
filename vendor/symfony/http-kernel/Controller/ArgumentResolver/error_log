@@ -1,0 +1,364 @@
+[29-Nov-2025 20:39:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php on line 26
+[29-Nov-2025 20:40:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php on line 21
+[29-Nov-2025 20:41:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php on line 28
+[29-Nov-2025 20:45:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php on line 24
+[29-Nov-2025 20:45:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php on line 25
+[29-Nov-2025 20:47:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php on line 25
+[29-Nov-2025 20:48:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php on line 24
+[29-Nov-2025 20:49:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php on line 26
+[29-Nov-2025 20:50:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php on line 24
+[29-Nov-2025 20:51:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php on line 24
+[29-Nov-2025 20:54:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php on line 28
+[29-Nov-2025 20:55:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php on line 40
+[29-Nov-2025 20:59:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php on line 27
+[30-Nov-2025 22:10:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php on line 25
+[30-Nov-2025 22:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php on line 28
+[30-Nov-2025 22:13:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php on line 26
+[30-Nov-2025 22:17:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php on line 24
+[30-Nov-2025 22:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php on line 24
+[30-Nov-2025 22:18:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php on line 28
+[30-Nov-2025 22:21:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php on line 25
+[30-Nov-2025 22:22:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php on line 21
+[30-Nov-2025 22:23:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php on line 26
+[30-Nov-2025 22:25:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php on line 24
+[30-Nov-2025 22:25:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php on line 24
+[30-Nov-2025 22:28:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php on line 27
+[30-Nov-2025 22:33:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php on line 40
+[30-Nov-2025 22:43:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php on line 25
+[30-Nov-2025 22:45:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php on line 26
+[30-Nov-2025 22:48:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php on line 28
+[30-Nov-2025 22:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php on line 27
+[30-Nov-2025 22:50:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php on line 24
+[30-Nov-2025 22:51:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php on line 21
+[30-Nov-2025 22:52:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php on line 26
+[30-Nov-2025 22:53:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php on line 40
+[30-Nov-2025 22:54:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php on line 24
+[30-Nov-2025 22:55:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php on line 24
+[30-Nov-2025 22:56:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php on line 25
+[30-Nov-2025 22:57:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php on line 28
+[30-Nov-2025 22:58:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php on line 24
+[31-Jan-2026 20:43:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php on line 26
+[31-Jan-2026 20:44:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php on line 25
+[31-Jan-2026 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php on line 28
+[31-Jan-2026 20:46:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php on line 24
+[31-Jan-2026 20:49:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php on line 25
+[31-Jan-2026 20:50:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php on line 21
+[31-Jan-2026 20:51:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php on line 26
+[31-Jan-2026 20:52:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php on line 24
+[31-Jan-2026 20:53:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php on line 24
+[31-Jan-2026 20:54:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php on line 24
+[31-Jan-2026 20:55:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php on line 28
+[31-Jan-2026 20:56:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php on line 40
+[31-Jan-2026 20:57:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php on line 27
+[01-Feb-2026 20:32:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php on line 26
+[01-Feb-2026 20:32:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php on line 25
+[01-Feb-2026 20:32:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php on line 28
+[01-Feb-2026 20:33:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php on line 24
+[01-Feb-2026 20:35:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php on line 26
+[01-Feb-2026 20:36:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php on line 24
+[01-Feb-2026 20:37:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php on line 21
+[01-Feb-2026 20:38:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php on line 25
+[01-Feb-2026 20:39:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php on line 24
+[01-Feb-2026 20:41:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php on line 24
+[01-Feb-2026 20:42:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php on line 28
+[01-Feb-2026 20:43:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php on line 40
+[01-Feb-2026 20:44:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php on line 27
+[25-Feb-2026 17:48:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php on line 26
+[25-Feb-2026 17:49:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php on line 28
+[25-Feb-2026 17:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php on line 25
+[25-Feb-2026 17:51:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php on line 24
+[25-Feb-2026 17:52:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php on line 26
+[25-Feb-2026 17:53:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php on line 25
+[25-Feb-2026 17:56:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php on line 24
+[25-Feb-2026 17:57:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php on line 21
+[25-Feb-2026 17:58:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php on line 24
+[25-Feb-2026 17:59:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php on line 24
+[25-Feb-2026 18:00:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php on line 28
+[25-Feb-2026 18:01:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php on line 27
+[25-Feb-2026 18:02:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php on line 40
+[25-Feb-2026 18:21:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/NotTaggedControllerValueResolver.php on line 26
+[25-Feb-2026 18:22:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/TraceableValueResolver.php on line 25
+[25-Feb-2026 18:23:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DateTimeValueResolver.php on line 28
+[25-Feb-2026 18:24:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/VariadicValueResolver.php on line 24
+[25-Feb-2026 18:25:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/UidValueResolver.php on line 21
+[25-Feb-2026 18:26:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/SessionValueResolver.php on line 25
+[25-Feb-2026 18:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/DefaultValueResolver.php on line 24
+[25-Feb-2026 18:31:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/ServiceValueResolver.php on line 26
+[25-Feb-2026 18:32:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestValueResolver.php on line 24
+[25-Feb-2026 18:33:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php on line 24
+[25-Feb-2026 18:34:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/BackedEnumValueResolver.php on line 28
+[25-Feb-2026 18:35:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestPayloadValueResolver.php on line 40
+[25-Feb-2026 18:36:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ValueResolverInterface" not found in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/http-kernel/Controller/ArgumentResolver/QueryParameterValueResolver.php on line 27

@@ -1,0 +1,9 @@
+[29-Nov-2025 15:52:01 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/website1/public_html/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[31-Jan-2026 15:38:34 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/website1/public_html/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[01-Feb-2026 07:13:20 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/website1/public_html/vendor/symfony/console/Tester/CommandTester.php on line 23
+[03-Feb-2026 14:13:18 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/website1/public_html/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[03-Feb-2026 14:28:58 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/website1/public_html/vendor/symfony/console/Tester/CommandTester.php on line 23
+[25-Feb-2026 12:35:47 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/website1/public_html/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[25-Feb-2026 13:02:43 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/website1/public_html/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[26-Feb-2026 04:49:00 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/website1/public_html/vendor/symfony/console/Tester/CommandTester.php on line 23
+[26-Feb-2026 05:15:18 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/website1/public_html/vendor/symfony/console/Tester/CommandTester.php on line 23

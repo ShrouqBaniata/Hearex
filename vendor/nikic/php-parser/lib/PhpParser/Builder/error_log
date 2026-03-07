@@ -1,0 +1,48 @@
+[03-Dec-2025 19:17:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUseAdaptation.php on line 11
+[03-Dec-2025 23:10:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 14
+[03-Dec-2025 23:35:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[03-Dec-2025 23:37:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/EnumCase.php on line 13
+[03-Dec-2025 23:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 11
+[03-Dec-2025 23:46:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/ClassConst.php on line 15
+[03-Dec-2025 23:48:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[03-Dec-2025 23:52:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[04-Dec-2025 00:01:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\FunctionLike" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[04-Dec-2025 00:02:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 11
+[04-Dec-2025 00:04:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Builder" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 10
+[04-Dec-2025 00:08:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Builder\Declaration" not found in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10

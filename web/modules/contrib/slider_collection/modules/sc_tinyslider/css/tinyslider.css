@@ -1,0 +1,4 @@
+.tiny-slider {
+  display: flex;
+  flex-flow: row nowrap;
+}

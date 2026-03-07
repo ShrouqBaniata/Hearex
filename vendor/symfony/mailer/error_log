@@ -1,0 +1,100 @@
+[28-Nov-2025 14:17:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[29-Nov-2025 22:39:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[02-Dec-2025 19:06:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[02-Dec-2025 19:10:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[02-Dec-2025 19:19:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[02-Dec-2025 19:32:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[02-Dec-2025 19:35:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[02-Dec-2025 19:51:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[02-Dec-2025 20:03:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[04-Dec-2025 09:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[05-Dec-2025 03:37:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[06-Dec-2025 01:35:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[06-Dec-2025 01:38:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[06-Dec-2025 01:50:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[06-Dec-2025 01:53:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[06-Dec-2025 02:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[06-Dec-2025 02:05:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[06-Dec-2025 02:41:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[06-Dec-2025 02:44:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[30-Jan-2026 17:30:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[31-Jan-2026 22:38:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[24-Feb-2026 12:21:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[24-Feb-2026 12:37:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[25-Feb-2026 19:59:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26
+[25-Feb-2026 20:32:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/website1/public_html/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/mailer/Mailer.php on line 26

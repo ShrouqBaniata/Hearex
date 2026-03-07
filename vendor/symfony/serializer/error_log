@@ -1,0 +1,36 @@
+[28-Nov-2025 15:18:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Serializer.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Serializer.php on line 49
+[02-Dec-2025 06:52:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Serializer.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Serializer.php on line 49
+[02-Dec-2025 07:12:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Serializer.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Serializer.php on line 49
+[02-Dec-2025 07:19:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Serializer.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Serializer.php on line 49
+[04-Dec-2025 10:26:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Serializer.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Serializer.php on line 49
+[30-Jan-2026 19:12:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Serializer.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Serializer.php on line 49
+[02-Feb-2026 18:27:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Serializer.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Serializer.php on line 49
+[24-Feb-2026 13:20:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Serializer.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Serializer.php on line 49
+[24-Feb-2026 13:46:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Serializer\SerializerInterface" not found in /home/website1/public_html/vendor/symfony/serializer/Serializer.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/serializer/Serializer.php on line 49

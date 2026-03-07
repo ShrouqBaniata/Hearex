@@ -1,0 +1,120 @@
+[29-Nov-2025 06:34:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ExpressionLanguage\ExpressionFunctionProviderInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php on line 23
+[29-Nov-2025 19:53:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php on line 29
+[29-Nov-2025 20:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php on line 24
+[29-Nov-2025 20:26:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php on line 22
+[29-Nov-2025 20:29:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php on line 24
+[30-Nov-2025 00:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php on line 20
+[31-Jan-2026 07:22:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ExpressionLanguage\ExpressionFunctionProviderInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php on line 23
+[31-Jan-2026 07:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php on line 24
+[31-Jan-2026 19:45:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php on line 29
+[31-Jan-2026 20:20:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php on line 24
+[31-Jan-2026 20:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php on line 22
+[01-Feb-2026 00:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php on line 20
+[03-Feb-2026 10:46:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ExpressionLanguage\ExpressionFunctionProviderInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php on line 23
+[03-Feb-2026 10:47:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php on line 24
+[03-Feb-2026 10:47:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php on line 29
+[03-Feb-2026 10:48:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php on line 24
+[03-Feb-2026 10:49:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php on line 22
+[03-Feb-2026 10:50:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php on line 20
+[25-Feb-2026 04:22:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ExpressionLanguage\ExpressionFunctionProviderInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php on line 23
+[25-Feb-2026 04:46:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ExpressionLanguage\ExpressionFunctionProviderInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php on line 23
+[25-Feb-2026 16:51:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php on line 29
+[25-Feb-2026 17:21:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcher.php on line 29
+[25-Feb-2026 17:21:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php on line 24
+[25-Feb-2026 17:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php on line 22
+[25-Feb-2026 17:32:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php on line 24
+[25-Feb-2026 17:54:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/UrlMatcherInterface.php on line 24
+[25-Feb-2026 18:05:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php on line 22
+[25-Feb-2026 18:05:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php on line 24
+[25-Feb-2026 22:20:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php on line 20
+[25-Feb-2026 22:49:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Matcher\UrlMatcher" not found in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php on line 20

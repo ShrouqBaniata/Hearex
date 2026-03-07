@@ -1,0 +1,28 @@
+{% if attributes -%}
+<div{{ attributes }}>
+  {% endif %}
+  {% if title %}
+    <h3>{{ title }}</h3>
+  {% endif %}
+
+  <div class="swiper-wrapper">
+    {% for item in content %}
+      <div class="swiper-slide">{{ item }}</div>
+    {% endfor %}
+  </div>
+  {% if pagination %}
+    <div class="swiper-pagination"></div>
+  {% endif %}
+
+  {% if navigation %}
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  {% endif %}
+
+  {% if scrollbar %}
+    <div class="swiper-scrollbar"></div>
+  {% endif %}
+
+  {% if attributes -%}
+</div>
+{% endif %}

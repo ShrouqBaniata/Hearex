@@ -1,0 +1,92 @@
+[29-Nov-2025 00:13:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpFoundationFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php on line 28
+[29-Nov-2025 04:51:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php on line 22
+[29-Nov-2025 16:38:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpMessageFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php on line 36
+[01-Dec-2025 06:51:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpMessageFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php on line 36
+[01-Dec-2025 06:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php on line 22
+[01-Dec-2025 06:54:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpFoundationFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php on line 28
+[01-Dec-2025 07:00:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpMessageFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php on line 36
+[01-Dec-2025 07:03:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php on line 22
+[04-Dec-2025 21:40:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpFoundationFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php on line 28
+[04-Dec-2025 21:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php on line 22
+[04-Dec-2025 21:40:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpMessageFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php on line 36
+[31-Jan-2026 01:10:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpFoundationFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php on line 28
+[31-Jan-2026 05:41:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php on line 22
+[31-Jan-2026 16:33:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpMessageFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php on line 36
+[02-Feb-2026 10:31:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpFoundationFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php on line 28
+[02-Feb-2026 10:32:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php on line 22
+[02-Feb-2026 10:33:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpMessageFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php on line 36
+[24-Feb-2026 21:43:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpFoundationFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php on line 28
+[24-Feb-2026 21:59:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpFoundationFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php on line 28
+[25-Feb-2026 02:35:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php on line 22
+[25-Feb-2026 02:59:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/UploadedFile.php on line 22
+[25-Feb-2026 13:31:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpMessageFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php on line 36
+[25-Feb-2026 14:07:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Bridge\PsrHttpMessage\HttpMessageFactoryInterface" not found in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/psr-http-message-bridge/Factory/PsrHttpFactory.php on line 36

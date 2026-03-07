@@ -1,0 +1,28 @@
+[28-Nov-2025 23:42:35 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[30-Nov-2025 02:32:35 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[30-Nov-2025 02:42:25 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[31-Jan-2026 00:58:34 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[01-Feb-2026 02:02:02 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[24-Feb-2026 21:14:27 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[24-Feb-2026 21:30:28 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14

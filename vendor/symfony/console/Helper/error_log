@@ -1,0 +1,176 @@
+[29-Nov-2025 07:11:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[29-Nov-2025 13:07:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php on line 22
+[29-Nov-2025 13:09:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[29-Nov-2025 14:33:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[29-Nov-2025 16:08:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[29-Nov-2025 17:27:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[29-Nov-2025 20:58:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[29-Nov-2025 22:02:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php on line 22
+[31-Jan-2026 07:32:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[31-Jan-2026 13:14:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[31-Jan-2026 13:15:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php on line 22
+[31-Jan-2026 14:27:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[31-Jan-2026 16:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[31-Jan-2026 17:29:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[31-Jan-2026 20:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[31-Jan-2026 22:05:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php on line 22
+[01-Feb-2026 07:10:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/ProcessHelper.php on line 26
+[03-Feb-2026 14:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[03-Feb-2026 14:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php on line 22
+[03-Feb-2026 14:49:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[03-Feb-2026 14:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[03-Feb-2026 14:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[03-Feb-2026 14:52:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[03-Feb-2026 15:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[03-Feb-2026 15:02:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php on line 22
+[03-Feb-2026 15:05:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/ProcessHelper.php on line 26
+[25-Feb-2026 04:30:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[25-Feb-2026 04:55:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[25-Feb-2026 10:14:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[25-Feb-2026 10:15:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php on line 22
+[25-Feb-2026 10:41:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/InputAwareHelper.php on line 22
+[25-Feb-2026 10:42:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[25-Feb-2026 11:31:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[25-Feb-2026 11:54:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[25-Feb-2026 13:02:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[25-Feb-2026 13:38:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[25-Feb-2026 14:31:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[25-Feb-2026 15:04:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[25-Feb-2026 18:08:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[25-Feb-2026 18:39:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[25-Feb-2026 19:14:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php on line 22
+[25-Feb-2026 19:46:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/Helper.php on line 22
+[26-Feb-2026 04:47:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/ProcessHelper.php on line 26
+[26-Feb-2026 05:14:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/website1/public_html/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/website1/public_html/vendor/symfony/console/Helper/ProcessHelper.php on line 26

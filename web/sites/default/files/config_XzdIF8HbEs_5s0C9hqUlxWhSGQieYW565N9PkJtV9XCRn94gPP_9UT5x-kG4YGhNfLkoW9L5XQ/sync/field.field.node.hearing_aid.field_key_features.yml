@@ -1,0 +1,26 @@
+uuid: 3c8ecf6f-f105-4e87-8467-27ed1c3014d9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_key_features
+    - filter.format.full_html
+    - node.type.hearing_aid
+  module:
+    - text
+id: node.hearing_aid.field_key_features
+field_name: field_key_features
+entity_type: node
+bundle: hearing_aid
+label: 'Key Features'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+  required_summary: false
+  allowed_formats:
+    - full_html
+field_type: text_with_summary

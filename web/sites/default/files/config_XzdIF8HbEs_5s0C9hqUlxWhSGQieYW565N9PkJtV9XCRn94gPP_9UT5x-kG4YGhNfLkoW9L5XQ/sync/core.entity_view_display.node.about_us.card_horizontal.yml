@@ -1,0 +1,98 @@
+uuid: 27270a5b-c9d9-44d9-9a1a-ec9f2c945422
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.card_horizontal
+    - field.field.node.about_us.body
+    - field.field.node.about_us.field_media_image
+    - field.field.node.about_us.field_section
+    - node.type.about_us
+  module:
+    - field_group
+    - layout_builder
+    - manage_display
+    - text
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+  field_group:
+    group_card:
+      children:
+        - field_media_image
+        - group_card_body
+      label: Card
+      parent_name: ''
+      region: content
+      weight: 0
+      format_type: html_element
+      format_settings:
+        classes: card-horizontal-about-wrapper
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+    group_card_body:
+      children:
+        - title
+        - body
+      label: 'Card Body'
+      parent_name: group_card
+      region: content
+      weight: 2
+      format_type: html_element
+      format_settings:
+        classes: card-about-horizontal-body
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+id: node.about_us.card_horizontal
+targetEntityType: node
+bundle: about_us
+mode: card_horizontal
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  field_media_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  title:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: false
+      tag: h2
+    third_party_settings: {  }
+    weight: 3
+    region: content
+hidden:
+  created: true
+  extra_field_readmore_extrafield: true
+  field_section: true
+  links: true
+  uid: true

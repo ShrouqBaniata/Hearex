@@ -1,0 +1,601 @@
+uuid: eebc726b-436f-4f72-9bf5-ac538e512689
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.full
+    - field.field.node.hearing_aid.body
+    - field.field.node.hearing_aid.field_category
+    - field.field.node.hearing_aid.field_images
+    - field.field.node.hearing_aid.field_key_features
+    - field.field.node.hearing_aid.field_link_to_website
+    - field.field.node.hearing_aid.field_pdf
+    - field.field.node.hearing_aid.field_specifications
+    - node.type.hearing_aid
+  module:
+    - bootstrap_layout_builder
+    - layout_builder
+    - manage_display
+    - sc_swiper
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: false
+    sections:
+      -
+        layout_id: 'bootstrap_layout_builder:blb_col_2'
+        layout_settings:
+          label: ''
+          container_wrapper_classes: ''
+          container_wrapper_attributes: null
+          container_wrapper:
+            bootstrap_styles:
+              background:
+                background_type: video
+              background_color:
+                class: null
+              background_media:
+                image:
+                  media_id: ''
+                video:
+                  media_id: ''
+                background_options:
+                  background_position: center
+                  background_repeat: no-repeat
+                  background_attachment: not_fixed
+                  background_size: cover
+              text_color:
+                class: null
+              padding:
+                class: _none
+              padding_left:
+                class: _none
+              padding_top:
+                class: _none
+              padding_right:
+                class: _none
+              padding_bottom:
+                class: _none
+              margin:
+                class: _none
+              margin_left:
+                class: _none
+              margin_top:
+                class: _none
+              margin_right:
+                class: _none
+              margin_bottom:
+                class: _none
+              border:
+                border_style:
+                  class: null
+                border_width:
+                  class: _none
+                border_color:
+                  class: null
+                rounded_corners:
+                  class: _none
+                border_left_style:
+                  class: null
+                border_left_width:
+                  class: _none
+                border_left_color:
+                  class: null
+                border_top_style:
+                  class: null
+                border_top_width:
+                  class: _none
+                border_top_color:
+                  class: null
+                border_right_style:
+                  class: null
+                border_right_width:
+                  class: _none
+                border_right_color:
+                  class: null
+                border_bottom_style:
+                  class: null
+                border_bottom_width:
+                  class: _none
+                border_bottom_color:
+                  class: null
+                rounded_corner_top_left:
+                  class: _none
+                rounded_corner_top_right:
+                  class: _none
+                rounded_corner_bottom_left:
+                  class: _none
+                rounded_corner_bottom_right:
+                  class: _none
+              scroll_effects:
+                class: null
+              text_alignment:
+                class: null
+              box_shadow:
+                class: null
+          container_wrapper_bg_color_class: ''
+          container_wrapper_bg_media: null
+          container: container
+          section_classes: ''
+          section_attributes: null
+          regions_classes:
+            blb_region_col_1: product-gallery
+            blb_region_col_2: ''
+          regions_attributes:
+            blb_region_col_1: null
+            blb_region_col_2: null
+          breakpoints:
+            desktop: blb_col_6_6
+            tablet: blb_col_6_6
+            mobile: blb_col_12
+          layout_regions_classes:
+            blb_region_col_1:
+              - col-lg-6
+              - col-md-6
+              - col-12
+            blb_region_col_2:
+              - col-lg-6
+              - col-md-6
+              - col-12
+          remove_gutters: '0'
+          context_mapping: {  }
+        components:
+          02beab4d-d837-4118-a341-0034ad3b325f:
+            uuid: 02beab4d-d837-4118-a341-0034ad3b325f
+            region: blb_region_col_1
+            configuration:
+              id: 'field_block:node:hearing_aid:field_images'
+              label: Images
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: swiper_entity_reference
+                label: above
+                settings:
+                  view_mode: default
+                  autoplay: 0
+                  speed: '1500'
+                  loop: 1
+                  breakpointMobile: '1'
+                  itemsMobile: '1'
+                  breakpointTablet: '768'
+                  itemsTablet: '1'
+                  breakpointDesktop: '1200'
+                  itemsDesktop: '1'
+                  navigation: 1
+                  scrollbar: 0
+                  pagination: 0
+                  effect: ''
+                  clickable_pagination: 0
+                  pagination_type: bullets
+                  delay: '3000'
+                  spaceBetween: '24'
+                  pauseOnMouseEnter: 1
+                  allowTouchMove: 0
+                  spaceBetweenMobile: '24'
+                  spaceBetweenTablet: '24'
+                  spaceBetweenDesktop: '24'
+                third_party_settings:
+                  field_formatter_class:
+                    class: product-gallery
+                  linked_field:
+                    linked: 0
+                    type: field
+                    destination:
+                      field: ''
+                      custom: ''
+                    advanced:
+                      title: ''
+                      target: ''
+                      class: ''
+                      rel: ''
+                      text: ''
+                    token: ''
+            weight: 0
+            additional: {  }
+          6a06bfdf-da91-42ee-b82c-634c0fe22bb6:
+            uuid: 6a06bfdf-da91-42ee-b82c-634c0fe22bb6
+            region: blb_region_col_2
+            configuration:
+              id: 'field_block:node:hearing_aid:title'
+              label: Title
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: title
+                label: hidden
+                settings:
+                  link_to_entity: false
+                  tag: h2
+                third_party_settings:
+                  field_formatter_class:
+                    class: product-title
+                  linked_field:
+                    linked: 0
+                    type: custom
+                    destination:
+                      field:
+                        field: ''
+                        custom:
+                          custom: ''
+                      custom: ''
+                    advanced:
+                      title: ''
+                      target: ''
+                      class: ''
+                      rel: ''
+                      text: ''
+                    token: ''
+            weight: 1
+            additional: {  }
+          89004750-6f85-4838-9062-fa249c8717fc:
+            uuid: 89004750-6f85-4838-9062-fa249c8717fc
+            region: blb_region_col_2
+            configuration:
+              id: 'field_block:node:hearing_aid:body'
+              label: Body
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: text_default
+                label: hidden
+                settings: {  }
+                third_party_settings:
+                  field_formatter_class:
+                    class: product-description
+                  linked_field:
+                    linked: 0
+                    type: field
+                    destination:
+                      field: ''
+                      custom: ''
+                    advanced:
+                      title: ''
+                      target: ''
+                      class: ''
+                      rel: ''
+                      text: ''
+                    token: ''
+            weight: 2
+            additional: {  }
+          b3e364d5-e45a-48d4-8075-42e4b776948d:
+            uuid: b3e364d5-e45a-48d4-8075-42e4b776948d
+            region: blb_region_col_2
+            configuration:
+              id: 'field_block:node:hearing_aid:field_category'
+              label: Category
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_label
+                label: hidden
+                settings:
+                  link: false
+                third_party_settings:
+                  field_formatter_class:
+                    class: product-category
+                  linked_field:
+                    linked: 0
+                    type: field
+                    destination:
+                      field: ''
+                      custom: ''
+                    advanced:
+                      title: ''
+                      target: ''
+                      class: ''
+                      rel: ''
+                      text: ''
+                    token: ''
+            weight: 0
+            additional: {  }
+          576f843d-e73d-4aed-b9c9-68bbed2fe040:
+            uuid: 576f843d-e73d-4aed-b9c9-68bbed2fe040
+            region: blb_region_col_2
+            configuration:
+              id: 'field_block:node:hearing_aid:title'
+              label: Title
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: field_link
+                label: above
+                settings:
+                  type: string
+                  settings:
+                    link_to_entity: false
+                third_party_settings:
+                  field_formatter_class:
+                    class: link-website
+                  linked_field:
+                    linked: 1
+                    type: custom
+                    destination:
+                      field:
+                        field: ''
+                        custom:
+                          custom: 'Array [node:field_link_to_website:uri]'
+                      custom: 'Array [node:field_link_to_website:uri]'
+                    advanced:
+                      title: ''
+                      target: ''
+                      class: ''
+                      rel: ''
+                      text: 'view website'
+                    token: ''
+            weight: 6
+            additional:
+              component_attributes:
+                block_attributes:
+                  id: ''
+                  class: website-block
+                  style: ''
+                  data: ''
+                block_title_attributes:
+                  id: ''
+                  class: ''
+                  style: ''
+                  data: ''
+                block_content_attributes:
+                  id: ''
+                  class: ''
+                  style: ''
+                  data: ''
+          80608b94-1126-4a21-bb81-c33f7aab500e:
+            uuid: 80608b94-1126-4a21-bb81-c33f7aab500e
+            region: blb_region_col_2
+            configuration:
+              id: 'field_block:node:hearing_aid:field_pdf'
+              label: PDF
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: entity_reference_entity_view
+                label: hidden
+                settings:
+                  view_mode: default
+                third_party_settings:
+                  field_formatter_class:
+                    class: link-pdf
+                  linked_field:
+                    linked: 0
+                    type: field
+                    destination:
+                      field: ''
+                      custom: ''
+                    advanced:
+                      title: ''
+                      target: ''
+                      class: ''
+                      rel: ''
+                      text: ''
+                    token: ''
+            weight: 7
+            additional: {  }
+          b58f167c-27b6-4dce-904c-6fe78f82e95f:
+            uuid: b58f167c-27b6-4dce-904c-6fe78f82e95f
+            region: blb_region_col_2
+            configuration:
+              id: 'field_block:node:hearing_aid:field_key_features'
+              label: 'Key Features'
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: text_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 5
+            additional: {  }
+        third_party_settings: {  }
+      -
+        layout_id: 'bootstrap_layout_builder:blb_col_1'
+        layout_settings:
+          label: ''
+          container_wrapper_classes: ''
+          container_wrapper_attributes: null
+          container_wrapper:
+            bootstrap_styles:
+              background:
+                background_type: null
+              background_color:
+                class: null
+              background_media:
+                image:
+                  media_id: null
+                video:
+                  media_id: null
+                background_options:
+                  background_position: center
+                  background_repeat: no-repeat
+                  background_attachment: not_fixed
+                  background_size: cover
+              text_color:
+                class: null
+              padding:
+                class: _none
+              padding_left:
+                class: _none
+              padding_top:
+                class: _none
+              padding_right:
+                class: _none
+              padding_bottom:
+                class: _none
+              margin:
+                class: _none
+              margin_left:
+                class: _none
+              margin_top:
+                class: _none
+              margin_right:
+                class: _none
+              margin_bottom:
+                class: _none
+              border:
+                border_style:
+                  class: null
+                border_width:
+                  class: _none
+                border_color:
+                  class: null
+                rounded_corners:
+                  class: _none
+                border_left_style:
+                  class: null
+                border_left_width:
+                  class: _none
+                border_left_color:
+                  class: null
+                border_top_style:
+                  class: null
+                border_top_width:
+                  class: _none
+                border_top_color:
+                  class: null
+                border_right_style:
+                  class: null
+                border_right_width:
+                  class: _none
+                border_right_color:
+                  class: null
+                border_bottom_style:
+                  class: null
+                border_bottom_width:
+                  class: _none
+                border_bottom_color:
+                  class: null
+                rounded_corner_top_left:
+                  class: _none
+                rounded_corner_top_right:
+                  class: _none
+                rounded_corner_bottom_left:
+                  class: _none
+                rounded_corner_bottom_right:
+                  class: _none
+              scroll_effects:
+                class: null
+              text_alignment:
+                class: null
+              box_shadow:
+                class: null
+          container_wrapper_bg_color_class: ''
+          container_wrapper_bg_media: null
+          container: container
+          section_classes: ''
+          section_attributes: null
+          regions_classes:
+            blb_region_col_1: ''
+          regions_attributes:
+            blb_region_col_1: null
+          breakpoints: {  }
+          layout_regions_classes: {  }
+          remove_gutters: '0'
+          context_mapping: {  }
+        components:
+          6681db56-f549-4449-ba32-74fcc3ad236d:
+            uuid: 6681db56-f549-4449-ba32-74fcc3ad236d
+            region: blb_region_col_1
+            configuration:
+              id: 'field_block:node:hearing_aid:field_specifications'
+              label: Specifications
+              label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+              formatter:
+                type: text_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 0
+            additional: {  }
+        third_party_settings: {  }
+id: node.hearing_aid.full
+targetEntityType: node
+bundle: hearing_aid
+mode: full
+content:
+  extra_field_readmore_extrafield:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  field_images:
+    type: swiper_entity_reference
+    label: hidden
+    settings:
+      view_mode: default
+      autoplay: 1
+      speed: '1500'
+      loop: 0
+      breakpointMobile: '1'
+      itemsMobile: '1'
+      breakpointTablet: '768'
+      itemsTablet: '1'
+      breakpointDesktop: '1200'
+      itemsDesktop: '1'
+      navigation: 1
+      scrollbar: 0
+      pagination: 0
+      effect: ''
+      clickable_pagination: 0
+      pagination_type: bullets
+      delay: '3000'
+      spaceBetween: '0'
+      pauseOnMouseEnter: 0
+      allowTouchMove: 0
+      spaceBetweenMobile: '-1'
+      spaceBetweenTablet: '0'
+      spaceBetweenDesktop: '0'
+      link: false
+      fadeEffect:
+        crossFade: true
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  title:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: true
+      tag: h2
+    third_party_settings: {  }
+    weight: -49
+    region: content
+hidden:
+  body: true
+  created: true
+  field_category: true
+  field_key_features: true
+  field_link_to_website: true
+  field_pdf: true
+  field_specifications: true
+  uid: true

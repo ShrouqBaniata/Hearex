@@ -1,0 +1,21 @@
+uuid: 3263d489-8810-4052-a55b-c77ba95a4df0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_section
+    - node.type.about_us
+  module:
+    - options
+id: node.about_us.field_section
+field_name: field_section
+entity_type: node
+bundle: about_us
+label: Section
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

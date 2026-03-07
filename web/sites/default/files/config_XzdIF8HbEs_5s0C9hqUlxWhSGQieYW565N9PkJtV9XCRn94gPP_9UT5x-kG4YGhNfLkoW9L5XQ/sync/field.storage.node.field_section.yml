@@ -1,0 +1,33 @@
+uuid: 038ded32-2b80-4cb9-8687-3779b4cd49a2
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_section
+field_name: field_section
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: home_page
+      label: 'Home Page'
+    -
+      value: inner_page
+      label: 'Inner page'
+    -
+      value: vision_and_mission
+      label: 'Vision and Mission'
+    -
+      value: cores_value_description
+      label: 'Cores value'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

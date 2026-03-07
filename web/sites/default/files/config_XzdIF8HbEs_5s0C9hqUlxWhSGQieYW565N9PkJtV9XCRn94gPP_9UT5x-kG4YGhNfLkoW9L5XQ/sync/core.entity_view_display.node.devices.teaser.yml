@@ -1,0 +1,54 @@
+uuid: e7a0c7b0-03b4-4be7-a175-0e37625bfacf
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.devices.body
+    - field.field.node.devices.field_images
+    - field.field.node.devices.field_link_to_website
+    - field.field.node.devices.field_media_image
+    - field.field.node.devices.field_specifications
+    - node.type.devices
+  module:
+    - manage_display
+    - text
+id: node.devices.teaser
+targetEntityType: node
+bundle: devices
+mode: teaser
+content:
+  body:
+    type: text_summary_or_trimmed
+    label: hidden
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  extra_field_readmore_extrafield:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  title:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: true
+      tag: h2
+    third_party_settings: {  }
+    weight: -49
+    region: content
+hidden:
+  created: true
+  field_images: true
+  field_link_to_website: true
+  field_media_image: true
+  field_specifications: true
+  uid: true

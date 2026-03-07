@@ -1,0 +1,25 @@
+uuid: c1170bcd-68a2-44c7-9863-001e22560bef
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.social-media-menu
+  module:
+    - system
+  theme:
+    - bootstrap_barrio_subtheme
+id: bootstrap_barrio_subtheme_socialmediamenu_2
+theme: bootstrap_barrio_subtheme
+region: footer_third
+weight: -9
+provider: null
+plugin: 'system_menu_block:social-media-menu'
+settings:
+  id: 'system_menu_block:social-media-menu'
+  label: 'Follow Us'
+  label_display: visible
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

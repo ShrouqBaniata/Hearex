@@ -1,0 +1,23 @@
+uuid: e2058db8-3ebb-49c9-9656-8b1eea931b1a
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.full
+    - field.field.node.layout_page.body
+    - node.type.layout_page
+  module:
+    - layout_builder
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: true
+id: node.layout_page.full
+targetEntityType: node
+bundle: layout_page
+mode: full
+content: {  }
+hidden:
+  body: true
+  links: true

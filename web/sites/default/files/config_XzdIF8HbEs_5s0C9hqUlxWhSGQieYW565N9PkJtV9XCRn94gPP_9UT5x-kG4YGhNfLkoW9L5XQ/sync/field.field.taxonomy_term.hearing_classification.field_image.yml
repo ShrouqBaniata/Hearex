@@ -1,0 +1,29 @@
+uuid: fb690add-0c91-45cf-90bd-19d4e8cce57f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_image
+    - media.type.image
+    - taxonomy.vocabulary.hearing_classification
+id: taxonomy_term.hearing_classification.field_image
+field_name: field_image
+entity_type: taxonomy_term
+bundle: hearing_classification
+label: Image
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings:
+    target_bundles:
+      image: image
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

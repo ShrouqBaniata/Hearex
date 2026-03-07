@@ -1,0 +1,25 @@
+uuid: 45d0ad43-06ad-4eaf-9cb2-e787b845313d
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:50d5d0e0-03ab-4d82-8e87-37f94c33dc0a'
+  module:
+    - block_content
+  theme:
+    - bootstrap_barrio_subtheme
+id: bootstrap_barrio_subtheme_copy
+theme: bootstrap_barrio_subtheme
+region: footer_fifth
+weight: 0
+provider: null
+plugin: 'block_content:50d5d0e0-03ab-4d82-8e87-37f94c33dc0a'
+settings:
+  id: 'block_content:50d5d0e0-03ab-4d82-8e87-37f94c33dc0a'
+  label: Copy
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

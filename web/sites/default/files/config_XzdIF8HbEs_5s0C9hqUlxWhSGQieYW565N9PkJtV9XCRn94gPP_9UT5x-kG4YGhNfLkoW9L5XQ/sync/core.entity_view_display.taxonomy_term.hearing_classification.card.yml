@@ -1,0 +1,177 @@
+uuid: 375ee7bc-115d-40c1-a1f2-5e46bb4b529f
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.taxonomy_term.card
+    - field.field.taxonomy_term.hearing_classification.field_card_description
+    - field.field.taxonomy_term.hearing_classification.field_icon
+    - field.field.taxonomy_term.hearing_classification.field_image
+    - taxonomy.vocabulary.hearing_classification
+  module:
+    - field_formatter
+    - field_formatter_class
+    - field_group
+    - layout_builder
+    - linked_field
+    - manage_display
+    - svg_image
+    - text
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+  field_group:
+    group_card:
+      children:
+        - group_card_image
+        - group_card_body
+      label: Card
+      parent_name: ''
+      region: content
+      weight: 0
+      format_type: html_element
+      format_settings:
+        classes: product-card-wrapper
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+    group_card_image:
+      children:
+        - field_icon
+        - field_image
+      label: 'card image'
+      parent_name: group_card
+      region: content
+      weight: 6
+      format_type: html_element
+      format_settings:
+        classes: product-card-image
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+    group_card_body:
+      children:
+        - name
+        - field_card_description
+        - description
+      label: 'Card Body'
+      parent_name: group_card
+      region: content
+      weight: 7
+      format_type: html_element
+      format_settings:
+        classes: product-card-body
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+id: taxonomy_term.hearing_classification.card
+targetEntityType: taxonomy_term
+bundle: hearing_classification
+mode: card
+content:
+  description:
+    type: field_link
+    label: hidden
+    settings:
+      type: text_default
+      settings: {  }
+    third_party_settings:
+      field_formatter_class:
+        class: ''
+      linked_field:
+        linked: '1'
+        type: custom
+        destination: 'internal:/our-hearing-aid?tid=[term:tid]'
+        advanced:
+          class: link-page
+          text: 'View Product'
+        token: ''
+    weight: 3
+    region: content
+  field_card_description:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_icon:
+    type: image
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: ''
+      image_loading:
+        attribute: lazy
+      svg_attributes:
+        width: null
+        height: null
+      svg_render_as_image: true
+    third_party_settings:
+      field_formatter_class:
+        class: ''
+      linked_field:
+        linked: '1'
+        type: custom
+        destination: 'internal:/our-hearing-aid?tid=[term:tid]'
+        advanced: {  }
+        token: ''
+    weight: 4
+    region: content
+  field_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings:
+      field_formatter_class:
+        class: ''
+      linked_field:
+        linked: '1'
+        type: custom
+        destination: 'internal:/our-hearing-aid?tid=[term:tid]'
+        advanced: {  }
+        token: ''
+    weight: 5
+    region: content
+  name:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: false
+      tag: h2
+    third_party_settings:
+      field_formatter_class:
+        class: ''
+      linked_field:
+        linked: '1'
+        type: custom
+        destination: 'internal:/our-hearing-aid?tid=[term:tid]'
+        advanced: {  }
+        token: ''
+    weight: 1
+    region: content
+hidden: {  }

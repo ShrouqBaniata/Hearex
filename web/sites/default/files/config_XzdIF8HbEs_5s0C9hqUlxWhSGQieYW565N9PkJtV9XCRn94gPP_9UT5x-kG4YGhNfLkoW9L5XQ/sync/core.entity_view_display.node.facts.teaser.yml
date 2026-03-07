@@ -1,0 +1,37 @@
+uuid: c9d385a5-31e9-42de-a157-a585efc71c16
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.facts.field_media_image
+    - field.field.node.facts.field_text_1
+    - field.field.node.facts.field_text_2
+    - node.type.facts
+  module:
+    - manage_display
+id: node.facts.teaser
+targetEntityType: node
+bundle: facts
+mode: teaser
+content:
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  title:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: true
+      tag: h2
+    third_party_settings: {  }
+    weight: -49
+    region: content
+hidden:
+  created: true
+  field_media_image: true
+  field_text_1: true
+  field_text_2: true
+  uid: true

@@ -895,6 +895,7 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 
 // Show all error messages on screen.
 $config['system.logging']['error_level'] = 'verbose';
+$settings['config_sync_directory'] = '../config/sync';
 
 // Enable PHP error reporting.
 error_reporting(E_ALL);

@@ -1,0 +1,103 @@
+uuid: 27bceed1-6096-49b3-bd71-d4eba42a76c2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.hearing_aid.body
+    - field.field.node.hearing_aid.field_category
+    - field.field.node.hearing_aid.field_images
+    - field.field.node.hearing_aid.field_key_features
+    - field.field.node.hearing_aid.field_link_to_website
+    - field.field.node.hearing_aid.field_pdf
+    - field.field.node.hearing_aid.field_specifications
+    - node.type.hearing_aid
+  module:
+    - link
+    - manage_display
+    - text
+id: node.hearing_aid.default
+targetEntityType: node
+bundle: hearing_aid
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  extra_field_readmore_extrafield:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  field_category:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 107
+    region: content
+  field_images:
+    type: entity_reference_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  field_key_features:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 104
+    region: content
+  field_link_to_website:
+    type: link
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    weight: 106
+    region: content
+  field_pdf:
+    type: entity_reference_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 105
+    region: content
+  field_specifications:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  title:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: true
+      tag: h2
+    third_party_settings: {  }
+    weight: -49
+    region: content
+hidden:
+  created: true
+  uid: true

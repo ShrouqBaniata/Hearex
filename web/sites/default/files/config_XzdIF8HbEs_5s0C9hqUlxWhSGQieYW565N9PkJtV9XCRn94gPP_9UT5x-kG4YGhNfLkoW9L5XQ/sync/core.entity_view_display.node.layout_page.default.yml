@@ -1,0 +1,30 @@
+uuid: 721eade5-6e59-481e-a436-e4a1e5a056cf
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.layout_page.body
+    - field.field.node.layout_page.layout_builder__layout
+    - node.type.layout_page
+  module:
+    - text
+    - user
+id: node.layout_page.default
+targetEntityType: node
+bundle: layout_page
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  layout_builder__layout: true

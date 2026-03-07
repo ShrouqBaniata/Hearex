@@ -1,0 +1,25 @@
+uuid: bc9bc66d-c9c3-4bd1-9c07-0732acd64301
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:ad78309d-a6ec-4d43-b987-54b8d1ecb648'
+  module:
+    - block_content
+  theme:
+    - bootstrap_barrio_subtheme
+id: bootstrap_barrio_subtheme_officehours
+theme: bootstrap_barrio_subtheme
+region: footer_fourth
+weight: 0
+provider: null
+plugin: 'block_content:ad78309d-a6ec-4d43-b987-54b8d1ecb648'
+settings:
+  id: 'block_content:ad78309d-a6ec-4d43-b987-54b8d1ecb648'
+  label: 'Office Hours'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

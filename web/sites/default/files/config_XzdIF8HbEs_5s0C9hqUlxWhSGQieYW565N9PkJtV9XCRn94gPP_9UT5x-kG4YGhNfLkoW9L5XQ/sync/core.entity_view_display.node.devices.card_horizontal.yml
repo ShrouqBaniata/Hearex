@@ -1,0 +1,54 @@
+uuid: 2e11bd14-f504-4fa4-8c14-3ecefc32ce1f
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.card_horizontal
+    - field.field.node.devices.body
+    - field.field.node.devices.field_images
+    - field.field.node.devices.field_link_to_website
+    - field.field.node.devices.field_media_image
+    - field.field.node.devices.field_specifications
+    - node.type.devices
+  module:
+    - manage_display
+id: node.devices.card_horizontal
+targetEntityType: node
+bundle: devices
+mode: card_horizontal
+content:
+  extra_field_readmore_extrafield:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  field_media_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  title:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: true
+      tag: h2
+    third_party_settings: {  }
+    weight: -49
+    region: content
+hidden:
+  body: true
+  created: true
+  field_images: true
+  field_link_to_website: true
+  field_specifications: true
+  uid: true

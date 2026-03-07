@@ -1,0 +1,23 @@
+uuid: 5c8192e0-6d51-4b20-8fdf-2b14b4788fc9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_link_to_website
+    - node.type.devices
+  module:
+    - link
+id: node.devices.field_link_to_website
+field_name: field_link_to_website
+entity_type: node
+bundle: devices
+label: 'Link to website'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  title: 0
+  link_type: 17
+field_type: link

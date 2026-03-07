@@ -1,0 +1,23 @@
+uuid: 7aba75f6-12d3-4157-906f-1f499c183e91
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_link_to_website
+    - node.type.hearing_aid
+  module:
+    - link
+id: node.hearing_aid.field_link_to_website
+field_name: field_link_to_website
+entity_type: node
+bundle: hearing_aid
+label: 'Link to website'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  title: 0
+  link_type: 17
+field_type: link

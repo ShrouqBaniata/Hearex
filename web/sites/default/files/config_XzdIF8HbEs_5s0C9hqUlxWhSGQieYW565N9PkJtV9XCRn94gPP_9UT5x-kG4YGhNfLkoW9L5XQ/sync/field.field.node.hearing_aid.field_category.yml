@@ -1,0 +1,29 @@
+uuid: 5e1e6241-dac7-46e2-b511-814f5aec8dab
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_category
+    - node.type.hearing_aid
+    - taxonomy.vocabulary.hearing_classification
+id: node.hearing_aid.field_category
+field_name: field_category
+entity_type: node
+bundle: hearing_aid
+label: Category
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      hearing_classification: hearing_classification
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

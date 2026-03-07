@@ -1,0 +1,26 @@
+uuid: 0477b5cc-5857-45d6-8f57-67d389c612e3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_specifications
+    - filter.format.full_html
+    - node.type.hearing_aid
+  module:
+    - text
+id: node.hearing_aid.field_specifications
+field_name: field_specifications
+entity_type: node
+bundle: hearing_aid
+label: Specifications
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+  required_summary: false
+  allowed_formats:
+    - full_html
+field_type: text_with_summary

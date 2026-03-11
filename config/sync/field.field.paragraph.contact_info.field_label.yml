@@ -1,0 +1,19 @@
+uuid: b72ed307-143f-4edf-908c-625f711c765c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_label
+    - paragraphs.paragraphs_type.contact_info
+id: paragraph.contact_info.field_label
+field_name: field_label
+entity_type: paragraph
+bundle: contact_info
+label: label
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,46 @@
+uuid: 946ecdf9-20a9-4d0e-bcba-5b7c4516d470
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.hero_slider.body
+    - field.field.node.hero_slider.field_media_image
+    - node.type.hero_slider
+  module:
+    - manage_display
+    - text
+id: node.hero_slider.default
+targetEntityType: node
+bundle: hero_slider
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_media_image:
+    type: entity_reference_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  title:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: true
+      tag: h2
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  extra_field_readmore_extrafield: true
+  links: true
+  uid: true

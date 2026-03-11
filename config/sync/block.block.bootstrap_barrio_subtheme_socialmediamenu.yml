@@ -1,0 +1,25 @@
+uuid: f385b6ac-a0f9-48c2-b4a9-e1b2b843fb8d
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.social-media-menu
+  module:
+    - system
+  theme:
+    - bootstrap_barrio_subtheme
+id: bootstrap_barrio_subtheme_socialmediamenu
+theme: bootstrap_barrio_subtheme
+region: primary_menu
+weight: 0
+provider: null
+plugin: 'system_menu_block:social-media-menu'
+settings:
+  id: 'system_menu_block:social-media-menu'
+  label: 'social media menu'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

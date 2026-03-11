@@ -1,0 +1,124 @@
+uuid: 0a82f1e8-dedf-4b3b-80b6-9bfa401b8f7a
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.card
+    - field.field.node.facts.field_media_image
+    - field.field.node.facts.field_text_1
+    - field.field.node.facts.field_text_2
+    - node.type.facts
+  module:
+    - field_group
+    - layout_builder
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+  field_group:
+    group_card_wrapper:
+      children:
+        - field_media_image
+        - group_card_body
+        - group_fact
+        - title
+      label: 'Card wrapper '
+      parent_name: ''
+      region: content
+      weight: 0
+      format_type: html_element
+      format_settings:
+        classes: card-fact-wrapper
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+    group_card_body:
+      children: {  }
+      label: 'Card Body'
+      parent_name: group_card_wrapper
+      region: content
+      weight: 3
+      format_type: html_element
+      format_settings:
+        classes: card-fact-body
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+    group_fact:
+      children:
+        - field_text_1
+        - field_text_2
+      label: fact
+      parent_name: group_card_wrapper
+      region: content
+      weight: 4
+      format_type: html_element
+      format_settings:
+        classes: fact
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+id: node.facts.card
+targetEntityType: node
+bundle: facts
+mode: card
+content:
+  field_media_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_text_1:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_text_2:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  title:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 5
+    region: content
+hidden:
+  created: true
+  extra_field_readmore_extrafield: true
+  links: true
+  uid: true

@@ -1,0 +1,9 @@
+uuid: fc1a8edc-48e9-418e-b5ef-ce953b42377c
+langcode: en
+status: true
+dependencies: {  }
+name: 'Hearing classification'
+vid: hearing_classification
+description: null
+weight: 0
+new_revision: false

@@ -1,0 +1,139 @@
+uuid: d9498ecf-fc76-4705-a145-101e3cbe6aad
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.card
+    - field.field.node.devices.body
+    - field.field.node.devices.field_images
+    - field.field.node.devices.field_link_to_website
+    - field.field.node.devices.field_media_image
+    - field.field.node.devices.field_specifications
+    - node.type.devices
+  module:
+    - field_formatter_class
+    - field_group
+    - field_limiter
+    - manage_display
+    - text
+third_party_settings:
+  field_group:
+    group_card:
+      children:
+        - group_card_image
+        - group_card_body
+      label: Card
+      parent_name: ''
+      region: content
+      weight: 0
+      format_type: html_element
+      format_settings:
+        classes: 'product-card-wrapper images-product'
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+    group_card_image:
+      children:
+        - field_images
+        - field_media_image
+      label: 'card image'
+      parent_name: group_card
+      region: content
+      weight: 5
+      format_type: html_element
+      format_settings:
+        classes: product-card-image
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+    group_card_body:
+      children:
+        - title
+        - field_specifications
+        - extra_field_readmore_extrafield
+      label: 'Card Body'
+      parent_name: group_card
+      region: content
+      weight: 6
+      format_type: html_element
+      format_settings:
+        classes: product-card-body
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+id: node.devices.card
+targetEntityType: node
+bundle: devices
+mode: card
+content:
+  extra_field_readmore_extrafield:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_images:
+    type: field_limiter
+    label: hidden
+    settings:
+      type: entity_reference_entity_view
+      settings:
+        view_mode: default
+      offset: 0
+      limit: 1
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_media_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings:
+      field_formatter_class:
+        class: icon-product
+    weight: 3
+    region: content
+  field_specifications:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  title:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: true
+      tag: h2
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  body: true
+  created: true
+  field_link_to_website: true
+  links: true
+  uid: true

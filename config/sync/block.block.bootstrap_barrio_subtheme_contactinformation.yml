@@ -1,0 +1,25 @@
+uuid: 71b7b896-87f2-4aa1-b26d-5e78645bedb5
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:7e8b6bf9-e4d8-4903-bba8-a6752cc4a76d'
+  module:
+    - block_content
+  theme:
+    - bootstrap_barrio_subtheme
+id: bootstrap_barrio_subtheme_contactinformation
+theme: bootstrap_barrio_subtheme
+region: footer_third
+weight: -10
+provider: null
+plugin: 'block_content:7e8b6bf9-e4d8-4903-bba8-a6752cc4a76d'
+settings:
+  id: 'block_content:7e8b6bf9-e4d8-4903-bba8-a6752cc4a76d'
+  label: 'Contact Information'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

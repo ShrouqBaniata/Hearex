@@ -1,0 +1,25 @@
+uuid: 34f0aa7e-63fd-4e2a-b85f-f50d57e6116b
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:2ca4e66b-6bab-4ba5-aa07-6009e05b337d'
+  module:
+    - block_content
+  theme:
+    - bootstrap_barrio_subtheme
+id: bootstrap_barrio_subtheme_brandlogo
+theme: bootstrap_barrio_subtheme
+region: footer_first
+weight: 0
+provider: null
+plugin: 'block_content:2ca4e66b-6bab-4ba5-aa07-6009e05b337d'
+settings:
+  id: 'block_content:2ca4e66b-6bab-4ba5-aa07-6009e05b337d'
+  label: brand-logo
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

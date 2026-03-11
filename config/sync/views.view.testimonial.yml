@@ -1,0 +1,225 @@
+uuid: 76df46ff-9696-49b1-aaf4-e88cafeb81ba
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.testimonial
+  module:
+    - node
+    - sc_swiper
+    - user
+id: testimonial
+label: testimonial
+module: views
+description: ''
+tag: ''
+base_table: node_field_data
+base_field: nid
+display:
+  default:
+    id: default
+    display_title: Default
+    display_plugin: default
+    position: 0
+    display_options:
+      title: testimonial
+      fields:
+        title:
+          id: title
+          table: node_field_data
+          field: title
+          relationship: none
+          group_type: group
+          admin_label: ''
+          entity_type: node
+          entity_field: title
+          plugin_id: field
+          label: ''
+          exclude: false
+          alter:
+            alter_text: false
+            make_link: false
+            absolute: false
+            word_boundary: false
+            ellipsis: false
+            strip_tags: false
+            trim: false
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: string
+          settings:
+            link_to_entity: true
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+      pager:
+        type: some
+        options:
+          offset: 0
+          items_per_page: 5
+      exposed_form:
+        type: basic
+        options:
+          submit_button: Apply
+          reset_button: false
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sort by'
+          expose_sort_order: true
+          sort_asc_label: Asc
+          sort_desc_label: Desc
+      access:
+        type: perm
+        options:
+          perm: 'access content'
+      cache:
+        type: tag
+        options: {  }
+      empty: {  }
+      sorts:
+        created:
+          id: created
+          table: node_field_data
+          field: created
+          relationship: none
+          group_type: group
+          admin_label: ''
+          entity_type: node
+          entity_field: created
+          plugin_id: date
+          order: DESC
+          expose:
+            label: ''
+            field_identifier: ''
+          exposed: false
+          granularity: second
+      arguments: {  }
+      filters:
+        status:
+          id: status
+          table: node_field_data
+          field: status
+          entity_type: node
+          entity_field: status
+          plugin_id: boolean
+          value: '1'
+          group: 1
+          expose:
+            operator: ''
+        type:
+          id: type
+          table: node_field_data
+          field: type
+          entity_type: node
+          entity_field: type
+          plugin_id: bundle
+          value:
+            testimonial: testimonial
+      style:
+        type: sc_swiper
+        options:
+          row_class: ''
+          default_row_class: true
+          uses_fields: false
+          autoplay: 0
+          speed: '1500'
+          loop: 1
+          breakpointMobile: '1'
+          itemsMobile: '1'
+          breakpointTablet: '768'
+          itemsTablet: '1'
+          breakpointDesktop: '1200'
+          itemsDesktop: '1'
+          navigation: 1
+          scrollbar: 0
+          pagination: 0
+          effect: ''
+          clickable_pagination: 1
+          pagination_type: bullets
+          delay: '3000'
+          spaceBetween: '0'
+          pauseOnMouseEnter: 1
+          allowTouchMove: 0
+          spaceBetweenMobile: '10'
+          spaceBetweenTablet: '10'
+          spaceBetweenDesktop: '10'
+      row:
+        type: 'entity:node'
+        options:
+          relationship: none
+          view_mode: default
+      query:
+        type: views_query
+        options:
+          query_comment: ''
+          disable_sql_rewrite: false
+          distinct: false
+          replica: false
+          query_tags: {  }
+      relationships: {  }
+      css_class: testimonial-section
+      header:
+        area:
+          id: area
+          table: views
+          field: area
+          relationship: none
+          group_type: group
+          admin_label: ''
+          plugin_id: text
+          empty: false
+          content:
+            value: "<h2>What Our Patients Say</h2>\r\nDon't just take our word for it. Hear from the thousands of patients who have experienced life-changing results with our hearing care services."
+            format: basic_html
+          tokenize: false
+      footer: {  }
+      display_extenders: {  }
+    cache_metadata:
+      max-age: -1
+      contexts:
+        - 'languages:language_content'
+        - 'languages:language_interface'
+        - url.path
+        - 'url.query_args:{"navigation":{"nextEl":".swiper-button-next","prevEl":".swiper-button-prev"},"delay":3000,"pauseOnMouseEnter":true,"allowTouchMove":false,"spaceBetween":24,"pagination":{"type":"bullets","clickable":true,"el":".swiper-pagination"},"scrollbar":{"el":".swiper-scrollbar"},"effect":null,"fadeEffect":{"crossFade":true},"loop":false,"speed":1500,"autoplay":false,"breakpoints":{"1":{"slidesPerView":1,"spaceBetween":24},"768":{"slidesPerView":1,"spaceBetween":24},"1200":{"slidesPerView":1,"spaceBetween":24}}}'
+        - 'user.node_grants:view'
+        - user.permissions
+      tags:
+        - 'view_display_id:default'
+        - 'view_id:testimonial'
+  block_1:
+    id: block_1
+    display_title: Block
+    display_plugin: block
+    position: 1
+    display_options:
+      display_extenders: {  }
+    cache_metadata:
+      max-age: -1
+      contexts:
+        - 'languages:language_content'
+        - 'languages:language_interface'
+        - url.path
+        - 'url.query_args:{"navigation":{"nextEl":".swiper-button-next","prevEl":".swiper-button-prev"},"delay":3000,"pauseOnMouseEnter":true,"allowTouchMove":false,"spaceBetween":24,"pagination":{"type":"bullets","clickable":true,"el":".swiper-pagination"},"scrollbar":{"el":".swiper-scrollbar"},"effect":null,"fadeEffect":{"crossFade":true},"loop":false,"speed":1500,"autoplay":false,"breakpoints":{"1":{"slidesPerView":1,"spaceBetween":24},"768":{"slidesPerView":1,"spaceBetween":24},"1200":{"slidesPerView":1,"spaceBetween":24}}}'
+        - 'user.node_grants:view'
+        - user.permissions
+      tags:
+        - 'view_display_id:block_1'
+        - 'view_id:testimonial'

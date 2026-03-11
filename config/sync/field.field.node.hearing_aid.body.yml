@@ -1,0 +1,24 @@
+uuid: 298e05ab-e73c-42ad-bb46-ce99d485c3a6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.hearing_aid
+  module:
+    - text
+id: node.hearing_aid.body
+field_name: body
+entity_type: node
+bundle: hearing_aid
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+  allowed_formats: {  }
+field_type: text_with_summary

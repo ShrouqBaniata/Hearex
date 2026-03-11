@@ -1,0 +1,38 @@
+uuid: 060ec674-bbc8-4cf7-893e-0d98057d2a82
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.contact_us_info.field_contact_info
+    - node.type.contact_us_info
+  module:
+    - manage_display
+id: node.contact_us_info.teaser
+targetEntityType: node
+bundle: contact_us_info
+mode: teaser
+content:
+  extra_field_readmore_extrafield:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+  title:
+    type: title
+    label: hidden
+    settings:
+      link_to_entity: true
+      tag: h2
+    third_party_settings: {  }
+    weight: -49
+    region: content
+hidden:
+  created: true
+  field_contact_info: true
+  uid: true

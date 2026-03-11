@@ -1,0 +1,24 @@
+uuid: 8dd0d473-42db-4175-84f3-70f0257bb0af
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_card_description
+    - filter.format.full_html
+    - taxonomy.vocabulary.hearing_classification
+  module:
+    - text
+id: taxonomy_term.hearing_classification.field_card_description
+field_name: field_card_description
+entity_type: taxonomy_term
+bundle: hearing_classification
+label: 'card description'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  allowed_formats:
+    - full_html
+field_type: text_long

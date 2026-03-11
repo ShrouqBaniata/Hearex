@@ -1,0 +1,26 @@
+uuid: 0a8b6a23-6e6f-4c21-b8dd-b959faeaf1a0
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bootstrap_barrio_subtheme
+_core:
+  default_config_hash: '-vdxmyF9pYgsnWtX0lwpITjJgfdrP_x6T65b-hT2FLg'
+id: bootstrap_barrio_subtheme_page_title
+theme: bootstrap_barrio_subtheme
+region: content
+weight: -7
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility:
+  request_path:
+    id: request_path
+    negate: true
+    pages: "<front>\r\n/about-us\r\n/news\r\n/our-hearing-aid"

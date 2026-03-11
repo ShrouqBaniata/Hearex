@@ -1,0 +1,74 @@
+uuid: e946441d-8491-4b9b-9c13-6552472c176c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.contact_info.field_icon
+    - field.field.paragraph.contact_info.field_icons
+    - field.field.paragraph.contact_info.field_info
+    - field.field.paragraph.contact_info.field_label
+    - paragraphs.paragraphs_type.contact_info
+  module:
+    - field_group
+    - svg_image
+    - text
+third_party_settings:
+  field_group:
+    group_label_wrapper:
+      children:
+        - field_label
+        - field_info
+      label: 'label wrapper '
+      parent_name: ''
+      region: content
+      weight: 1
+      format_type: html_element
+      format_settings:
+        classes: 'label-wrapper '
+        show_empty_fields: false
+        id: ''
+        label_as_html: false
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+id: paragraph.contact_info.default
+targetEntityType: paragraph
+bundle: contact_info
+mode: default
+content:
+  field_icons:
+    type: image
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: ''
+      image_loading:
+        attribute: lazy
+      svg_attributes:
+        width: null
+        height: null
+      svg_render_as_image: true
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_info:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  field_label:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 3
+    region: content
+hidden:
+  field_icon: true

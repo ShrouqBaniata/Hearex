@@ -1,0 +1,31 @@
+uuid: d8ee5064-7f95-4452-ae35-3af5d1f4c652
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_contact_info
+    - node.type.contact_us_info
+    - paragraphs.paragraphs_type.contact_info
+  module:
+    - entity_reference_revisions
+id: node.contact_us_info.field_contact_info
+field_name: field_contact_info
+entity_type: node
+bundle: contact_us_info
+label: 'contact info'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      contact_info: contact_info
+    negate: 0
+    target_bundles_drag_drop:
+      contact_info:
+        weight: 2
+        enabled: true
+field_type: entity_reference_revisions

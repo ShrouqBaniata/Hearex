@@ -1,0 +1,19 @@
+uuid: 02744ad1-c350-4b71-a66a-c98ae5fce99a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_text_1
+    - node.type.facts
+id: node.facts.field_text_1
+field_name: field_text_1
+entity_type: node
+bundle: facts
+label: Number
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

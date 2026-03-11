@@ -1,0 +1,40 @@
+uuid: 319bcc9a-d28d-4b6f-baf2-9354e0fb5c9c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.media.document.field_media_document
+    - media.type.document
+  module:
+    - field_formatter_class
+    - linked_field
+_core:
+  default_config_hash: XxUyhaTuM0OUUZpr8G6jdrFBEh5eag7auWxBKhm6cvY
+id: media.document.default
+targetEntityType: media
+bundle: document
+mode: default
+content:
+  name:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings:
+      field_formatter_class:
+        class: ''
+      linked_field:
+        linked: '1'
+        type: custom
+        destination: '[media:name:value]'
+        advanced:
+          target: _blank
+          text: 'view catalog'
+        token: ''
+    weight: 0
+    region: content
+hidden:
+  created: true
+  field_media_document: true
+  thumbnail: true
+  uid: true
